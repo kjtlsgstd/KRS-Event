@@ -14,8 +14,12 @@ from __future__ import annotations
 import json
 import re
 import hashlib
+from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from typing import Optional
+from urllib.parse import urljoin, urlparse
+from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
 
 try:
     import requests
@@ -30,12 +34,13 @@ EVENTS_FILE = ROOT / "events.json"
 
 HEADERS = {"User-Agent": "KristiansandEventguideBot/0.1 (+personal local event guide)"}
 MIN_SAFE_EVENT_COUNT = 2
+LOCAL_TZ = ZoneInfo("Europe/Oslo")
 
 SEEDED_EVENTS = [
     {
         "id": "seed-kultur-i-kveld",
         "title": "Kultur i kveld: arrangementer i Kristiansand",
-        "date": "2026-07-01",
+        "date": "",
         "time": "",
         "venue": "Kultur i kveld",
         "area": "Kristiansand",
@@ -49,7 +54,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-visit-sorlandet",
         "title": "Visit Sørlandet: hva skjer i regionen",
-        "date": "2026-07-02",
+        "date": "",
         "time": "",
         "venue": "Visit Sørlandet",
         "area": "Kristiansand",
@@ -63,7 +68,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-kvadraturen",
         "title": "Kvadraturen: byliv, marked og sentrumsarrangementer",
-        "date": "2026-07-03",
+        "date": "",
         "time": "",
         "venue": "Kvadraturen",
         "area": "Sentrum",
@@ -77,7 +82,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-kilden",
         "title": "Kilden: konserter, teater og forestillinger",
-        "date": "2026-07-04",
+        "date": "",
         "time": "",
         "venue": "Kilden",
         "area": "Odderøya",
@@ -91,7 +96,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-kunstsilo",
         "title": "Kunstsilo: utstillinger, samtaler og verksteder",
-        "date": "2026-07-05",
+        "date": "",
         "time": "",
         "venue": "Kunstsilo",
         "area": "Odderøya",
@@ -105,7 +110,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-vitensenteret",
         "title": "Vitensenteret Sørlandet: aktiviteter for barn og familie",
-        "date": "2026-07-06",
+        "date": "",
         "time": "",
         "venue": "Vitensenteret Sørlandet",
         "area": "Kristiansand",
@@ -119,7 +124,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-vaktbua",
         "title": "Vaktbua: konserter og klubbkvelder",
-        "date": "2026-07-07",
+        "date": "",
         "time": "",
         "venue": "Vaktbua",
         "area": "Odderøya",
@@ -133,7 +138,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-krs-live",
         "title": "KRS LIVE: konsertprogram",
-        "date": "2026-07-08",
+        "date": "",
         "time": "",
         "venue": "KRS LIVE",
         "area": "Kristiansand",
@@ -147,7 +152,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-teateret",
         "title": "Teateret: standup, show og konserter",
-        "date": "2026-07-09",
+        "date": "",
         "time": "",
         "venue": "Teateret",
         "area": "Sentrum",
@@ -161,7 +166,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-ravnedalen-live",
         "title": "Ravnedalen Live: sommerkonserter",
-        "date": "2026-07-10",
+        "date": "",
         "time": "",
         "venue": "Ravnedalen Live",
         "area": "Ravnedalen",
@@ -175,7 +180,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-maakeskrik",
         "title": "Måkeskrik: festivalprogram",
-        "date": "2026-07-11",
+        "date": "",
         "time": "",
         "venue": "Måkeskrik",
         "area": "Bendiksbukta",
@@ -189,7 +194,7 @@ SEEDED_EVENTS = [
     {
         "id": "seed-palmesus",
         "title": "Palmesus: strandfestival",
-        "date": "2026-07-12",
+        "date": "",
         "time": "",
         "venue": "Palmesus",
         "area": "Bystranda",
@@ -216,6 +221,114 @@ def clean(text: str) -> str:
     return re.sub(r"\s+", " ", text or "").strip()
 
 
+def stable_id(*parts: str) -> str:
+    raw = "|".join(clean(str(part)) for part in parts)
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
+
+
+def fetch_html(url: str) -> str:
+    if requests is not None:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        return r.text
+
+    req = Request(url, headers=HEADERS)
+    with urlopen(req, timeout=20) as response:
+        return response.read().decode("utf-8", "replace")
+
+
+def as_list(value) -> list:
+    return value if isinstance(value, list) else [value]
+
+
+def parse_start(value: str) -> tuple[str, str]:
+    value = clean(value)
+    if not value:
+        return "", ""
+
+    try:
+        if "T" not in value:
+            return datetime.fromisoformat(value).date().isoformat(), ""
+
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if dt.tzinfo is not None:
+            dt = dt.astimezone(LOCAL_TZ)
+        return dt.date().isoformat(), dt.strftime("%H:%M")
+    except ValueError:
+        return "", ""
+
+
+def event_from_schema(item: dict, source: dict) -> Optional[dict]:
+    if not isinstance(item, dict):
+        return None
+    if item.get("@type") != "Event" and "Event" not in as_list(item.get("@type")):
+        return None
+
+    title = clean(item.get("name", ""))
+    date_value, time_value = parse_start(item.get("startDate", ""))
+    url = clean(item.get("url", ""))
+    if not title or not date_value or not url:
+        return None
+
+    location = item.get("location") if isinstance(item.get("location"), dict) else {}
+    address = location.get("address") if isinstance(location.get("address"), dict) else {}
+    venue = clean(location.get("name") or source.get("name", ""))
+    area = clean(address.get("addressLocality") or "Kristiansand")
+    description = clean(item.get("description", ""))
+
+    return normalize_event({
+        "id": f"{urlparse(url).netloc}-{stable_id(title, date_value, venue, url)}",
+        "title": title,
+        "date": date_value,
+        "time": time_value,
+        "venue": venue,
+        "area": area,
+        "category": classify(f"{title} {description}", source),
+        "family": "barn" in f"{title} {description}".lower() or source.get("type") == "family",
+        "price": "",
+        "description": description,
+        "url": url,
+        "source": source["name"],
+    })
+
+
+def parse_schema_events(source: dict) -> list[dict]:
+    html = fetch_html(source["url"])
+    events = []
+    scripts = re.findall(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        html,
+        flags=re.I | re.S,
+    )
+    for script in scripts:
+        try:
+            payload = json.loads(script.strip())
+        except json.JSONDecodeError:
+            continue
+
+        queue = as_list(payload)
+        while queue:
+            item = queue.pop(0)
+            if not isinstance(item, dict):
+                continue
+
+            event = event_from_schema(item, source)
+            if event:
+                events.append(event)
+
+            for key in ("itemListElement", "@graph"):
+                if key in item:
+                    queue.extend(as_list(item[key]))
+            if item.get("@type") == "ListItem" and "item" in item:
+                queue.extend(as_list(item["item"]))
+
+    return dedupe(events)
+
+
+def parse_kultur_i_kveld(source: dict) -> list[dict]:
+    return parse_schema_events(source)
+
+
 def generic_extract_titles(source: dict) -> list[dict]:
     """Very conservative fallback parser.
     It finds likely event links, but does not pretend to know dates if no date is structured.
@@ -240,8 +353,8 @@ def generic_extract_titles(source: dict) -> list[dict]:
             hay = text.lower()
             if not any(k in hay for k in ["konsert", "festival", "barn", "show", "stand", "teater", "verksted", "live", "arrangement", "event"]):
                 continue
-            link = href if href.startswith("http") else url.rstrip("/") + "/" + href.lstrip("/")
-            event_id = hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
+            link = urljoin(url, href)
+            event_id = stable_id(link)
             events.append({
                 "id": f"{urlparse(url).netloc}-{event_id}",
                 "title": text,
@@ -303,6 +416,10 @@ def seed_events() -> list[dict]:
     return [normalize_event(e) for e in SEEDED_EVENTS]
 
 
+def is_seed_event(event: dict) -> bool:
+    return clean(str(event.get("id", ""))).startswith("seed-") or clean(str(event.get("source", ""))) == "seed"
+
+
 def normalize_event(event: dict) -> dict:
     normalized = {
         "id": clean(str(event.get("id") or "")),
@@ -322,6 +439,9 @@ def normalize_event(event: dict) -> dict:
         raw = "|".join([normalized["title"], normalized["date"], normalized["venue"], normalized["url"]])
         normalized["id"] = hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
     normalized["category"] = [clean(str(c)) for c in normalized["category"] if clean(str(c))]
+    if normalized["id"].startswith("seed-") or normalized["source"] == "seed":
+        normalized["date"] = ""
+        normalized["time"] = ""
     return normalized
 
 
@@ -329,11 +449,24 @@ def main() -> None:
     sources = load_json(SOURCES_FILE, [])
     seeded = seed_events()
     scraped = []
+    parsers = {
+        "Kultur i kveld - Kristiansand": parse_kultur_i_kveld,
+        "Kultur i kveld – Kristiansand": parse_kultur_i_kveld,
+    }
     for source in sources if isinstance(sources, list) else []:
-        if source.get("scrape", True) and source.get("priority", 9) <= 2:
-            scraped.extend(generic_extract_titles(source))
+        if not source.get("scrape", True) or source.get("priority", 9) > 2:
+            continue
+        parser = parsers.get(source.get("name", ""))
+        try:
+            if parser:
+                scraped.extend(parser(source))
+            elif source.get("generic_scrape", False):
+                scraped.extend(generic_extract_titles(source))
+        except Exception as exc:
+            print(f"Skipping {source.get('name', 'unknown source')}: {exc}")
 
-    events = dedupe(seeded + scraped)
+    dated_scraped = [e for e in scraped if e.get("date")]
+    events = dated_scraped if len(dated_scraped) >= MIN_SAFE_EVENT_COUNT else seeded
     if len(events) < MIN_SAFE_EVENT_COUNT:
         events = seeded
 

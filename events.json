@@ -1,208 +1,246 @@
 [
   {
-    "id": "seed-kultur-i-kveld",
-    "title": "Kultur i kveld: arrangementer i Kristiansand",
+    "id": "kulturikveld.no-1b02cfe449d1",
+    "title": "Konsert med Daniela Reyes i Posenyhaven",
     "date": "2026-07-01",
-    "time": "",
-    "venue": "Kultur i kveld",
-    "area": "Kristiansand",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Seedet kildeoppføring for lokale kulturarrangementer. Åpne kilden for oppdatert program og datoer.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "seed"
-  },
-  {
-    "id": "seed-visit-sorlandet",
-    "title": "Visit Sørlandet: hva skjer i regionen",
-    "date": "2026-07-02",
-    "time": "",
-    "venue": "Visit Sørlandet",
-    "area": "Kristiansand",
-    "category": [
-      "culture",
-      "family",
-      "outdoor"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Seedet oppføring for familieaktiviteter, konserter, festivaler og byliv i Kristiansand-regionen.",
-    "url": "https://www.visitsorlandet.com/hva-skjer/",
-    "source": "seed"
-  },
-  {
-    "id": "seed-kvadraturen",
-    "title": "Kvadraturen: byliv, marked og sentrumsarrangementer",
-    "date": "2026-07-03",
-    "time": "",
-    "venue": "Kvadraturen",
-    "area": "Sentrum",
-    "category": [
-      "food",
-      "outdoor",
-      "culture"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Seedet oppføring for aktiviteter i sentrum. Sjekk kilden for nøyaktige arrangementer og tider.",
-    "url": "https://kvadraturen.no/kalender-hva-skjer-i-kristiansand/",
-    "source": "seed"
-  },
-  {
-    "id": "seed-kilden",
-    "title": "Kilden: konserter, teater og forestillinger",
-    "date": "2026-07-04",
-    "time": "",
-    "venue": "Kilden",
-    "area": "Odderøya",
-    "category": [
-      "concert",
-      "show",
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Seedet oppføring for Kildens program. Åpne kilden for billetter, klokkeslett og sal.",
-    "url": "https://kilden.com/program/",
-    "source": "seed"
-  },
-  {
-    "id": "seed-kunstsilo",
-    "title": "Kunstsilo: utstillinger, samtaler og verksteder",
-    "date": "2026-07-05",
-    "time": "",
-    "venue": "Kunstsilo",
-    "area": "Odderøya",
-    "category": [
-      "culture",
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Seedet oppføring for Kunstsilos arrangementer, inkludert familieverksteder og samtaler.",
-    "url": "https://www.kunstsilo.no/arrangementer/",
-    "source": "seed"
-  },
-  {
-    "id": "seed-vitensenteret",
-    "title": "Vitensenteret Sørlandet: aktiviteter for barn og familie",
-    "date": "2026-07-06",
-    "time": "",
-    "venue": "Vitensenteret Sørlandet",
-    "area": "Kristiansand",
-    "category": [
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Seedet oppføring for familieprogram, drop-in og ferieaktiviteter.",
-    "url": "https://vitensor.no/",
-    "source": "seed"
-  },
-  {
-    "id": "seed-vaktbua",
-    "title": "Vaktbua: konserter og klubbkvelder",
-    "date": "2026-07-07",
-    "time": "",
-    "venue": "Vaktbua",
-    "area": "Odderøya",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Seedet oppføring for konserter og klubbarrangementer på Vaktbua.",
-    "url": "https://www.vaktbua.no/events",
-    "source": "seed"
-  },
-  {
-    "id": "seed-krs-live",
-    "title": "KRS LIVE: konsertprogram",
-    "date": "2026-07-08",
-    "time": "",
-    "venue": "KRS LIVE",
+    "time": "22:00",
+    "venue": "Posebyhaven Scene",
     "area": "Kristiansand",
     "category": [
       "concert"
     ],
     "family": false,
     "price": "",
-    "description": "Seedet oppføring for større konserter og livescener.",
-    "url": "https://www.krslive.no/",
-    "source": "seed"
+    "description": "Konsert: Konsert med Daniela Reyes i Posenyhaven på Posebyhaven Scene i Kristiansand. Daniela Reyes er tilbake med ny musikk, så ærlig og underfundig at det er nær umulig å ikke stoppe opp og lytte. Hun er hyllet som en av våre beste, unge tekstforfattere, og det hun leverer på det nye albumet, «La meg bli ditt gjemmested», viser en artist som fortsatt er i rasende utvikling. Daniela",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/M0Ikny-konsert-med-daniela-reyes-i-posenyhaven",
+    "source": "Kultur i kveld - Kristiansand"
   },
   {
-    "id": "seed-teateret",
-    "title": "Teateret: standup, show og konserter",
-    "date": "2026-07-09",
-    "time": "",
+    "id": "kulturikveld.no-a0d1de6e5cdb",
+    "title": "Speed date 55-75",
+    "date": "2026-07-01",
+    "time": "20:00",
     "venue": "Teateret",
-    "area": "Sentrum",
+    "area": "Kristiansand",
     "category": [
-      "show",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Annet: Speed date 55-75 på Teateret i Kristiansand. Er du singel og savner en hyggelig måte å møte nye mennesker på?",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/Smki5I-speed-date-55-75",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-8a2c158b1388",
+    "title": "Foajékonsert - klarinett og piano - Sommer i Kilden",
+    "date": "2026-07-02",
+    "time": "15:30",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
       "concert"
     ],
     "family": false,
     "price": "",
-    "description": "Seedet oppføring for sceneprogram, standup og byliv på Teateret.",
-    "url": "https://teateret.no/",
-    "source": "seed"
+    "description": "Konsert: Foajékonsert - klarinett og piano - Sommer i Kilden på Kilden i Kristiansand. Velkommen til en stemningsfull pustepause i foajeen.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/p5VA5k-foajekonsert-klarinett-og-piano-sommer-i-kilden",
+    "source": "Kultur i kveld - Kristiansand"
   },
   {
-    "id": "seed-ravnedalen-live",
-    "title": "Ravnedalen Live: sommerkonserter",
-    "date": "2026-07-10",
-    "time": "",
-    "venue": "Ravnedalen Live",
-    "area": "Ravnedalen",
+    "id": "kulturikveld.no-57afe6f27330",
+    "title": "Konsert med Adam Douglas i Posebyhaven",
+    "date": "2026-07-02",
+    "time": "22:00",
+    "venue": "Posebyhaven Scene",
+    "area": "Kristiansand",
     "category": [
       "concert",
-      "festival",
+      "festival"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Konsert med Adam Douglas i Posebyhaven på Posebyhaven Scene i Kristiansand. Adam Douglas er en hardtarbeidende mann året rundt, med konsertopptredener som spenner bredt. Fra rockeklubber, kredible jazzfestivaler, sommerfestivaler og kulturhus, til førjulsturné med full produksjon på de aller største konserthusene med «An American Holiday». Alltid med de beste musikerne og g",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/pAqckl-konsert-med-adam-douglas-i-posebyhaven",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-f48bb29c7f4e",
+    "title": "Torsdag på Hartmanns",
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Teateret",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Torsdag på Hartmanns på Teateret i Kristiansand. Velkommen til Torsdag på Hartmanns",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/HCnHVt-torsdag-paa-hartmanns",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-ebe89b85f7d8",
+    "title": "Foajékonsert - klarinett, bratsj og piano - Sommer i Kilden",
+    "date": "2026-07-03",
+    "time": "15:30",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Foajékonsert - klarinett, bratsj og piano - Sommer i Kilden på Kilden i Kristiansand. Velkommen til en stemningsfull pustepause i foajeen.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/OtlyOJ-foajekonsert-klarinett-bratsj-og-piano-sommer-i-kilden",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-8600cb83450e",
+    "title": "dePresno på Cafe Generalen",
+    "date": "2026-07-03",
+    "time": "23:00",
+    "venue": "Cafe Generalen / Ravnedalen",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
       "outdoor"
     ],
     "family": false,
     "price": "",
-    "description": "Seedet oppføring for festival- og konsertprogram i Ravnedalen.",
-    "url": "https://ravnedalenlive.no/",
-    "source": "seed"
+    "description": "Konsert: dePresno på Cafe Generalen på Cafe Generalen / Ravnedalen i Kristiansand. dePresno har i over et tiår vært en av Norges mest særegne popstemmer. Med sin dype, sjelfulle vokal og sterke historiefortelling balanserer han det emosjonelle med det underholdende på en måte få andre gjør. Siden gjennombruddet med «Hide and Seek» i 2016 har han levert kritikerroste låter som «Too",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/eXoh6l-depresno-paa-cafe-generalen",
+    "source": "Kultur i kveld - Kristiansand"
   },
   {
-    "id": "seed-maakeskrik",
-    "title": "Måkeskrik: festivalprogram",
-    "date": "2026-07-11",
-    "time": "",
-    "venue": "Måkeskrik",
-    "area": "Bendiksbukta",
+    "id": "kulturikveld.no-b392916a1152",
+    "title": "BobleBingo PalmeBris Festival",
+    "date": "2026-07-04",
+    "time": "23:00",
+    "venue": "Hartmanns Brygge",
+    "area": "Kristiansand",
     "category": [
-      "festival",
-      "concert",
-      "outdoor"
+      "festival"
     ],
     "family": false,
     "price": "",
-    "description": "Seedet oppføring for Måkeskrik-programmet.",
-    "url": "https://www.maakeskrik.no/",
-    "source": "seed"
+    "description": "Festivalpass: BobleBingo PalmeBris Festival på Hartmanns Brygge i Kristiansand. Åshild Marie Kvark inviterer deg til",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/arnKht-boblebingo-palmebris-festival",
+    "source": "Kultur i kveld - Kristiansand"
   },
   {
-    "id": "seed-palmesus",
-    "title": "Palmesus: strandfestival",
-    "date": "2026-07-12",
-    "time": "",
-    "venue": "Palmesus",
-    "area": "Bystranda",
+    "id": "kulturikveld.no-bfcfe2d6fd56",
+    "title": "Foajékonsert - bratsj og piano - Sommer i Kilden",
+    "date": "2026-07-04",
+    "time": "15:30",
+    "venue": "Kilden",
+    "area": "Kristiansand",
     "category": [
-      "festival",
-      "concert",
-      "outdoor"
+      "concert"
     ],
     "family": false,
     "price": "",
-    "description": "Seedet oppføring for Palmesus og relaterte festivalarrangementer.",
-    "url": "https://www.palmesus.com/",
-    "source": "seed"
+    "description": "Konsert: Foajékonsert - bratsj og piano - Sommer i Kilden på Kilden i Kristiansand. Velkommen til en stemningsfull pustepause i foajeen.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/VZdMgX-foajekonsert-bratsj-og-piano-sommer-i-kilden",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-b4e6c39800d1",
+    "title": "DJ Monty - DJ, musikkquiz og sommerstemning",
+    "date": "2026-07-07",
+    "time": "18:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Annet: DJ Monty - DJ, musikkquiz og sommerstemning på Kilden i Kristiansand. Vi er så heldige å få tilbake den energiske og funky karakteren DJ Monty (spilt av Petter Aagaard), som tidligere i år tok Sørlandet med storm i musikalen",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/8gehdR-dj-monty-dj-musikkquiz-og-sommerstemning",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-43101583bcc8",
+    "title": "Konsert med Sondre Lerche i Posebyhaven",
+    "date": "2026-07-07",
+    "time": "22:00",
+    "venue": "Posebyhaven Scene",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Konsert med Sondre Lerche i Posebyhaven på Posebyhaven Scene i Kristiansand. Sondre Lerche (Solo) konsert. Sondre Lerche er en av Norges aller mest prominente og mangfoldige internasjonale popkunstnere så langt dette årtusenet. Han er den sjeldne artisten som brakdebuterte som bråmoden tenåring, og likevel har fortsatt å utvikle seg mot stadig nye kunstneriske høyder. Senest",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/sg7j8j-konsert-med-sondre-lerche-i-posebyhaven",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-6f11e62d91d0",
+    "title": "DJ Monty - DJ, musikkquiz og sommerstemning",
+    "date": "2026-07-08",
+    "time": "18:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Annet: DJ Monty - DJ, musikkquiz og sommerstemning på Kilden i Kristiansand. Vi er så heldige å få tilbake den energiske og funky karakteren DJ Monty (spilt av Petter Aagaard), som tidligere i år tok Sørlandet med storm i musikalen",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/aCyVYt-dj-monty-dj-musikkquiz-og-sommerstemning",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-507f5bd66177",
+    "title": "Konsert med Unni Wilhelmsen i Posebyhaven",
+    "date": "2026-07-08",
+    "time": "22:00",
+    "venue": "Posebyhaven Scene",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Konsert med Unni Wilhelmsen i Posebyhaven på Posebyhaven Scene i Kristiansand. Unni Wilhelmsen har i over 25 år reist rundt på oppdagelsesferd i Norge med musikken sin, og med det etablert seg som en av vår tids mest betydningsfulle singer-songwriters. Med over 3000 konserter, ni albumutgivelser og slagere som «Won’t Go Near You Again» og «Anything ‘Bout June» har Unni satt so",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/rmh3Cl-konsert-med-unni-wilhelmsen-i-posebyhaven",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-4ece9c60b382",
+    "title": "Foajékonsert - sang og piano - Sommer i Kilden",
+    "date": "2026-07-09",
+    "time": "15:30",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Foajékonsert - sang og piano - Sommer i Kilden på Kilden i Kristiansand. Velkommen til en stemningsfull pustepause i foajeen.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/gX1b8H-foajekonsert-sang-og-piano-sommer-i-kilden",
+    "source": "Kultur i kveld - Kristiansand"
+  },
+  {
+    "id": "kulturikveld.no-a716d9ba60cf",
+    "title": "Torsdag på Hartmanns",
+    "date": "2026-07-09",
+    "time": "19:00",
+    "venue": "Teateret",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Torsdag på Hartmanns på Teateret i Kristiansand. Velkommen til Torsdag på Hartmanns",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand/etZg6l-torsdag-paa-hartmanns",
+    "source": "Kultur i kveld - Kristiansand"
   }
 ]

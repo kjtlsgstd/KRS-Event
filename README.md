@@ -22,3 +22,11 @@ Gratis statisk eventguide som kan publiseres på GitHub Pages og oppdateres dagl
 ## Viktig
 
 Første parser er konservativ. Den finner mulige eventer fra åpne HTML-sider, men må bygges ut kilde-for-kilde for høy kvalitet. Sosiale medier behandles som signalkilder, ikke komplett automatisk datakilde.
+
+## Datastatus
+
+`events.json` kan inneholde udaterte startoppføringer fra sentrale kilder når scraperen ikke finner trygge, daterte eventer. De er ikke ment som faktiske eventer på bestemte dager. Neste forbedring er egne parser-funksjoner for prioriterte offentlige kilder som Kultur i kveld, Kilden, Kunstsilo, Kvadraturen og Visit Sørlandet.
+
+## Parsere
+
+`scripts/update_events.py` har en parser for Kultur i kveld basert på Schema.org Event-data. Nye kilder legges til som egne `parse_*`-funksjoner og registreres i `parsers` i `main()`. Parsere bør bare returnere eventer med tittel, dato og kilde-URL. Generisk scraping er opt-in per kilde med `generic_scrape: true`.
