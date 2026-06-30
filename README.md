@@ -29,4 +29,6 @@ Første parser er konservativ. Den finner mulige eventer fra åpne HTML-sider, m
 
 ## Parsere
 
-`scripts/update_events.py` har en parser for Kultur i kveld basert på Schema.org Event-data. Nye kilder legges til som egne `parse_*`-funksjoner og registreres i `parsers` i `main()`. Parsere bør bare returnere eventer med tittel, dato og kilde-URL. Generisk scraping er opt-in per kilde med `generic_scrape: true`.
+`scripts/update_events.py` har parser for Kultur i kveld, Kvadraturen sitt kalender-API og generelle Schema.org Event-data fra offentlige kilder som Ticketmaster og Songkick. Nye kilder legges til som egne `parse_*`-funksjoner og registreres i `parsers` i `main()`. Parsere bør bare returnere eventer med tittel, dato og kilde-URL. Generisk scraping er opt-in per kilde med `generic_scrape: true`.
+
+Noen registrerte kilder mangler åpne strukturerte eventdata, blokkerer enkel serverhenting, eller krever egne API-/HTML-parsere. De står fortsatt i `sources.json`, men returnerer trygt null eventer til en egen parser er lagt inn.

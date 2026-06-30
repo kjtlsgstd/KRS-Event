@@ -14,11 +14,13 @@ from __future__ import annotations
 import json
 import re
 import hashlib
-from datetime import datetime
+from html import unescape
+from datetime import date, datetime
 from pathlib import Path
 from typing import Optional
 from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 from zoneinfo import ZoneInfo
 
 try:
@@ -218,7 +220,8 @@ def load_json(path: Path, default):
 
 
 def clean(text: str) -> str:
-    return re.sub(r"\s+", " ", text or "").strip()
+    text = re.sub(r"<[^>]+>", " ", str(text or ""))
+    return re.sub(r"\s+", " ", unescape(text)).strip()
 
 
 def stable_id(*parts: str) -> str:
@@ -232,13 +235,34 @@ def fetch_html(url: str) -> str:
         r.raise_for_status()
         return r.text
 
-    req = Request(url, headers=HEADERS)
-    with urlopen(req, timeout=20) as response:
-        return response.read().decode("utf-8", "replace")
+    current_url = url
+    for _ in range(4):
+        req = Request(current_url, headers=HEADERS)
+        try:
+            with urlopen(req, timeout=20) as response:
+                return response.read().decode("utf-8", "replace")
+        except HTTPError as exc:
+            if exc.code not in {301, 302, 303, 307, 308}:
+                raise
+            location = exc.headers.get("Location")
+            if not location:
+                raise
+            current_url = urljoin(current_url, location)
+    raise RuntimeError(f"Too many redirects for {url}")
 
 
 def as_list(value) -> list:
+    if isinstance(value, dict) and not value.get("@type"):
+        return list(value.values())
     return value if isinstance(value, list) else [value]
+
+
+def type_names(item: dict) -> list[str]:
+    return [clean(str(value)) for value in as_list(item.get("@type")) if clean(str(value))]
+
+
+def is_event_type(item: dict) -> bool:
+    return any(type_name == "Event" or type_name.endswith("Event") for type_name in type_names(item))
 
 
 def parse_start(value: str) -> tuple[str, str]:
@@ -261,20 +285,26 @@ def parse_start(value: str) -> tuple[str, str]:
 def event_from_schema(item: dict, source: dict) -> Optional[dict]:
     if not isinstance(item, dict):
         return None
-    if item.get("@type") != "Event" and "Event" not in as_list(item.get("@type")):
+    if not is_event_type(item):
         return None
 
     title = clean(item.get("name", ""))
     date_value, time_value = parse_start(item.get("startDate", ""))
-    url = clean(item.get("url", ""))
+    offers = item.get("offers") if isinstance(item.get("offers"), (dict, list)) else []
+    offer_urls = [clean(offer.get("url", "")) for offer in as_list(offers) if isinstance(offer, dict)]
+    url = clean(item.get("url", "")) or next((offer_url for offer_url in offer_urls if offer_url), "")
     if not title or not date_value or not url:
         return None
 
     location = item.get("location") if isinstance(item.get("location"), dict) else {}
     address = location.get("address") if isinstance(location.get("address"), dict) else {}
     venue = clean(location.get("name") or source.get("name", ""))
-    area = clean(address.get("addressLocality") or "Kristiansand")
+    area = clean(address.get("addressLocality") or "")
     description = clean(item.get("description", ""))
+    blob = " ".join([title, venue, area, description, url]).lower()
+    broad_source = source.get("category") in {"ticketing", "local_media"} or source.get("type") in {"ticketing", "concerts"}
+    if broad_source and not any(term in blob for term in ["kristiansand", "posebyhaven", "kilden", "ravnedalen", "bystranda", "teateret", "odderøya", "odderoya", "vaktbua"]):
+        return None
 
     return normalize_event({
         "id": f"{urlparse(url).netloc}-{stable_id(title, date_value, venue, url)}",
@@ -282,7 +312,7 @@ def event_from_schema(item: dict, source: dict) -> Optional[dict]:
         "date": date_value,
         "time": time_value,
         "venue": venue,
-        "area": area,
+        "area": area or "Kristiansand",
         "category": classify(f"{title} {description}", source),
         "family": "barn" in f"{title} {description}".lower() or source.get("type") == "family",
         "price": "",
@@ -322,11 +352,77 @@ def parse_schema_events(source: dict) -> list[dict]:
             if item.get("@type") == "ListItem" and "item" in item:
                 queue.extend(as_list(item["item"]))
 
-    return dedupe(events)
+    today = date.today().isoformat()
+    return dedupe([event for event in events if event.get("date", "") >= today])
 
 
 def parse_kultur_i_kveld(source: dict) -> list[dict]:
+    events = parse_schema_events(source)
+    for event in events:
+        if not url_is_available(event["url"]):
+            event["description"] = clean(f'{event["description"]} Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.')
+            event["url"] = source["url"]
+    return events
+
+
+def url_is_available(url: str) -> bool:
+    if not url.startswith("http"):
+        return False
+    try:
+        if requests is not None:
+            response = requests.get(url, headers=HEADERS, timeout=12, allow_redirects=True)
+            return response.status_code < 400
+
+        req = Request(url, headers=HEADERS)
+        with urlopen(req, timeout=12) as response:
+            return response.status < 400
+    except Exception:
+        return False
+
+
+def parse_structured_source(source: dict) -> list[dict]:
     return parse_schema_events(source)
+
+
+def parse_kvadraturen(source: dict) -> list[dict]:
+    api_url = "https://kvadraturen.no/umbraco/api/kalender/getCalendarOnDate"
+    payload = json.loads(fetch_html(api_url))
+    if not isinstance(payload, list) or len(payload) < 2:
+        return []
+
+    calendar = payload[1] if isinstance(payload[1], dict) else {}
+    rows = calendar.get("hendelser", [])
+    events = []
+    for row in rows if isinstance(rows, list) else []:
+        if not isinstance(row, dict):
+            continue
+
+        title = clean(row.get("navn", ""))
+        date_value, time_value = parse_start(row.get("startDateTime", ""))
+        time_value = clean(row.get("startTid", ""))
+        venue = clean(row.get("hendelsessted", ""))
+        url = clean(row.get("nettsideUri", "")) or urljoin(source["url"], f"/kalender/hendelse?id={row.get('id', '')}")
+        if not title or not date_value or not url:
+            continue
+
+        description = clean(row.get("beskrivelse", ""))
+        events.append(normalize_event({
+            "id": f"kvadraturen.no-{stable_id(title, date_value, venue, url)}",
+            "title": title,
+            "date": date_value,
+            "time": time_value,
+            "venue": venue or "Kvadraturen",
+            "area": clean(row.get("by", "")) or "Kristiansand",
+            "category": classify(f"{title} {description} {row.get('eventType', '')}", source),
+            "family": "barn" in f"{title} {description}".lower() or source.get("type") == "family",
+            "price": "",
+            "description": description,
+            "url": url,
+            "source": source["name"],
+        }))
+
+    today = date.today().isoformat()
+    return dedupe([event for event in events if event.get("date", "") >= today])
 
 
 def generic_extract_titles(source: dict) -> list[dict]:
@@ -450,9 +546,13 @@ def main() -> None:
     seeded = seed_events()
     scraped = []
     parsers = {
-        "Kultur i kveld - Kristiansand": parse_kultur_i_kveld,
-        "Kultur i kveld – Kristiansand": parse_kultur_i_kveld,
+        source.get("name", ""): parse_structured_source
+        for source in sources
+        if isinstance(source, dict) and source.get("scrape", True)
     }
+    parsers["Kultur i kveld - Kristiansand"] = parse_kultur_i_kveld
+    parsers["Kultur i kveld – Kristiansand"] = parse_kultur_i_kveld
+    parsers["Kvadraturen - Hva skjer i Kristiansand"] = parse_kvadraturen
     for source in sources if isinstance(sources, list) else []:
         if not source.get("scrape", True) or source.get("priority", 9) > 2:
             continue
