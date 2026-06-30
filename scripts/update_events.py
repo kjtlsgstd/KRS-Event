@@ -279,6 +279,114 @@ def count_new_or_updated(previous: list[dict], current: list[dict]) -> int:
     return changed
 
 
+def simplify_title(title: str) -> set[str]:
+    text = clean(title).lower()
+    replacements = {
+        "å": "a",
+        "ø": "o",
+        "æ": "ae",
+        "é": "e",
+        "ö": "o",
+        "ü": "u",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    text = re.sub(r"@.*$", " ", text)
+    text = re.sub(r"\b(konsert med|konsert|i posebyhaven|paa|på|scene|dagsbillett|festivalpass|inngang|ekstrakonsert|klubb)\b", " ", text)
+    text = re.sub(r"[^a-z0-9 ]+", " ", text)
+    words = {word for word in text.split() if len(word) > 2}
+    return words
+
+
+def normalize_venue_name(venue: str) -> str:
+    text = clean(venue).lower()
+    replacements = {
+        "posebyhaven scene": "posebyhaven",
+        "kilden teater og konserthus foajé kilden": "kilden",
+        "kilden teater og konserthus foaje kilden": "kilden",
+        "kilden teater & konserthus": "kilden",
+        "måkeskrik festivalen": "bendiksbukta",
+    }
+    for old, new in replacements.items():
+        if old in text:
+            return new
+    text = re.sub(r"\b(scene|hovedscenen|multisalen|foajeen|foajé|foaje)\b", " ", text)
+    return clean(text)
+
+
+def title_similarity(a: str, b: str) -> float:
+    left = simplify_title(a)
+    right = simplify_title(b)
+    if not left or not right:
+        return 0
+    return len(left & right) / min(len(left), len(right))
+
+
+def is_probable_duplicate(a: dict, b: dict) -> bool:
+    if a.get("date") != b.get("date"):
+        return False
+    venue_a = normalize_venue_name(a.get("venue", ""))
+    venue_b = normalize_venue_name(b.get("venue", ""))
+    same_venue = venue_a and venue_b and (venue_a in venue_b or venue_b in venue_a)
+    return same_venue and title_similarity(a.get("title", ""), b.get("title", "")) >= 0.55
+
+
+def event_quality(event: dict) -> tuple:
+    source_rank = {
+        "Ticketmaster Kristiansand": 5,
+        "Kvadraturen - Hva skjer i Kristiansand": 4,
+        "Kultur i kveld - Kristiansand": 3,
+        "Songkick Kristiansand": 2,
+    }.get(event.get("source", ""), 1)
+    return (
+        bool(event.get("time")),
+        source_rank,
+        len(clean(event.get("description", ""))),
+        len(clean(event.get("title", ""))),
+    )
+
+
+def merge_event_group(group: list[dict]) -> dict:
+    best = max(group, key=event_quality).copy()
+    source_links = []
+    seen = set()
+    categories = []
+    for event in sorted(group, key=event_quality, reverse=True):
+        source_name = event.get("source", "")
+        url = event.get("url", "")
+        key = source_name
+        if source_name and key not in seen:
+            seen.add(key)
+            source_links.append({"name": source_name, "url": url})
+        for category in event.get("category", []):
+            if category not in categories:
+                categories.append(category)
+        if not best.get("time") and event.get("time"):
+            best["time"] = event["time"]
+        if len(clean(event.get("description", ""))) > len(clean(best.get("description", ""))):
+            best["description"] = event["description"]
+
+    best["category"] = categories or best.get("category", [])
+    best["sources"] = source_links
+    best["source"] = source_links[0]["name"] if source_links else best.get("source", "")
+    best["url"] = source_links[0]["url"] if source_links else best.get("url", "")
+    best["id"] = f"merged-{stable_id(best.get('date', ''), normalize_venue_name(best.get('venue', '')), sorted(simplify_title(best.get('title', ''))))}"
+    return normalize_event(best)
+
+
+def merge_duplicates(events: list[dict]) -> list[dict]:
+    groups = []
+    for event in events:
+        event = normalize_event(event)
+        for group in groups:
+            if any(is_probable_duplicate(event, existing) for existing in group):
+                group.append(event)
+                break
+        else:
+            groups.append([event])
+    return [merge_event_group(group) for group in groups]
+
+
 def fetch_html(url: str) -> str:
     if requests is not None:
         r = requests.get(url, headers=HEADERS, timeout=20)
@@ -580,6 +688,7 @@ def normalize_event(event: dict) -> dict:
         "description": clean(str(event.get("description") or "")),
         "url": clean(str(event.get("url") or "")),
         "source": clean(str(event.get("source") or "")),
+        "sources": event.get("sources") if isinstance(event.get("sources"), list) else [],
     }
     if not normalized["id"]:
         raw = "|".join([normalized["title"], normalized["date"], normalized["venue"], normalized["url"]])
@@ -588,6 +697,11 @@ def normalize_event(event: dict) -> dict:
     if normalized["id"].startswith("seed-") or normalized["source"] == "seed":
         normalized["date"] = ""
         normalized["time"] = ""
+    normalized["sources"] = [
+        {"name": clean(source.get("name", "")), "url": clean(source.get("url", ""))}
+        for source in normalized["sources"]
+        if isinstance(source, dict) and clean(source.get("name", ""))
+    ]
     return normalized
 
 
@@ -672,18 +786,23 @@ def main() -> None:
 
     dated_scraped = [event for event in scraped if event.get("date")]
     seeded = seed_events()
-    events = dated_scraped if len(dated_scraped) >= MIN_SAFE_EVENT_COUNT else seeded
+    events = merge_duplicates(dated_scraped) if len(dated_scraped) >= MIN_SAFE_EVENT_COUNT else seeded
 
     payload = sorted(
         [normalize_event(event) for event in events],
         key=lambda event: (event.get("date") or "9999-99-99", event.get("title", "")),
     )
 
+    previous_valid = [normalize_event(event) for event in previous_events if isinstance(event, dict)]
+    if previous_valid and len(payload) < max(MIN_SAFE_EVENT_COUNT, int(len(previous_valid) * 0.7)):
+        run_errors.append(f"Preserved previous events because this run produced only {len(payload)} events versus {len(previous_valid)} previously.")
+        payload = previous_valid
+
     if len(payload) >= MIN_SAFE_EVENT_COUNT:
         write_json(EVENTS_FILE, payload)
     else:
         run_errors.append("Refused to overwrite events.json with fewer than two events.")
-        payload = [normalize_event(event) for event in previous_events if isinstance(event, dict)]
+        payload = previous_valid
 
     sources_failed = sum(1 for row in source_rows if row["status"] == "failed")
     sources_skipped = sum(1 for row in source_rows if row["status"] == "skipped")
@@ -703,6 +822,7 @@ def main() -> None:
         "status": status,
         "events_total": len(payload),
         "events_found_this_run": events_found_this_run,
+        "events_after_deduplication": len(payload),
         "events_new_or_updated": count_new_or_updated(previous_events, payload),
         "sources_total": len(sources),
         "sources_checked": sources_checked,

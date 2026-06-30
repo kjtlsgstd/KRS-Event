@@ -5,7 +5,7 @@
     "url": "https://kulturikveld.no/arrangementer/kristiansand",
     "category": "calendar",
     "status": "ok",
-    "checked_at": "2026-06-30T12:21:23+02:00",
+    "checked_at": "2026-06-30T13:21:55+02:00",
     "event_count": 15,
     "error": null,
     "notes": "Checked successfully."
@@ -16,7 +16,7 @@
     "url": "https://www.visitsorlandet.com/hva-skjer/",
     "category": "calendar",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:26+02:00",
+    "checked_at": "2026-06-30T13:21:58+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -27,7 +27,7 @@
     "url": "https://kvadraturen.no/kalender-hva-skjer-i-kristiansand/",
     "category": "calendar",
     "status": "ok",
-    "checked_at": "2026-06-30T12:21:27+02:00",
+    "checked_at": "2026-06-30T13:21:59+02:00",
     "event_count": 323,
     "error": null,
     "notes": "Checked successfully."
@@ -38,7 +38,7 @@
     "url": "https://www.kristiansand.kommune.no/",
     "category": "calendar",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:27+02:00",
+    "checked_at": "2026-06-30T13:21:59+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -49,7 +49,7 @@
     "url": "https://kilden.com/program/",
     "category": "venue",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:27+02:00",
+    "checked_at": "2026-06-30T13:21:59+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -60,7 +60,7 @@
     "url": "https://www.kunstsilo.no/arrangementer/",
     "category": "venue",
     "status": "failed",
-    "checked_at": "2026-06-30T12:21:27+02:00",
+    "checked_at": "2026-06-30T13:21:59+02:00",
     "event_count": 0,
     "error": "HTTP Error 404: Not Found",
     "notes": ""
@@ -71,9 +71,9 @@
     "url": "https://teateret.no/",
     "category": "venue",
     "status": "failed",
-    "checked_at": "2026-06-30T12:21:28+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
-    "error": "URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)'))",
+    "error": "URLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)'))",
     "notes": ""
   },
   {
@@ -82,7 +82,7 @@
     "url": "https://www.vaktbua.no/events",
     "category": "venue",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:28+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -93,7 +93,7 @@
     "url": "https://www.krslive.no/",
     "category": "venue",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -104,7 +104,7 @@
     "url": "https://www.aladdinscene.no/",
     "category": "venue",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -115,7 +115,7 @@
     "url": "https://kristiansandbibliotek.no/",
     "category": "family",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -126,7 +126,7 @@
     "url": "https://vitensor.no/",
     "category": "family",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -137,7 +137,7 @@
     "url": "https://www.dyreparken.no/",
     "category": "family",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -148,7 +148,7 @@
     "url": "https://www.aquarama.no/",
     "category": "family",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -159,7 +159,7 @@
     "url": "https://www.palmesus.com/",
     "category": "festival",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -170,7 +170,7 @@
     "url": "https://www.maakeskrik.no/",
     "category": "festival",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:00+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -181,7 +181,7 @@
     "url": "https://ravnedalenlive.no/",
     "category": "festival",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:29+02:00",
+    "checked_at": "2026-06-30T13:22:01+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -192,7 +192,7 @@
     "url": "https://www.ticketmaster.no/discover/kristiansand",
     "category": "ticketing",
     "status": "ok",
-    "checked_at": "2026-06-30T12:21:32+02:00",
+    "checked_at": "2026-06-30T13:22:01+02:00",
     "event_count": 20,
     "error": null,
     "notes": "Checked successfully."
@@ -203,7 +203,7 @@
     "url": "https://ticketco.events/no/nb",
     "category": "ticketing",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:33+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -214,7 +214,7 @@
     "url": "https://tikkio.com/",
     "category": "ticketing",
     "status": "no_events",
-    "checked_at": "2026-06-30T12:21:33+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Checked successfully, but no dated events were found."
@@ -225,7 +225,7 @@
     "url": "https://www.songkick.com/metro-areas/31421-norway-kristiansand",
     "category": "ticketing",
     "status": "ok",
-    "checked_at": "2026-06-30T12:21:33+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 28,
     "error": null,
     "notes": "Checked successfully."
@@ -236,7 +236,7 @@
     "url": "https://www.fvn.no/krsby/",
     "category": "local_media",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -247,7 +247,7 @@
     "url": "https://www.krs.no/",
     "category": "local_media",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -258,7 +258,7 @@
     "url": "https://www.nrk.no/sorlandet/",
     "category": "local_media",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -269,7 +269,7 @@
     "url": "https://www.google.com/search?q=Naboen+Pub+Kristiansand+arrangement",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -280,7 +280,7 @@
     "url": "https://www.google.com/search?q=GVino+Kristiansand+arrangement",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -291,7 +291,7 @@
     "url": "https://www.google.com/search?q=Bakg%C3%A5rden+Bar+Kristiansand+arrangement",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -302,7 +302,7 @@
     "url": "https://www.google.com/search?q=Kaf%C3%A9+Krank+Kristiansand+arrangement",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -313,7 +313,7 @@
     "url": "https://www.google.com/search?q=Odder%C3%B8ya+techno+Kristiansand+event",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -324,7 +324,7 @@
     "url": "https://www.facebook.com/events/search/?q=Kristiansand",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -335,7 +335,7 @@
     "url": "https://www.instagram.com/explore/search/keyword/?q=kristiansand",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -346,7 +346,7 @@
     "url": "https://x.com/search?q=Kristiansand%20event&src=typed_query&f=live",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
@@ -357,7 +357,7 @@
     "url": "https://map.snapchat.com/",
     "category": "social_signal",
     "status": "skipped",
-    "checked_at": "2026-06-30T12:21:34+02:00",
+    "checked_at": "2026-06-30T13:22:02+02:00",
     "event_count": 0,
     "error": null,
     "notes": "Manual or signal-only source; not scraped automatically."
