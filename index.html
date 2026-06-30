@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kristiansand Eventguide</title>
+  <style>
+    :root{--bg:#f7f7f4;--card:#fff;--text:#1f2933;--muted:#667085;--line:#ddd;--accent:#123b5d}
+    *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
+    header{position:sticky;top:0;background:rgba(247,247,244,.96);backdrop-filter:blur(8px);padding:12px 14px;border-bottom:1px solid var(--line);z-index:2}
+    h1{font-size:19px;margin:0 0 8px}.meta{font-size:12px;color:var(--muted);margin-bottom:8px}.toolbar{display:flex;gap:6px;overflow:auto;padding-bottom:2px}.toolbar button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 10px;white-space:nowrap}.toolbar button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+    input{width:100%;padding:10px;border:1px solid var(--line);border-radius:10px;margin-top:8px;font-size:16px;background:white}
+    main{padding:10px 10px 90px;max-width:920px;margin:auto}.summary{font-size:13px;color:var(--muted);margin:6px 2px 10px}
+    .group-title{font-size:13px;color:var(--muted);font-weight:700;margin:16px 4px 6px;text-transform:uppercase;letter-spacing:.03em}.event{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:5px 0;overflow:hidden}.row{display:grid;grid-template-columns:82px 1fr auto;gap:8px;align-items:center;padding:9px 10px;cursor:pointer}.date{font-weight:700;font-size:13px}.time{display:block;color:var(--muted);font-weight:400}.title{font-weight:650;font-size:14px}.sub{font-size:12px;color:var(--muted);margin-top:2px}.tags{font-size:11px;color:var(--muted);text-align:right}.details{display:none;border-top:1px solid var(--line);padding:10px;font-size:13px;color:#344054;background:#fafafa}.event.open .details{display:block}.details a{color:var(--accent);font-weight:650}.empty{padding:20px;text-align:center;color:var(--muted)}
+    footer{border-top:1px solid var(--line);padding:14px;color:var(--muted);font-size:12px} @media(max-width:520px){.row{grid-template-columns:70px 1fr}.tags{grid-column:2;text-align:left}.title{font-size:13px}}
+  </style>
+</head>
+<body>
+<header>
+  <h1>Kristiansand Eventguide</h1>
+  <div class="meta" id="meta">Laster data …</div>
+  <div class="toolbar" id="filters"></div>
+  <input id="search" type="search" placeholder="Søk: barn, konsert, Odderøya, Kilden …" />
+</header>
+<main>
+  <div class="summary" id="summary"></div>
+  <section id="events"></section>
+</main>
+<footer>
+  Data oppdateres av GitHub Actions. Sosiale medier behandles som signaler, ikke komplett datakilde.
+</footer>
+<script>
+const FILTERS=[['all','Alle'],['weekend','Denne helgen'],['family','Familie'],['concert','Konsert'],['festival','Festival'],['food','Mat/marked'],['outdoor','Utendørs'],['show','Show/scene']];
+let events=[], active='all';
+const $=s=>document.querySelector(s);
+function norm(s){return (s||'').toString().toLowerCase()}
+function parseDate(e){return new Date((e.date||'2099-01-01')+'T00:00:00')}
+function weekendRange(){const now=new Date(); const d=now.getDay(); const fri=new Date(now); fri.setDate(now.getDate()+((5-d+7)%7)); fri.setHours(0,0,0,0); const sun=new Date(fri); sun.setDate(fri.getDate()+2); sun.setHours(23,59,59,999); return [fri,sun]}
+function matches(e){const q=norm($('#search').value); const blob=norm([e.title,e.venue,e.area,e.description,(e.category||[]).join(' '),e.source].join(' ')); if(q && !blob.includes(q)) return false; if(active==='all') return true; if(active==='weekend'){const [a,b]=weekendRange(); const d=parseDate(e); return d>=a&&d<=b} if(active==='family') return !!e.family || (e.category||[]).includes('family'); return (e.category||[]).includes(active)}
+function fmtDate(s){if(!s)return 'Ukjent'; const d=new Date(s+'T00:00:00'); return d.toLocaleDateString('no-NO',{weekday:'short',day:'2-digit',month:'short'})}
+function renderFilters(){ $('#filters').innerHTML=FILTERS.map(([id,label])=>`<button data-id="${id}" class="${id===active?'active':''}">${label}</button>`).join(''); document.querySelectorAll('#filters button').forEach(b=>b.onclick=()=>{active=b.dataset.id;renderFilters();render()})}
+function render(){let list=events.filter(matches).sort((a,b)=>parseDate(a)-parseDate(b)); $('#summary').textContent=`${list.length} treff av ${events.length} eventer`; if(!list.length){$('#events').innerHTML='<div class="empty">Ingen treff.</div>';return} let last=''; let html=''; for(const e of list){const day=e.date||'Ukjent dato'; if(day!==last){html+=`<div class="group-title">${fmtDate(e.date)}</div>`; last=day} html+=`<article class="event"><div class="row"><div class="date">${fmtDate(e.date)}<span class="time">${e.time||''}</span></div><div><div class="title">${e.title||'Uten tittel'}</div><div class="sub">${e.venue||''}${e.area?' · '+e.area:''}</div></div><div class="tags">${(e.category||[]).join(' · ')}</div></div><div class="details">${e.description||''}<br>${e.price?'<b>Pris:</b> '+e.price+'<br>':''}${e.source?'<b>Kilde:</b> '+e.source+'<br>':''}${e.url?`<a href="${e.url}" target="_blank" rel="noopener">Åpne kilde</a>`:''}</div></article>`} $('#events').innerHTML=html; document.querySelectorAll('.event .row').forEach(r=>r.onclick=()=>r.parentElement.classList.toggle('open'))}
+async function init(){renderFilters(); try{const res=await fetch('events.json?ts='+Date.now()); events=await res.json(); $('#meta').textContent='Sist lastet: '+new Date().toLocaleString('no-NO'); render()}catch(e){$('#meta').textContent='Kunne ikke laste events.json'; $('#events').innerHTML='<div class="empty">Sjekk at events.json finnes.</div>'}};
+$('#search').addEventListener('input',render); init();
+</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sample-001",
+    "title": "Eksempel: oppdater workflow for å hente live eventer",
+    "date": "2026-07-01",
+    "time": "",
+    "venue": "Kristiansand",
+    "area": "Kristiansand",
+    "category": ["system"],
+    "family": false,
+    "price": "",
+    "description": "Dette er eksempeldata. Når GitHub Actions kjører, vil scripts/update_events.py skrive events.json på nytt.",
+    "url": "",
+    "source": "starter"
+  }
+]
