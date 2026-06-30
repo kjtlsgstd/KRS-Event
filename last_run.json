@@ -1,0 +1,17 @@
+{
+  "last_run_at": "2026-06-30T12:21:23+02:00",
+  "status": "partial",
+  "events_total": 386,
+  "events_found_this_run": 386,
+  "events_new_or_updated": 2,
+  "sources_total": 33,
+  "sources_checked": 16,
+  "sources_ok": 14,
+  "sources_failed": 2,
+  "sources_skipped": 17,
+  "run_duration_seconds": 11.05,
+  "error_summary": [
+    "Kunstsilo: HTTP Error 404: Not Found",
+    "Teateret: URLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)'))"
+  ]
+}

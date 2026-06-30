@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import re
 import hashlib
+import time
 from html import unescape
 from datetime import date, datetime
 from pathlib import Path
@@ -33,6 +34,8 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES_FILE = ROOT / "sources.json"
 EVENTS_FILE = ROOT / "events.json"
+LAST_RUN_FILE = ROOT / "last_run.json"
+SOURCE_STATUS_FILE = ROOT / "source_status.json"
 
 HEADERS = {"User-Agent": "KristiansandEventguideBot/0.1 (+personal local event guide)"}
 MIN_SAFE_EVENT_COUNT = 2
@@ -227,6 +230,53 @@ def clean(text: str) -> str:
 def stable_id(*parts: str) -> str:
     raw = "|".join(clean(str(part)) for part in parts)
     return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:12]
+
+
+def now_iso() -> str:
+    return datetime.now(LOCAL_TZ).isoformat(timespec="seconds")
+
+
+def source_id(source: dict) -> str:
+    return stable_id(source.get("name", ""), source.get("url", ""))
+
+
+def short_error(exc, limit: int = 180) -> str:
+    message = clean(str(exc)) or clean(repr(exc)) or exc.__class__.__name__
+    return message if len(message) <= limit else message[: limit - 1] + "…"
+
+
+def source_status(source: dict, status: str, checked_at: str, event_count: int = 0, error=None, notes: str = "") -> dict:
+    return {
+        "source_id": source_id(source),
+        "name": clean(source.get("name", "Unknown source")),
+        "url": clean(source.get("url", "")),
+        "category": clean(source.get("category") or source.get("type") or "other"),
+        "status": status,
+        "checked_at": checked_at,
+        "event_count": event_count,
+        "error": short_error(error) if error else None,
+        "notes": clean(notes),
+    }
+
+
+def event_fingerprint(event: dict) -> str:
+    fields = ["title", "date", "time", "venue", "area", "url", "description", "source"]
+    raw = json.dumps({field: event.get(field, "") for field in fields}, ensure_ascii=False, sort_keys=True)
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()
+
+
+def count_new_or_updated(previous: list[dict], current: list[dict]) -> int:
+    previous_by_id = {
+        event.get("id"): event_fingerprint(normalize_event(event))
+        for event in previous
+        if isinstance(event, dict) and event.get("id")
+    }
+    changed = 0
+    for event in current:
+        event_id = event.get("id")
+        if not event_id or previous_by_id.get(event_id) != event_fingerprint(event):
+            changed += 1
+    return changed
 
 
 def fetch_html(url: str) -> str:
@@ -541,10 +591,26 @@ def normalize_event(event: dict) -> dict:
     return normalized
 
 
+def write_json(path: Path, payload) -> None:
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def main() -> None:
+    started = time.monotonic()
+    run_at = now_iso()
     sources = load_json(SOURCES_FILE, [])
-    seeded = seed_events()
+    if not isinstance(sources, list):
+        sources = []
+
+    previous_events = load_json(EVENTS_FILE, [])
+    if not isinstance(previous_events, list):
+        previous_events = []
+
+    source_rows = []
     scraped = []
+    run_errors = []
+    payload = []
+
     parsers = {
         source.get("name", ""): parse_structured_source
         for source in sources
@@ -553,32 +619,104 @@ def main() -> None:
     parsers["Kultur i kveld - Kristiansand"] = parse_kultur_i_kveld
     parsers["Kultur i kveld – Kristiansand"] = parse_kultur_i_kveld
     parsers["Kvadraturen - Hva skjer i Kristiansand"] = parse_kvadraturen
-    for source in sources if isinstance(sources, list) else []:
-        if not source.get("scrape", True) or source.get("priority", 9) > 2:
-            continue
-        parser = parsers.get(source.get("name", ""))
-        try:
-            if parser:
-                scraped.extend(parser(source))
-            elif source.get("generic_scrape", False):
-                scraped.extend(generic_extract_titles(source))
-        except Exception as exc:
-            print(f"Skipping {source.get('name', 'unknown source')}: {exc}")
 
-    dated_scraped = [e for e in scraped if e.get("date")]
+    for source in sources:
+        if not isinstance(source, dict):
+            continue
+
+        checked_at = now_iso()
+        if not source.get("scrape", True):
+            source_rows.append(source_status(
+                source,
+                "skipped",
+                checked_at,
+                notes="Manual or signal-only source; not scraped automatically.",
+            ))
+            continue
+
+        if source.get("priority", 9) > 2:
+            source_rows.append(source_status(
+                source,
+                "skipped",
+                checked_at,
+                notes=f"Priority {source.get('priority')} source skipped by daily scraper.",
+            ))
+            continue
+
+        parser = parsers.get(source.get("name", ""))
+        if not parser and not source.get("generic_scrape", False):
+            source_rows.append(source_status(
+                source,
+                "skipped",
+                checked_at,
+                notes="No parser is configured for this source yet.",
+            ))
+            continue
+
+        try:
+            found = parser(source) if parser else generic_extract_titles(source)
+            found = [normalize_event(event) for event in found if isinstance(event, dict)]
+            scraped.extend(found)
+            source_rows.append(source_status(
+                source,
+                "ok" if found else "no_events",
+                checked_at,
+                event_count=len(found),
+                notes="Checked successfully." if found else "Checked successfully, but no dated events were found.",
+            ))
+        except Exception as exc:
+            message = short_error(exc)
+            run_errors.append(f"{source.get('name', 'Unknown source')}: {message}")
+            source_rows.append(source_status(source, "failed", checked_at, error=message))
+            print(f"Skipping {source.get('name', 'unknown source')}: {message}")
+
+    dated_scraped = [event for event in scraped if event.get("date")]
+    seeded = seed_events()
     events = dated_scraped if len(dated_scraped) >= MIN_SAFE_EVENT_COUNT else seeded
-    if len(events) < MIN_SAFE_EVENT_COUNT:
-        events = seeded
 
     payload = sorted(
-        [normalize_event(e) for e in events],
-        key=lambda e: (e.get("date") or "9999-99-99", e.get("title", "")),
+        [normalize_event(event) for event in events],
+        key=lambda event: (event.get("date") or "9999-99-99", event.get("title", "")),
     )
-    if len(payload) < MIN_SAFE_EVENT_COUNT:
-        raise RuntimeError("Refusing to overwrite events.json with fewer than two events")
 
-    EVENTS_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    if len(payload) >= MIN_SAFE_EVENT_COUNT:
+        write_json(EVENTS_FILE, payload)
+    else:
+        run_errors.append("Refused to overwrite events.json with fewer than two events.")
+        payload = [normalize_event(event) for event in previous_events if isinstance(event, dict)]
+
+    sources_failed = sum(1 for row in source_rows if row["status"] == "failed")
+    sources_skipped = sum(1 for row in source_rows if row["status"] == "skipped")
+    sources_checked = len(source_rows) - sources_skipped
+    sources_ok = sum(1 for row in source_rows if row["status"] in {"ok", "no_events"})
+    events_found_this_run = len(dated_scraped)
+
+    if events_found_this_run >= MIN_SAFE_EVENT_COUNT and sources_failed == 0:
+        status = "ok"
+    elif events_found_this_run >= MIN_SAFE_EVENT_COUNT:
+        status = "partial"
+    else:
+        status = "failed"
+
+    last_run = {
+        "last_run_at": run_at,
+        "status": status,
+        "events_total": len(payload),
+        "events_found_this_run": events_found_this_run,
+        "events_new_or_updated": count_new_or_updated(previous_events, payload),
+        "sources_total": len(sources),
+        "sources_checked": sources_checked,
+        "sources_ok": sources_ok,
+        "sources_failed": sources_failed,
+        "sources_skipped": sources_skipped,
+        "run_duration_seconds": round(time.monotonic() - started, 2),
+        "error_summary": run_errors[:8],
+    }
+
+    write_json(SOURCE_STATUS_FILE, source_rows)
+    write_json(LAST_RUN_FILE, last_run)
     print(f"Wrote {len(payload)} events to {EVENTS_FILE}")
+    print(f"Wrote scraper status to {LAST_RUN_FILE} and {SOURCE_STATUS_FILE}")
 
 
 if __name__ == "__main__":

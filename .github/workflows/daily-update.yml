@@ -30,4 +30,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update events"
-          file_pattern: events.json
+          file_pattern: events.json last_run.json source_status.json

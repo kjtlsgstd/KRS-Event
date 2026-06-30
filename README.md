@@ -16,6 +16,8 @@ Gratis statisk eventguide som kan publiseres på GitHub Pages og oppdateres dagl
 - `index.html` viser guiden.
 - `events.json` er eventdata.
 - `sources.json` er kilderegisteret.
+- `last_run.json` er kort status for siste oppdatering.
+- `source_status.json` viser status per kilde fra siste oppdatering.
 - `scripts/update_events.py` lager ny `events.json`.
 - `.github/workflows/daily-update.yml` kjører scriptet daglig.
 
@@ -32,3 +34,13 @@ Første parser er konservativ. Den finner mulige eventer fra åpne HTML-sider, m
 `scripts/update_events.py` har parser for Kultur i kveld, Kvadraturen sitt kalender-API og generelle Schema.org Event-data fra offentlige kilder som Ticketmaster og Songkick. Nye kilder legges til som egne `parse_*`-funksjoner og registreres i `parsers` i `main()`. Parsere bør bare returnere eventer med tittel, dato og kilde-URL. Generisk scraping er opt-in per kilde med `generic_scrape: true`.
 
 Noen registrerte kilder mangler åpne strukturerte eventdata, blokkerer enkel serverhenting, eller krever egne API-/HTML-parsere. De står fortsatt i `sources.json`, men returnerer trygt null eventer til en egen parser er lagt inn.
+
+## Scraperstatus
+
+Se **Actions** i GitHub-repoet og åpne workflowen **Daily event update** for å kontrollere om den daglige kjøringen fullførte. Nettsiden viser også en kompakt **System status** basert på siste kjøring.
+
+`last_run.json` oppsummerer siste kjøring: tidspunkt, status (`ok`, `partial` eller `failed`), antall eventer, hvor mange kilder som ble sjekket, hvor mange som feilet, og korte feilmeldinger.
+
+`source_status.json` har en rad per kilde i `sources.json`. Der ser du om kilden var `ok`, `no_events`, `failed` eller `skipped`, hvor mange eventer den ga, og eventuell feil.
+
+Scraperen er frisk når GitHub Actions-kjøringen er grønn, `last_run.json` har status `ok` eller eventuelt `partial` med kjente ufarlige kildefeil, og `events_total` er stabilt eller økende. Status `failed`, mange feilede kilder, eller plutselig fall i `events_total` betyr at parserne eller kildene bør sjekkes.
