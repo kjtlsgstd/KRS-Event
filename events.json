@@ -1,94 +1,5 @@
 [
   {
-    "id": "merged-2ff49c068357",
-    "title": "Brasil vs. Norge på storskjerm hos The Old Irish Pub",
-    "date": "2026-07-05",
-    "time": "20:00",
-    "venue": "The Old Irish Pub Kristiansand",
-    "area": "Kristiansand S",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Se Norge møte Brasil på storskjerm hos The Old Irish Pub Kristiansand søndag 5. juli. Vi åpner kl. 20.00, med kampstart kl. 22.00. Reserver bord via vår hjemmeside for å sikre deg plass. Vi har et begrenset antall bord tilgjengelig, men mange drop-in-plasser. Gratis inngang. ID: 20 år.",
-    "url": "https://oldirishpub.no/",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://oldirishpub.no/"
-      }
-    ]
-  },
-  {
-    "id": "merged-857d4faab286",
-    "title": "Brazil - Norge - VM pÃ¥ storskjerm - Begrenset antal!",
-    "date": "2026-07-05",
-    "time": "23:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Annet: Brazil - Norge - VM pÃ¥ storskjerm - Begrenset antal! pÃ¥ Teateret i Kristiansand. Fotball-VM 2026 pÃ¥ storskjerm hos Teateret Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-c9cf44a258a9",
-    "title": "Norge - Frankrike",
-    "date": "2026-07-05",
-    "time": "21:00",
-    "venue": "Teateret Hovedscenen",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Fotball-VM 2026 på storskjerm hos Teateret! Bli med på verdens største fotballfest. Vi viser utvalgte kamper fra Fotball-VM 2026 på storskjerm, med god stemning og ekte mesterskapsfølelse. Teateret har alle rettigheter gjennom kampdagene. Kjøkkenet holder åpent hver dag fra kl. 16.00 til 22.00. Samle venner, familie eller kollegaer og opplev VM sammen med oss. Velkommen til Fotball-VM på Teateret!",
-    "url": "https://www.teateret.no/event/norge---frankrike---vm-pa-storskjerm",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.teateret.no/event/norge---frankrike---vm-pa-storskjerm"
-      }
-    ]
-  },
-  {
-    "id": "merged-b3d24e88f8be",
-    "title": "VM på Krank - NORGE - BRASIL",
-    "date": "2026-07-05",
-    "time": "19:00",
-    "venue": "Kafé Krank Scene",
-    "area": "Kristiansand",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "",
-    "url": "https://tikkio.com/events/64899-vm-pa-krank",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/64899-vm-pa-krank"
-      }
-    ]
-  },
-  {
     "id": "merged-7d315224bb16",
     "title": "DJ Monty",
     "date": "2026-07-07",
@@ -350,6 +261,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.facebook.com/vaktbua/"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/64704-algorytme-vaktbua-klubb"
       }
     ]
   },
@@ -468,6 +383,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1722768"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/62326-susie-the-spuds"
       }
     ]
   },
@@ -2737,6 +2656,7 @@
     "area": "Kristiansand",
     "category": [
       "show",
+      "festival",
       "culture"
     ],
     "family": false,
