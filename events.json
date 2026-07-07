@@ -787,6 +787,28 @@
     ]
   },
   {
+    "id": "merged-c035f086c806",
+    "title": "Frontéri [Techno] // Vaktbua Klubb",
+    "date": "2026-07-17",
+    "time": "20:00",
+    "venue": "Vaktbua",
+    "area": "Kristiansand S",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Frontéri tar deg med til en dyp og groovy verden i de drivende settene hans. Du vil høre både hypnotiske og perkussive elementer sammen med en jomende kick som fyller rommet. Bli med han på en reise gjennom fengende grooves og tilfredsstillende drops. Online billettsalg til kl 22, deretter i døra (billetter i døra koster +kr 20) ID: 20 år. See less",
+    "url": "https://tikkio.com/events/64964",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/64964"
+      }
+    ]
+  },
+  {
     "id": "merged-ddee7affab62",
     "title": "Ravnedalen Live 2026 @ Ravnedalen Naturpark",
     "date": "2026-07-17",
@@ -945,6 +967,29 @@
     ]
   },
   {
+    "id": "merged-ef14605dde67",
+    "title": "Improkamp: Makrellrevyen VS Dyreparken",
+    "date": "2026-07-22",
+    "time": "20:00",
+    "venue": "Teateret Intimscenen",
+    "area": "Kristiansand S",
+    "category": [
+      "family",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Onsdag 22. juli er det duket for sommerens morsomste og mest populære improkamp på Teateret! Da skal røvere, rever og pirater fra Dyreparken spille ut festlige scener sammen med gjøglere og unge talenter fra Kristiansand og Makrellrevyen. Hvem er best? Publikum bestemmer! Det blir rørende, skummelt, pinlig, absurd, underholdende og morsomt. Alt kan skje i løpet av to herlige akter med improvisert tullball, og det eneste som er sikkert er at det blir fryktelig artig! NB: IMPRO for voksne! Arrangementet er en del av Sommerscenen 2026 og er støttet av Kristiansand kommune",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1744322",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1744322"
+      }
+    ]
+  },
+  {
     "id": "merged-7787d293962b",
     "title": "Thomas Dybdahl @ Posebyhaven",
     "date": "2026-07-22",
@@ -1041,6 +1086,51 @@
       {
         "name": "Songkick Kristiansand",
         "url": "https://www.songkick.com/concerts/43024426-fadnes-at-cafe-generalen?utm_medium=organic&utm_source=microformat"
+      }
+    ]
+  },
+  {
+    "id": "merged-5ebd350c2d47",
+    "title": "Latin Beach Party: Dj Lomix by Sabor Latino",
+    "date": "2026-07-24",
+    "time": "18:00",
+    "venue": "Vaktbua",
+    "area": "Kristiansand S",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Vi inviterer til Latin Beach Party, av Sabor Latino på Vaktbua ☀️☀️ Denne sommeren fylles hjertet av Kristiansand med latinamerikanske rytmer, beste sol terrasse og ekte sommerstemning. Vi får besøk igjen av Dj Lomix fra Chile, som tar med varme grooves, reggaeton classics og tropiske vibes til byens mest solrike terrasse. Vi går Fra avslappet sunset-stemning til full dansegulv-energi utover kvelden. Vi gleder oss!! ⏰ Tid: 20:00 CC: 100,- forhånd / 120,- i døra ID: 20+ Sabor Latino Latin party the chilean way",
+    "url": "https://tikkio.com/events/64474",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/64474"
+      }
+    ]
+  },
+  {
+    "id": "merged-c790246e905e",
+    "title": "Odderøya Viking Marked",
+    "date": "2026-07-24",
+    "time": "11:00",
+    "venue": "Odderøya",
+    "area": "Kristiansand S",
+    "category": [
+      "food",
+      "outdoor"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Historisk marked relatert til vikingtid med håndtverk, historiske fortellinger, gjøgleri, våpendemonstrasjon, bueskyting, mat, med mer",
+    "url": "https://www.agdervikinglag.no/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.agdervikinglag.no/"
       }
     ]
   },
@@ -1599,24 +1689,25 @@
     ]
   },
   {
-    "id": "merged-68a1bcaed625",
-    "title": "Speed date 20-35",
+    "id": "merged-d147bc8cb1e6",
+    "title": "Speed date 25-40 på Teateret",
     "date": "2026-08-12",
     "time": "18:00",
-    "venue": "Teateret Foajeen",
+    "venue": "Teateret",
     "area": "Kristiansand",
     "category": [
-      "food"
+      "food",
+      "show"
     ],
     "family": false,
     "price": "",
-    "description": "Er du singel og lei av endeløse sveip og samtaler som aldri fører noe sted? Synes du det er vanskelig å finne single i din aldersgruppe som faktisk er ute etter det samme som deg? Da er speed dating den perfekte løsningen – en sosial, morsom og uforpliktende måte å bli kjent med andre på, ansikt til ansikt. På Speed dating blir du kjent med flere single på en kveld og gjennom korte møter får du muligheten til å kjenne på kjemien med alle. Hvis praten stopper opp, har vi konversasjonskort for å hjelpe samtalen videre. All matching foregår i etterkant slik at du kan slappe av og bare være deg selv. Bli med på en sosial kveld fylt med ekte mennesker, gode samtaler, god drikke og alt du trenger for en hyggelig opplevelse. En kveld, flere dater - kanskje du finner kjemien med en helt spesiell. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating En morsom og effektiv måte å møte nye mennesker påAlle er single og alle ønsker å dateDu kan kjenne på kjemien med en gangNo pressure! - matching foregår i etterkantIngen forpliktelser - hver date varer kun noen minutterJovialt vertskap og konversasjonkort sørger for gode samtalerUtvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser. Billetten inkluderer velkomstdrikke m/u alkohol.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1686356",
+    "description": "Noen ganger trenger man ikke 47 meldinger og tre uker for å vite om det er kjemi – man trenger sju minutter og et glass vin. Speed dating er den raskeste veien fra \"hyggelig å møte deg\" til \"skal vi ta en kaffe?\". På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen endeløse meldingsutvekslinger eller usikkerhet på om det er match – bare ekte møter med ekte mennesker. Og hvis praten stopper litt opp? Null stress – vi har konversasjonskort som hjelper dere i gang. All matching skjer etter arrangementet, så du kan senke skuldrene og bare ha det gøy. Forvent god stemning, nye bekjentskaper, latter, kanskje litt sommerfugler i magen – og muligheten for å møte noen du faktisk klikker med. Ta med en venn eller kom alene – mange kommer for å møte nye folk og ha en skikkelig hyggelig kveld ute. Billetten inkluderer velkomstdrikke med eller uten alkohol. En kveld. Flere dater. Kanskje starten på noe skikkelig bra? SeS! Fordeler med speed dating: En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! Matching foregår i etterkant Ingen forpliktelser – hver date varer kun noen minutter Konversasjonskort sørger for gode samtaler Utvider nettverket ditt – selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser",
+    "url": "https://www.facebook.com/singeleventer/",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1686356"
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -1867,24 +1958,25 @@
     ]
   },
   {
-    "id": "merged-83c611584c8b",
-    "title": "Speed date 30-45",
+    "id": "merged-a2f8af96bbda",
+    "title": "Speed date 30-50 på Teateret",
     "date": "2026-08-19",
     "time": "18:00",
-    "venue": "Teateret Foajeen",
+    "venue": "Teateret",
     "area": "Kristiansand",
     "category": [
-      "food"
+      "food",
+      "show"
     ],
     "family": false,
     "price": "",
-    "description": "Er du singel og lei av endeløse sveip og samtaler som aldri fører noe sted? Synes du det er vanskelig å finne single i din aldersgruppe som faktisk er ute etter det samme som deg? Da er speed dating den perfekte løsningen – en sosial, morsom og uforpliktende måte å bli kjent med andre på, ansikt til ansikt. På Speed dating blir du kjent med flere single på en kveld og gjennom korte møter får du muligheten til å kjenne på kjemien med alle. Hvis praten stopper opp, har vi konversasjonskort for å hjelpe samtalen videre. All matching foregår i etterkant slik at du kan slappe av og bare være deg selv. Bli med på en sosial kveld fylt med ekte mennesker, gode samtaler, god drikke og alt du trenger for en hyggelig opplevelse. En kveld, flere dater - kanskje du finner kjemien med en helt spesiell. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating ? En morsom og effektiv måte å møte nye mennesker på ? Alle er single og alle ønsker å date ? Du kan kjenne på kjemien med en gang ? No pressure! - matching foregår i etterkant ? Ingen forpliktelser - hver date varer kun noen minutter ? Jovialt vertskap og konversasjonkort sørger for gode samtaler ? Utvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser. Billetten inkluderer velkomstdrikke m/u alkohol.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1686357",
+    "description": "Er du singel og synes det er vanskelig å møte noen som faktisk er på jakt etter noe seriøst, nå som man ikke akkurat treffer nye bekjentskaper gjennom jobb, studievenner eller gamle vennegjenger på samme måte som før? Kanskje savner du en arena hvor du kan bli kjent med andre som også er åpne for noe nytt. Da er speed dating noe for deg! På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen kompliserte datingapper eller usikkerhet på hvordan man skal tolke en melding – bare ekte møter med ekte mennesker, ansikt til ansikt. Skulle praten stoppe litt opp, har vi enkle konversasjonskort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan senke skuldrene og fokusere på å ha en hyggelig kveld. Dette blir en sosial kveld med gode samtaler, latter, god stemning og muligheten til å møte noen du kanskje ellers aldri ville truffet. Med litt livserfaring i bagasjen vet man gjerne bedre hva man ser etter – og kanskje er akkurat den gode kjemien nærmere enn du tror. Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating: En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! Matching foregår i etterkant Ingen forpliktelser – hver date varer kun noen minutter Jovialt vertskap og konversasjonskort sørger for gode samtaler Utvider nettverket ditt – selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser",
+    "url": "https://www.facebook.com/singeleventer/",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1686357"
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -1978,6 +2070,32 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1737778"
+      }
+    ]
+  },
+  {
+    "id": "merged-c239f0d67416",
+    "title": "Kanalbyenfestivalen",
+    "date": "2026-08-22",
+    "time": "12:00",
+    "venue": "Camilla Collets plass (inngangen til Kanalbyen)",
+    "area": "Kristiansand S",
+    "category": [
+      "family",
+      "concert",
+      "festival",
+      "food",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Kanalbyen er 10 år – og det skal feires Vi inviterer HELE byen til vandrefestival langs kanalen, en hel ettermiddag med musikk, show, mat, aktiviteter og konkurranser. Ta med familie, venner og naboer, og bli med på festen. Alle show og aktiviteter er gratis Program lørdag 22. august: Kl. 12.00: Åpning Åpning ved Egil Andre Mortensen. Konferansier: Tore Løvland Kl. 12.15: Konsert med Knuden Cecilia og Damien fremfører Salut d'Amour (Edward Elgar) og Canon in D (Johann Pachelbel) Herman og Ronja fremfører Die on This Hill (Sienna Spiro) og Someone Like You (Adele) Kl. 13.00: VitenShow Vitensenteret inntar scenen med et show for store og små Kl. 14.30: Premieutdeling Premieutdeling for rebusløpet Kl. 15.00: Gratiskonsert med Thom Hell Festivalen avsluttes med storslått konsert Les mer her: https://www.kanalbyen.no/kanalbyenfestivalen/ Velkommen til Camilla Collets plass (inngangen til Kanalbyen) lørdag 22. august kl. 12:00.",
+    "url": "https://www.kanalbyen.no/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.kanalbyen.no/"
       }
     ]
   },
@@ -2076,24 +2194,25 @@
     ]
   },
   {
-    "id": "merged-2cc54aaf7e73",
-    "title": "Speed date 40-59",
+    "id": "merged-318a78823967",
+    "title": "Speed date 40-60 på Teateret",
     "date": "2026-08-26",
     "time": "18:00",
-    "venue": "Teateret Foajeen",
+    "venue": "Teateret",
     "area": "Kristiansand",
     "category": [
-      "food"
+      "food",
+      "show"
     ],
     "family": false,
     "price": "",
-    "description": "Er du singel og lei av endeløse sveip og samtaler som aldri fører noe sted? Synes du det er vanskelig å finne single i din aldersgruppe som faktisk er ute etter det samme som deg? Da er speed dating den perfekte løsningen – en sosial, morsom og uforpliktende måte å bli kjent med andre på, ansikt til ansikt. På Speed dating blir du kjent med flere single på en kveld og gjennom korte møter får du muligheten til å kjenne på kjemien med alle. Hvis praten stopper opp, har vi konversasjonskort for å hjelpe samtalen videre. All matching foregår i etterkant slik at du kan slappe av og bare være deg selv. Bli med på en sosial kveld fylt med ekte mennesker, gode samtaler, god drikke og alt du trenger for en hyggelig opplevelse. En kveld, flere dater - kanskje du finner kjemien med en helt spesiell. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating En morsom og effektiv måte å møte nye mennesker påAlle er single og alle ønsker å dateDu kan kjenne på kjemien med en gangNo pressure! - matching foregår i etterkantIngen forpliktelser - hver date varer kun noen minutterJovialt vertskap og konversasjonkort sørger for gode samtalerUtvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser. Billetten inkluderer velkomstdrikke m/u alkohol.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1686358",
+    "description": "Er du singel og synes det er vanskelig å møte noen som faktisk er på jakt etter noe seriøst, nå som man ikke akkurat treffer nye bekjentskaper gjennom jobb, studievenner eller gamle vennegjenger på samme måte som før? Kanskje savner du en arena hvor du kan bli kjent med andre som også er åpne for noe nytt. Da er speed dating noe for deg! På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen kompliserte datingapper eller usikkerhet på hvordan man skal tolke en melding – bare ekte møter med ekte mennesker, ansikt til ansikt. Skulle praten stoppe litt opp, har vi enkle konversasjonskort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan senke skuldrene og fokusere på å ha en hyggelig kveld. Dette blir en sosial kveld med gode samtaler, latter, god stemning og muligheten til å møte noen du kanskje ellers aldri ville truffet. Med litt livserfaring i bagasjen vet man gjerne bedre hva man ser etter – og kanskje er akkurat den gode kjemien nærmere enn du tror. Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating: En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! Matching foregår i etterkant Ingen forpliktelser – hver date varer kun noen minutter Jovialt vertskap og konversasjonskort sørger for gode samtaler Utvider nettverket ditt – selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser",
+    "url": "https://www.facebook.com/singeleventer/",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1686358"
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -2722,24 +2841,25 @@
     ]
   },
   {
-    "id": "merged-2eaa279fab25",
-    "title": "Speed date 55-75",
+    "id": "merged-941601a26439",
+    "title": "Speed date 50-70 på Teateret",
     "date": "2026-09-09",
     "time": "18:00",
-    "venue": "Teateret Foajeen",
+    "venue": "Teateret",
     "area": "Kristiansand",
     "category": [
-      "food"
+      "food",
+      "show"
     ],
     "family": false,
     "price": "",
-    "description": "Er du singel og lei av endeløse sveip og samtaler som aldri fører noe sted? Synes du det er vanskelig å finne single i din aldersgruppe som faktisk er ute etter det samme som deg? Da er speed dating den perfekte løsningen – en sosial, morsom og uforpliktende måte å bli kjent med andre på, ansikt til ansikt. På Speed dating blir du kjent med flere single på en kveld og gjennom korte møter får du muligheten til å kjenne på kjemien med alle. Hvis praten stopper opp, har vi konversasjonskort for å hjelpe samtalen videre. All matching foregår i etterkant slik at du kan slappe av og bare være deg selv. Bli med på en sosial kveld fylt med ekte mennesker, gode samtaler, god drikke og alt du trenger for en hyggelig opplevelse. En kveld, flere dater - kanskje du finner kjemien med en helt spesiell. SeS! Fordeler med speed dating En morsom og effektiv måte å møte nye mennesker påAlle er single og alle ønsker å dateDu kan kjenne på kjemien med en gangNo pressure! - matching foregår i etterkantIngen forpliktelser - hver date varer kun noen minutterJovialt vertskap og konversasjonkort sørger for gode samtalerUtvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser. Billetten inkluderer velkomstdrikke m/u alkohol.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1715733",
+    "description": "Er du singel og savner en enkel måte å bli kjent med nye mennesker på? En arena hvor man kan møtes uten forventningspress, bare være nysgjerrig og åpen for det som skjer. Da er speed dating noe for deg! På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen kompliserte datingapper eller usikkerhet på hvordan man skal tolke en melding – bare ekte møter med ekte mennesker, ansikt til ansikt. Skulle praten stoppe litt opp, har vi enkle konversasjonskort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan senke skuldrene og fokusere på å ha en hyggelig kveld. Dette blir en sosial kveld med gode samtaler, latter, god stemning og muligheten til å møte noen du kanskje ellers aldri ville truffet. Med litt livserfaring i bagasjen vet man ofte bedre hva man ser etter – og kanskje er akkurat den gode kjemien nærmere enn du tror. Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating: En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! Matching foregår i etterkant Ingen forpliktelser – hver date varer kun noen minutter Konversasjonskort sørger for gode samtaler Utvider nettverket ditt – selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser",
+    "url": "https://www.facebook.com/singeleventer/",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1715733"
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -3323,6 +3443,29 @@
     ]
   },
   {
+    "id": "merged-025af023461b",
+    "title": "HAGLE // KICK - KRISTIANSAND 18+ (21:00)",
+    "date": "2026-09-25",
+    "time": "19:00",
+    "venue": "Kick Kulturhus",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "festival"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Hagle skifter gir inn i 2026 og klemmer gassen i bånn med sin gledesspredende country-rap,som har blittomfavnet av hele nasjonen.Med over 250 millioner streams, utallige TV-opptredener, VG-lista, Spellemannspris og hyppige avspillinger påradiofyller Hagle konsertarenaer over hele landet.Etter stor suksess iHver gang vi møteshar Hagle igjen tatt topplasseringene på norske streaminglister, senestmed Espen Lind-tolkningen«Baby, du er rå!»sammen med Ingebjørg Bratland, som gikk rett inn på 1. plass påSpotify top 50.Sommeren 2026 kan du oppleve Hagle med sitt fantastiske liveband på utvalgtefestivalscener i Norge.",
+    "url": "https://tikkio.com/events/64919",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/64919"
+      }
+    ]
+  },
+  {
     "id": "merged-cf9bbd2c7bbb",
     "title": "Mezzoforte",
     "date": "2026-09-25",
@@ -3364,6 +3507,30 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1665184"
+      }
+    ]
+  },
+  {
+    "id": "merged-801f4b97c042",
+    "title": "VIVID.presents: Sagor Som Leder Mot Slutet (SE) + Monograf",
+    "date": "2026-09-25",
+    "time": "18:30",
+    "venue": "Vaktbua",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "festival",
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Sagor Som Leder Mot Slutet is a Swedish instrumental post‐rock/post‐metal band crafting immersive, narrative‐driven soundscapes that balance heaviness with fragility. Independent since 2014, the band has released four acclaimed studio albums - I, II, II and IV - and composed the award‐winning soundtrack for the film Iris. Their dynamic, atmospheric performances have earned them recognition at festivals such as VIVID. a post-rock festival and Dunk! Festival, establishing them as one of Scandinavia's most compelling voices in modern post‐rock. Music: https://linktr.ee/sagorsomledermotslutet If Scandinavian noir had a post-apocalyptic soundtrack, it would sound like MONOGRAF. On their second full-length album, Occultation, the Norwegian collective conjures a soundscape that draws on the brooding intensity of Grails and Godspeed You! Black Emperor, while threading through the haunting melancholy of Scandinavian folk instruments like the nykkelharpa and fiddle. The result is music that feels as vast and desolate as the Nordic landscape itself, dark, cinematic, and hauntingly beautiful. At the center of MONOGRAF is composer Erik Aanonsen, whose unique background shapes the band's singular sound. With roots in the black metal underground as a former member of Antestor, collaborations with acclaimed Norwegian folk singer Pål Moddi, and a degree in film scoring, Aanonsen brings a rare breadth of vision that straddles heaviness, melancholy, and cinematic drama. Music: https://monograf.bandcamp.com/",
+    "url": "https://tikkio.com/events/64929",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/64929"
       }
     ]
   },
@@ -4675,6 +4842,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.facebook.com/events/818738121208671"
+      }
+    ]
+  },
+  {
+    "id": "merged-3109340e2e12",
+    "title": "Pikekyss [indiepop] // Vaktbua",
+    "date": "2026-10-30",
+    "time": "19:00",
+    "venue": "Vaktbua",
+    "area": "Kristiansand S",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Pikekyss er et norsk indiepopband fra Oslo bestående av Alma og Helén. De er kjent for sin energiske, gitarbaserte pop med dansbare rytmer og ærlige, følelsesnære tekster. De markerte sitt 10 års jubileum i fjor. Gjennom låter som «Sykler uten hender», «Vi burde danse» og «Planet» har Pikekyss opparbeidet seg flere millioner streams, og befestet sin posisjon som et av de mest fengende og umiddelbare indiepopnavnene i Norge.",
+    "url": "https://tikkio.com/events/64905",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/64905"
       }
     ]
   },
