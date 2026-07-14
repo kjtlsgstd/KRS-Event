@@ -1,27 +1,5 @@
 [
   {
-    "id": "merged-64f0797a58fe",
-    "title": "Sørlandets Gitarleir – 13.–14. juli i Kristiansand",
-    "date": "2026-07-13",
-    "time": "17:00",
-    "venue": "Kristiansand",
-    "area": "Kristiansand",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Sørlandets Gitarleir er en inspirerende og sosial sommerleir for gitarister i alle aldre og på alle nivåer. I løpet av to innholdsrike dager får deltakerne lære av erfarne instruktører, spille sammen med andre, utvikle teknikk og rytme, og oppleve ekte musikkglede i trygge og motiverende omgivelser. Leiren passer både for helt ferske gitarister og for de som har spilt en stund og ønsker et løft i spillet sitt. Deltakerne får jobbe med grep, rytme, samspill, låtlæring og musikalsk selvtillit – alt gjennom praktiske økter, små grupper og felles aktiviteter. Mer info finner du på nettsiden: www.gitaristene.no/sorlandets-gitarleir",
-    "url": "www.gitaristene.no/arrangementer",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "www.gitaristene.no/arrangementer"
-      }
-    ]
-  },
-  {
     "id": "merged-e2f6cfd1f028",
     "title": "Konsert med Jan Eggum i Posebyhaven",
     "date": "2026-07-14",
@@ -4296,13 +4274,14 @@
     ]
   },
   {
-    "id": "merged-0efdc80bf022",
-    "title": "Dirty Old Town pres: Cowboyfrokost",
+    "id": "merged-865a6b6ce99a",
+    "title": "Cowboyfrokost @ Kafé Krank / Laboratoriet",
     "date": "2026-10-22",
-    "time": "",
+    "time": "21:00",
     "venue": "Kafé Krank / Laboratoriet",
-    "area": "Kristiansand S",
+    "area": "Kristiansand",
     "category": [
+      "culture",
       "concert",
       "food",
       "show"
@@ -4310,9 +4289,13 @@
     "family": false,
     "price": "",
     "description": "Sjølvaste Cowboyfrokost besøker Kristiansand og Kafé Krank i høst! Bandet med medlemmer fra Kristiansand, Farsund, Grimstad, Oslo og Fredrikstad er klare til å stappe sjappa 22. oktober! Cowboyfrokost rir uten kart og kompass gjennom musikkens ville vesten, og stopper der vinden slipper de av, om det er country, americana, singer-songwriter eller pop. Som moderne cowboyer, beskriver de seg som mer på «passe på kuer»-siden av cowboylivet enn banditter. Bandet oppstod på en hagefest, men nå skriver de låter med historiefortelling, varme harmonier og ulike referanser alle 6 bandmedlemmer har vokst opp med. Etter fem år med å covre alt med smak av country, tok Cowboyfrokost steget med eget materiale i høst. Debut-EPen Order Up! markerer starten på bandets eget, hel-texanske univers – der klassiske country- og americana-referanser møter pop og skandinaviske melodier. Order Up! er både første steg, og et løfte om mer, og bandet har allerede markert seg som et liveband med tydelig sound og identitet. Cowboyfrokost holder til i Oslo, men bandets røtter strekker seg over store deler av sør-øst Norge – fra Kristiansand, Farsund og Grimstad i sør, via Oslo og Fredrikstad. Bandet består av Frida Pernille Johannessen, Ingrid Akselsen, Selma van der Hagen, Oscar B. Berg, Eirik Øverby Vist og Eirik Buflaten – alle oppvokst med ulikt syn på countrymusikken, men med samme ønske om å spre country til folket. Scenerommet åpner kl 20:00 Konsertstart kl 21:00 Velkommen! Dørene åpner : 60 min før Varighet : ca. 75 min Servering : Mat Øl / Vin Alle rettigheter Aldersgrense : 20 Ledsager : Ledsager gratis uten billett Adkomst : Alle busser, tog og båter stanser i Kvadraturen (sentrum) med kort gangavstand til Kafé Krank. Buss nr 10 går fra Henrik Wergelands gate mot sykehuset, busstopp Fylkeshuset ligger like ved Krank. Rullestol : Ja Parkeringsmuligheter : Ja Arrangørens nettside Arrangørens Facebook Cowboyfrokost på Instagram Cowboyfrokost på YouTube Cowboyfrokost på Spotify",
-    "url": "https://www.ticketmaster.no/event/6572613?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "url": "https://www.songkick.com/concerts/43214072-cowboyfrokost-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat",
+    "source": "Songkick Kristiansand",
     "sources": [
+      {
+        "name": "Songkick Kristiansand",
+        "url": "https://www.songkick.com/concerts/43214072-cowboyfrokost-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat"
+      },
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.ticketmaster.no/event/6572613?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
@@ -4731,6 +4714,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.facebook.com/events/818738121208671"
+      }
+    ]
+  },
+  {
+    "id": "merged-3109340e2e12",
+    "title": "Pikekyss [indiepop] // Vaktbua",
+    "date": "2026-10-30",
+    "time": "20:00",
+    "venue": "Vaktbua",
+    "area": "Kristiansand S",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Pikekyss er et norsk indiepopband fra Oslo bestående av Alma og Helén. De er kjent for sin energiske, gitarbaserte pop med dansbare rytmer og ærlige, følelsesnære tekster. De markerte sitt 10 års jubileum i fjor. Gjennom låter som «Sykler uten hender», «Vi burde danse» og «Planet» har Pikekyss opparbeidet seg flere millioner streams, og befestet sin posisjon som et av de mest fengende og umiddelbare indiepopnavnene i Norge.",
+    "url": "https://tikkio.com/events/64905",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/64905"
       }
     ]
   },
