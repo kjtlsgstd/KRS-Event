@@ -1,20 +1,19 @@
 {
-  "last_run_at": "2026-07-25T12:14:44+02:00",
+  "last_run_at": "2026-07-26T12:23:52+02:00",
   "status": "partial",
-  "events_total": 313,
-  "events_found_this_run": 367,
-  "events_after_deduplication": 313,
-  "events_new_or_updated": 3,
+  "events_total": 310,
+  "events_found_this_run": 366,
+  "events_after_deduplication": 310,
+  "events_new_or_updated": 4,
   "sources_total": 33,
   "sources_checked": 16,
-  "sources_ok": 12,
-  "sources_failed": 4,
+  "sources_ok": 13,
+  "sources_failed": 3,
   "sources_skipped": 17,
-  "run_duration_seconds": 16.62,
+  "run_duration_seconds": 24.01,
   "error_summary": [
     "Kunstsilo: 404 Client Error: Not Found for url: https://www.kunstsilo.no/no/arrangementer",
-    "Teateret: HTTPSConnectionPool(host='teateret.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (…",
-    "Vitensenteret Sorlandet: 415 Client Error: Unsupported Media Type for url: https://vitensor.no/",
+    "Teateret: HTTPSConnectionPool(host='teateret.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake fai…",
     "Ticketmaster Kristiansand: 403 Client Error: Forbidden for url: https://www.ticketmaster.no/discover/kristiansand"
   ]
 }
