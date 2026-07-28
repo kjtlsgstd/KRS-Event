@@ -1,5 +1,27 @@
 [
   {
+    "id": "merged-ae60f67d8c73",
+    "title": "Bergen orgelsommer - Bergen International Organ Festival - Paul Wilmot in St. Mary's Church",
+    "date": "2026-07-28",
+    "time": "21:30",
+    "venue": "Mariakirken - St. Mary's Church",
+    "area": "Kristiansand",
+    "category": [
+      "festival"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Paul Wilmot is educated at University College, Oxford. In recent years, he served as organist in Lillehammer, before being appointed Cantor of Gjøvik Church in 2021. He has given solo recitals in Oslo Cathedral and Kristiansand Cathedral, and has collaborated with renowned ensembles such as the BBC Singers and the Trondheim Soloists. Wilmot is widely recognised for his musicianship, stylistic versatility, and expressive architectural sense. Paul Wilmot absolvierte seine musikalische Ausbildung am University College in Oxford. In den letzten Jahren wirkte er als Organist in Lillehammer, bevor er 2021 zum Kantor der Kirche von Gjøvik berufen wurde. Er konzertierte solistisch unter anderem im Dom zu Oslo und im Dom zu Kristiansand und arbeitete mit Ensembles von internationalem Rang wie den BBC Singers und den TrondheimSolistene zusammen. Sein Spiel zeichnet sich durch große musikalische Präsenz, stilistische Sicherheit und klangliche Klarheit aus. St. Mary’s Church is among Norway’s most beautiful sacred spaces. The Weimbs organ from 2015 is shaped in perfect harmony with the church interior, where space and sound merge into a single, living whole. Die Marienkirche zählt zu den schönsten sakralen Räumen Norwegens. Die Weimbs-Orgel von 2015 ist in vollkommener Harmonie mit dem Kirchenraum gestaltet, in dem Raum und Klang zu einem einzigen lebendigen Ganzen verschmelzen. Program: Peeter Cornet (ca. 1570/80-1633): Toccata on the third tone Dietrich Buxtehude (1637-1707): Prelude in F-sharp minor (BuxWV 146) Johann Sebastian Bach (1685-1750): Toccata, Adagio & Fugue in C major (BWV 564) Johann Tobias Krebs (1690-1762): Trio i c-moll BWV Anh. 46 Johann Casper Kerll (1627-1693): Capriccio cucu Alessandro Poglietti (early 1600s-1683): Aria bizzarra del rossignol Edwin Lemare (1865-1934): Cuckoo, from “Summer sketches” (Op. 73) Andreas Willscher (*1955) Der Sperling James Macmillan (*1959): - Gaudeamus in loci pac - Kenga e krushqve",
+    "url": "https://kirkemusikkibergen.ticketco.events/no/en/e/bergen_orgelsommer__bergen_international_organ_festival__paul_wilmot_in_st_marys_church",
+    "source": "TicketCo Norge",
+    "sources": [
+      {
+        "name": "TicketCo Norge",
+        "url": "https://kirkemusikkibergen.ticketco.events/no/en/e/bergen_orgelsommer__bergen_international_organ_festival__paul_wilmot_in_st_marys_church"
+      }
+    ]
+  },
+  {
     "id": "merged-69fdd26071d0",
     "title": "Konsert med Jo NesbÃ¸ i Posebyhaven - Ekstrakonsert!",
     "date": "2026-07-29",
@@ -1358,7 +1380,7 @@
     "id": "merged-3c18281921fb",
     "title": "Ary Morais & Band [world music] // Vaktbua",
     "date": "2026-08-28",
-    "time": "19:00",
+    "time": "18:00",
     "venue": "Vaktbua",
     "area": "Kristiansand S",
     "category": [
