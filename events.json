@@ -1,60 +1,5 @@
 [
   {
-    "id": "merged-65ce6205ab73",
-    "title": "Konsert med Hilde Hefte i Posebyhaven",
-    "date": "2026-08-12",
-    "time": "22:00",
-    "venue": "Posebyhaven Scene",
-    "area": "Kristiansand",
-    "category": [
-      "concert",
-      "show",
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "12. august byr det seg igjen en mulighet til å få med seg denne eksklusive konserten der Hilde gjør et godt utplukk sanger fra forestillingen, forteller historier om og rundt oppsetningen, og ikke minst om Edith Piaf. Og for å gjøre dette har hun fått med seg den eminente musikeren Vidar Bø på tangenter. Vidar har også vært med helt fra starten, og har gått Piaf-veien sammen med Hilde i alle disse årene. Velkommen! Konsertstart : 20:00 Dørene åpner : 18:00 Varighet : 75 min Servering : Mat | Øl / Vin Aldersgrense : 20 Ledsager : Gratis uten billett Bevegelseshemmede : Ja Parkeringsmuligheter : Ja Arrangørens nettside: gamabooking.no",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/54039051?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-d147bc8cb1e6",
-    "title": "Speed date 25-40 på Teateret",
-    "date": "2026-08-12",
-    "time": "18:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "food",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Noen ganger trenger man ikke 47 meldinger og tre uker for å vite om det er kjemi – man trenger sju minutter og et glass vin. Speed dating er den raskeste veien fra \"hyggelig å møte deg\" til \"skal vi ta en kaffe?\". På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen endeløse meldingsutvekslinger eller usikkerhet på om det er match – bare ekte møter med ekte mennesker. Og hvis praten stopper litt opp? Null stress – vi har konversasjonskort som hjelper dere i gang. All matching skjer etter arrangementet, så du kan senke skuldrene og bare ha det gøy. Forvent god stemning, nye bekjentskaper, latter, kanskje litt sommerfugler i magen – og muligheten for å møte noen du faktisk klikker med. Ta med en venn eller kom alene – mange kommer for å møte nye folk og ha en skikkelig hyggelig kveld ute. Billetten inkluderer velkomstdrikke med eller uten alkohol. En kveld. Flere dater. Kanskje starten på noe skikkelig bra? SeS! Fordeler med speed dating: En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! Matching foregår i etterkant Ingen forpliktelser – hver date varer kun noen minutter Konversasjonskort sørger for gode samtaler Utvider nettverket ditt – selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser",
-    "url": "https://www.facebook.com/singeleventer/",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.facebook.com/singeleventer/"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
     "id": "merged-b63609b3d6c2",
     "title": "Jaga Jazzist & Kristiansand Symfoniorkester",
     "date": "2026-08-13",
@@ -216,11 +161,11 @@
   },
   {
     "id": "merged-0dca92979cab",
-    "title": "Frokostklubben [pop/rock] // Vaktbua Inngang Frokostklubben",
+    "title": "Frokostklubben [pop/rock] // Vaktbua",
     "date": "2026-08-14",
-    "time": "17:00",
+    "time": "19:00",
     "venue": "Vaktbua",
-    "area": "Kristiansand",
+    "area": "Kristiansand S",
     "category": [
       "family",
       "concert"
@@ -228,12 +173,12 @@
     "family": true,
     "price": "",
     "description": "Frokostklubben er et band med myke kanter som passer til frynsete sjeler på tidligere morgener. Bandets visjon er å la enkeltmusikerne skinne gjennom miksen, og gi deg det peste popmusikkens strømlinjedeformede kanaler forsøker å holde hemmelig. Nemlig mer enn fire akkorder! Frokostklubben beveger seg i skjæringspunktet mellom pop, rock og håpløst opptatte småbarnsforeldre.",
-    "url": "https://tikkio.com/tickets/64481-frokostklubben-poprock-vaktbua",
+    "url": "https://tikkio.com/events/64481",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://tikkio.com/tickets/64481-frokostklubben-poprock-vaktbua"
+        "url": "https://tikkio.com/events/64481"
       },
       {
         "name": "Tikkio",
@@ -610,7 +555,7 @@
     "id": "merged-e4fa346001f6",
     "title": "Solbrent 2026",
     "date": "2026-08-21",
-    "time": "15:00",
+    "time": "13:00",
     "venue": "Odderøya, Kristiansand",
     "area": "Kristiansand S",
     "category": [
@@ -666,11 +611,12 @@
       "concert",
       "festival",
       "food",
+      "outdoor",
       "show"
     ],
     "family": false,
     "price": "",
-    "description": "Kanalbyen er 10 år – og det skal feires Vi inviterer HELE byen til vandrefestival langs kanalen, en hel ettermiddag med musikk, show, mat, aktiviteter og konkurranser. Ta med familie, venner og naboer, og bli med på festen. Alle show og aktiviteter er gratis Program lørdag 22. august: Kl. 12.00: Åpning Åpning ved Egil Andre Mortensen. Konferansier: Tore Løvland Kl. 12.15: Konsert med Knuden Cecilia og Damien fremfører Salut d'Amour (Edward Elgar) og Canon in D (Johann Pachelbel) Herman og Ronja fremfører Die on This Hill (Sienna Spiro) og Someone Like You (Adele) Kl. 13.00: VitenShow Vitensenteret inntar scenen med et show for store og små Kl. 14.30: Premieutdeling Premieutdeling for rebusløpet Kl. 15.00: Gratiskonsert med Thom Hell Festivalen avsluttes med storslått konsert Les mer her: https://www.kanalbyen.no/kanalbyenfestivalen/ Velkommen til Camilla Collets plass (inngangen til Kanalbyen) lørdag 22. august kl. 12:00.",
+    "description": "Kanalbyen er 10 år – og det skal feires. Vi inviterer hele byen til vandrefestival langs kanalen, en hel ettermiddag med musikk, show, mat, aktiviteter og konkurranser. Alle show og aktiviteter er gratis! På festivalområdet Utendørs klatretårn (Sørlandet Klatresenter) Vitensenteret har stor stand med lek og moro gjennom hele dagen Kunstsilo arrangerer familieverksted Rebusløp med flotte premier Og mye mer! Program fra scenen 12.00 Åpning ved Kanalbyen eiendom 12.15 Musikalske innslag ved Cecilia, Damien, Herman og Ronja fra Knuden 13.00 VitenShow 14.45 Gratiskonsert med Thom Hell 15.30 Premieutdeling for rebusløpet Konferansier: Tore Løvland Les mer her: https://www.kanalbyen.no/ kanalbyenfestivalen/ Velkommen til Kanalplassen (Inngangen til Kanalbyen) lørdag 22. august kl. 12:00.",
     "url": "https://www.kanalbyen.no/",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
@@ -1268,6 +1214,28 @@
     ]
   },
   {
+    "id": "merged-0f8bb5cfa9a2",
+    "title": "Kammerkonserter i Agder : Birkenes Kirke",
+    "date": "2026-09-02",
+    "time": "20:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Kammerkonserter i Agder : Birkenes Kirke pÃ¥ Kilden i Kristiansand. Kontrabass & cello Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-ea22cf687bb8",
     "title": "Klimaks – når heltinnen nekter å dø",
     "date": "2026-09-03",
@@ -1286,6 +1254,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1732797"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1656,6 +1628,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1732793"
+      }
+    ]
+  },
+  {
+    "id": "merged-4353889bd1a9",
+    "title": "Oscar Danielson @ Blå Kors",
+    "date": "2026-09-10",
+    "time": "19:00",
+    "venue": "Blå Kors",
+    "area": "Kristiansand",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Oscar Danielson at Blå Kors at 2026-09-10T19:00:00+0200",
+    "url": "https://www.songkick.com/concerts/43364834-oscar-danielson-at-bla-kors?utm_medium=organic&utm_source=microformat",
+    "source": "Songkick Kristiansand",
+    "sources": [
+      {
+        "name": "Songkick Kristiansand",
+        "url": "https://www.songkick.com/concerts/43364834-oscar-danielson-at-bla-kors?utm_medium=organic&utm_source=microformat"
       }
     ]
   },
@@ -2675,7 +2669,7 @@
     "id": "merged-ed92da7ef353",
     "title": "Todd Day Wait (US) [Country] // Vaktbua Kristiansand",
     "date": "2026-10-02",
-    "time": "19:00",
+    "time": "18:30",
     "venue": "Vaktbua",
     "area": "Kristiansand S",
     "category": [
