@@ -247,6 +247,29 @@
     ]
   },
   {
+    "id": "merged-dfbafc89452f",
+    "title": "Jan Bang \"Alighting\"",
+    "date": "2026-09-04",
+    "time": "",
+    "venue": "Teateret",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "festival"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Alighting er en samling sanger komponert av Jan Bang, opprinnelig bestilt av Torino Jazz Festival, der verket ble urfremført i 2025. Tekstene er skrevet av Tim Elsenburg fra det britiske bandet Sweet Billy Pilgrim og Punkt-medgrunnlegger Erik Honoré, som også har mikset albumet. Det utgis på Punkt Editions i 2027. Arrangementstidspunkt/konsertstart : 20:00 Dørene åpner : 15 min før Varighet : 45 min Servering : Øl / Vin Alle rettigheter Aldersgrense : 18 Ledsager : Ledsager gratis med billett Rullestol : Ja Parkeringsmuligheter : Ja Linker: Arrangørens nettside Artistens nettside",
+    "url": "https://www.ticketmaster.no/event/774215808?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.ticketmaster.no/event/774215808?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
+      }
+    ]
+  },
+  {
     "id": "merged-85f50f3ccc0b",
     "title": "Korpskraft i Kilden",
     "date": "2026-09-04",
@@ -780,28 +803,6 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1741063"
-      }
-    ]
-  },
-  {
-    "id": "merged-c499984f2519",
-    "title": "BAKGÅRDENS MUSIKKBINGO 11. SEPTEMBER",
-    "date": "2026-09-11",
-    "time": "16:45",
-    "venue": "Kristiansand",
-    "area": "Kristiansand S",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "JUBILEUMSSESONG 20 ÅR Bli med og vinn tusenvis av kroner! Bakgårdens Musikkbingo feirer 20 sesonger med full trøkk, uforglemmelig stemning og selvfølgelig – sjansen til å stikke av med de feteste premier! Gjør deg klar for en kveld fylt med hitlåter, allsang, musikalske utfordringer og muligheten til å vinne både gavekort og mye cash Kjenn igjen låtene – kryss av – vinn – og bli en del av jubileumsfeiringen! Bordet ditt er reservert fra kl 18:45 Bordsetting Vil dere sitte samlet? Kjøp billettene samlet",
-    "url": "https://tikkio.com/events/64721",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://tikkio.com/events/64721"
       }
     ]
   },
@@ -6471,6 +6472,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1733334"
+      }
+    ]
+  },
+  {
+    "id": "merged-26d8ffc9bcf1",
+    "title": "Nils-Ingar Aadne – Tenk det",
+    "date": "2027-01-22",
+    "time": "19:00",
+    "venue": "Kilden teater og konserthus Teater- og Operasalen",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Live Nation presenterer: Nils-Ingar Aadne – Tenk det Nils-Ingar Aadne, kjent som Nilsi, er klar med en ny helaftens stand-up forestilling. «Tenk det» er en forestilling hvor du helt sikkert ler og kanskje også lærer noe. Hva frykter vi? Hvor lykkelig er vi? Hvor mange drikker kaFe med melk hver dag? Hvor er vi på vei? Det siste kan vi bruke et liv på å finne ut av, men Nilsi tar en liten status nå og gjør opp sin mening. Med utgangspunkt i byrået Ipsos sin undersøkelse Norsk Monitor ser Nilsi på hvem vi er og i hvilken retning vi går. Han plukker ut fellesnevnere og kuriosa fra en stor undersøkelse som gjøres på Norges befolkning hvert andre år. Alt i den lekne, morsomme og selvironiske stilen vi kjenner igjen fra de tidligere forestillingene. I 2015 satt han opp forestillingen «EGO» som handlet seg selv og sitt, i 2021 kom «Da var det oss» som handlet om å gå fra en til å bli to, for så å få livet i trynet, miste det kjæreste du har og forsøke å gå videre. I «Tenk det» handler det om oss alle",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1750295",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1750295"
       }
     ]
   },
