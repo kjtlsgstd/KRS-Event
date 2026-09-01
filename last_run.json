@@ -1,19 +1,21 @@
 {
-  "last_run_at": "2026-08-31T12:54:15+02:00",
+  "last_run_at": "2026-09-01T11:26:10+02:00",
   "status": "partial",
   "events_total": 318,
-  "events_found_this_run": 366,
+  "events_found_this_run": 64,
   "events_after_deduplication": 318,
-  "events_new_or_updated": 2,
+  "events_new_or_updated": 0,
   "sources_total": 33,
   "sources_checked": 16,
-  "sources_ok": 13,
-  "sources_failed": 3,
+  "sources_ok": 12,
+  "sources_failed": 4,
   "sources_skipped": 17,
-  "run_duration_seconds": 22.43,
+  "run_duration_seconds": 21.66,
   "error_summary": [
+    "Kvadraturen - Hva skjer i Kristiansand: Expecting value: line 1 column 1 (char 0)",
     "Kunstsilo: 404 Client Error: Not Found for url: https://www.kunstsilo.no/no/arrangementer",
     "Teateret: HTTPSConnectionPool(host='teateret.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (…",
-    "Ticketmaster Kristiansand: 403 Client Error: Forbidden for url: https://www.ticketmaster.no/discover/kristiansand"
+    "Ticketmaster Kristiansand: 403 Client Error: Forbidden for url: https://www.ticketmaster.no/discover/kristiansand",
+    "Preserved previous events because this run produced only 63 events versus 318 previously."
   ]
 }
