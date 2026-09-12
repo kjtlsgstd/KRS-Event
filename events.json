@@ -1,104 +1,5 @@
 [
   {
-    "id": "merged-94efa481c82a",
-    "title": "Amund Mathisen // Teateret",
-    "date": "2026-09-11",
-    "time": "20:00",
-    "venue": "Teateret Intimscenen",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "food",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Låter gråter aller best i robåter Amund Mathisen er en sanger/låtskriver/gitarist fra Gjøvik som med sine leirbålgitar- møter-lesebriller-låter og lune scenepersonlighet står for Nord-Europas mykeste folk/rock-musikk. I løpet av sine tre år på bachelorutdanningen i Rytmisk Musikk ved Universitetet i Agder har Mathisen gjennomført to Norgesturneer samt skrevet, spilt inn og veldig snart sluppet sitt første album – tatt opp i ærverdige Athletic Sound i Halden. Debutplata 'The Only Heart Around' ble solgt på vinyl til ivrige publikummere under fjorårets turné mens singlene ble spilt hos både P1 Innlandet og P1 Sørlandet. Mathisen inspireres av en udødelig folk-tradisjon så vel som rock og jazz-harmonikk – gjerne med en keltisk vri og solid tekstarbeid. Ved første lytt kan låtene peke på artister som John Mayer, James Taylor og Paul McCartney og han tar for seg ensomhet, lengsel og kjærlighet på en forunderlig måte som får en til å trekke på smilebåndet med et nostalgisk og håpefullt blikk. Debutalbumet – 'The Only Heart Around' – er ute overalt fredag 15. mai før Mathisen og hans faste band nok en gang tar fatt på den norske landeveien i september. Mektigere, modigere og mykere enn noen gang. Band: Amund Øyhus Mathisen – musikk og tekst, gitar, vokal, piano Daniel Karijord Vårum – gitar, piano Ole Martin Hauan – trommer Amund Mælan – bass",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1741063",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1741063"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-c499984f2519",
-    "title": "BAKGÅRDENS MUSIKKBINGO 11. SEPTEMBER",
-    "date": "2026-09-11",
-    "time": "12:00",
-    "venue": "Kristiansand",
-    "area": "Kristiansand",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "JUBILEUMSSESONG 20 ÅR 🎉 Bli med og vinn tusenvis av kroner! Bakgårdens Musikkbingo feirer 20 sesonger med full trøkk, uforglemmelig stemning og selvfølgelig – sjansen til å stikke av med de feteste premier! Gjør deg klar for en kveld fylt med hitlåter, allsang, musikalske utfordringer og muligheten til å vinne både gavekort og mye cash 💸 🎤 Kjenn igjen låtene – kryss av – vinn – og bli en del av jubileumsfeiringen! Bordet ditt er reservert fra kl 18:45 🔖 Bordsetting Vil dere sitte samlet? Kjøp billettene samlet",
-    "url": "https://tikkio.com/events/64721-bakgardens-musikkbingo-11-september",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/64721-bakgardens-musikkbingo-11-september"
-      }
-    ]
-  },
-  {
-    "id": "merged-e53e98ddded2",
-    "title": "Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik!",
-    "date": "2026-09-11",
-    "time": "21:00",
-    "venue": "Kilden",
-    "area": "Kristiansand",
-    "category": [
-      "show",
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Året er 1886. Arendal er uten sidestykke den rikeste byen i Norge – en viktig handelsby med internasjonal appell. Den har fremtiden for sine føtter. Men så skjer det plutselige noe som skal snu opp ned på alt. Er Arendal Privatbank konkurs? Ryktene begynner å spre seg, og folk får panikk. Norges mest velstående by står på et blunk i sin størst krise. Folk mister alt: penger, arbeid og trygghet. Resultatet er massearbeidsledighet i regionen og stor nød. Som følge av dette samler arbeiderne seg i protest og danner det som skal bli Det Norske Arbeiderparti. Hvordan kunne alt dette skje? Og hvorfor har det blitt fortalt så lite om det som skjedde? Høsten 2026 settes historien om det beryktede Arendalskrakket opp som forestilling i Kilden. Det er Nye Arendals Dramatiske Selskab som har fått oppdraget med å dramatisere historien om en av Norges største økonomiske katastrofer gjennom tidene. Det blir en storslått forestilling om ambisjoner, nød og håp – pakket inn i en morsom og uhøytidelig satire om både fortiden og oss selv. Med seg på scenen har de hele landsdelens eget Kristiansand Symfoniorkester.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kilden.com/"
-      }
-    ]
-  },
-  {
-    "id": "merged-2ee355b2fcf5",
-    "title": "Salmer på Pøbb - på Wiese",
-    "date": "2026-09-11",
-    "time": "19:00",
-    "venue": "Wiese",
-    "area": "Lillehammer",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "SALMER PÅ PØBB Lewi Bergrud, Thor-Erik Fjellvang med band Salmer på Pøbb har fylt klubber og pøbber landet over. Den 11. september kommer de for aller første gang til Wiese! ...har gått sin seiersgang over hele kongeriket! - Fredriksstad Blad «Salmer på pøbb» har treft ein nerve i det norske musikklandskapet (…) bare smil og glede å sjå blant publikum! - NRK I 2024 tok Salmer på Pøbb-konseptet av for alvor, med over 40 utsolgte konserter fra Svalbard i nord til Kristiansand i sør, en kritikerrost platedebut med «Kapittel 1» og massiv medieoppmerksomhet. Året etter kom «Kapittel 2», fulgt opp av turné med sytten stopp på pøbber, klubber og i konserthus hvorav brorparten var smekk fulle. For først og fremst skal Salmer på pøbb oppleves live. Dette er mye mer enn en konsert. På Salmer på pøbb møtes folk fra alle generasjoner. Samme hva du tror på, samme hva slags musikk du liker, om du vil synge eller helst bare lytte, du er hjertelig velkommen. Konsertene er åpne for alle over 18 år (studentrabatt for alle under 25 og/eller studerende!) Ta med deg en venn og bli med på en kveld du vil huske lenge! Mer om Salmer på pøbb: Aldri før har salmer fått veggene til å riste på pub i Kristiansand (...) Konserten ble utsolgt en måned før konsertdato og samtlige billetter til ekstrakonserten som er satt opp 1. februar er revet bort allerede (...) Halvveis uti konserten er publikum i ekstase (...) - Fædrelandsvennen …her får salmesangens språklige klangbunn slå fra seg med sin voldsomme kraft (…) – Det er (…) ufattelig god stemning. Det er intimt, nedskalert og veldig lavterskel - Vårt Land For en stakket kveld ble salmene endevendt, ristet på og sendt ut i nye lydbilder over et stappfullt kulturhus (…) Selve salmerepertoaret er kjent og kjært når «Salmer på Pøbb» spiller. Men tolkningene har du aldri hørt før. - Sarpsborg Arbeiderblad Dørene åpner kl 19:00 Konserten starter kl 20:00 Baren i 2. etasje åpner kl 15:00 Velkommen!",
-    "url": "https://tikkio.com/events/63474-salmer-pa-pub-pa-wiese",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/63474-salmer-pa-pub-pa-wiese"
-      }
-    ]
-  },
-  {
     "id": "merged-7237a96d2b2f",
     "title": "Baldrian og Musa",
     "date": "2026-09-12",
@@ -167,29 +68,6 @@
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-44b442a2447d",
-    "title": "Forskningstorg i Kristiansand",
-    "date": "2026-09-12",
-    "time": "10:30",
-    "venue": "Øvre torv, Kristiansand",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "festival"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Velkommen til en dag full av spennende, lærerike og morsomme forskningsaktiviteter for både små og store! Hva kan vi stole på i en tid der informasjon sprer seg raskere enn noen gang? Under årets forskningstorg i Kristiansand inviterer vi publikum i alle aldre til å utforske årets tema for festivalen Forskningsdagene: Tillit. Gjennom gøyale aktiviteter, spennende formidling og gode samtaler får du oppleve hvordan forskning både kan bygge og utfordre tillit – enten det gjelder teknologi, helse, klima eller historie. Her møter du forskere fra ulike fagfelt som deler kunnskap, stiller spørsmål og gir innsikt i hvordan forskning påvirker samfunnet vårt – og hvem og hva vi velger å ha tillit til. Deltagere: Universitetet i Agder, Havforskningsinstituttet, Vitensenteret Sørlandet, NLA Høgskolen, Ansgar høyskole m.fl.",
-    "url": "https://fb.me/e/8e63znmJn",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://fb.me/e/8e63znmJn"
       }
     ]
   },
@@ -402,6 +280,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.ticketmaster.no/event/406134951?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
+      }
+    ]
+  },
+  {
+    "id": "merged-8696f597d7e5",
+    "title": "Marit og brødrene Eikemo",
+    "date": "2026-09-13",
+    "time": "16:00",
+    "venue": "Hesthamar skrivargard",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Det er lys i vindauget i Berjaflotvegen 9 i Odda, huset der dei fem brødrene Eikemo vaks opp. Marit Eikemo kjem heim for å rydde. Huset skal seljast. Men korleis ryddar ein i eit heilt liv? Og kva gjer ein med alle historiene, alle tinga, alle minna? Kven bestemmer kva som er verdt å ta vare på? Romanen «Vi er brødrene Eikemo» fekk kritikarane til å trilla seksarar på terningen og blir hausten 2026 også til scenefortelling på Det vestnorske teateret. Marit har over ti romanar og novellesamlingar bak seg, og har imponert både kritikarar og publikum med sine presise observasjonar av det norske samfunnet og tida vi lever i. Denne søndagen møter ho journalist Kari Hesthamar til samtale på skrivargarden.",
+    "url": "https://tikkio.com/events/63209-marit-og-brodrene-eikemo",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/63209-marit-og-brodrene-eikemo"
       }
     ]
   },
@@ -677,6 +577,29 @@
     ]
   },
   {
+    "id": "merged-3461e0b6653c",
+    "title": "Speeddate 25-35",
+    "date": "2026-09-16",
+    "time": "18:00",
+    "venue": "Teateret",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Er du lei av endeløs sveiping på datingapper uten å vite om kjemien faktisk stemmer? Da er speed dating en morsom og avslappet måte å møte nye mennesker på – ansikt til ansikt, i ekte livet. På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen lange meldingsutvekslinger, bare ekte møter med ekte mennesker. Og hvis praten stopper litt opp? Null stress – vi har konversasjonskort som hjelper dere i gang. All matching skjer etter arrangementet, så du kan senke skuldrene og bare ha det gøy. Forvent god stemning, nye bekjentskaper, latter, kanskje litt sommerfugler – og muligheten for å møte noen du faktisk klikker med. Ta med venninnen din eller kom alene – mange kommer for å møte nye folk og ha en skikkelig hyggelig kveld ute. Billetten inkluderer velkomstdrikke med eller uten alkohol. En kveld. Flere dater. Kanskje starten på noe skikkelig bra? SeS! Fordeler med speed dating En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! - matching foregår i etterkant Ingen forpliktelser - hver date varer kun noen minutter Jovialt vertskap og konversasjonkort sørger for gode samtaler Utvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser.",
+    "url": "https://www.facebook.com/singeleventer/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/singeleventer/"
+      }
+    ]
+  },
+  {
     "id": "merged-f22ebe8d11f4",
     "title": "Dirty Old Town @ Kafé Krank / Laboratoriet",
     "date": "2026-09-17",
@@ -849,6 +772,28 @@
     ]
   },
   {
+    "id": "merged-7a02b7feecb4",
+    "title": "Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik!",
+    "date": "2026-09-18",
+    "time": "21:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teater/Musikal: Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik! pÃ¥ Kilden i Kristiansand. Fra krakk til kamp Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-f9a7dcfe0d88",
     "title": "Jamkveld og åpen scene med Gitaristene",
     "date": "2026-09-18",
@@ -902,7 +847,8 @@
     "area": "Kristiansand",
     "category": [
       "family",
-      "show"
+      "show",
+      "culture"
     ],
     "family": true,
     "price": "",
@@ -913,6 +859,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1712921"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1213,6 +1163,28 @@
     ]
   },
   {
+    "id": "merged-21e18c838cc2",
+    "title": "Speeddate 30-45",
+    "date": "2026-09-23",
+    "time": "18:00",
+    "venue": "Teateret",
+    "area": "Kristiansand S",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Er du singel og synes det er vanskelig å møte nye mennesker i en travel hverdag? Kanskje savner du en sosial arena hvor det er enkelt å bli kjent med andre som også er åpne for nye relasjoner? Da er speed dating perfekt for deg! På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen lange meldingsutvekslinger, bare ekte møter med ekte mennesker. Skulle praten stoppe litt opp, har vi enkle konversasjonskort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan senke skuldrene og fokusere på å ha en hyggelig kveld. Dette blir en sosial kveld med gode samtaler, latter, god stemning og muligheten til å møte noen du kanskje ellers aldri ville truffet. Kanskje oppstår det en ekstra god kjemi? Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! - matching foregår i etterkant Ingen forpliktelser - hver date varer kun noen minutter Jovialt vertskap og konversasjonkort sørger for gode samtaler Utvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser.",
+    "url": "https://www.facebook.com/singeleventer/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/singeleventer/"
+      }
+    ]
+  },
+  {
     "id": "merged-b136ab63092a",
     "title": "Øyunn - med gjestemusikere fra UiA + JAM",
     "date": "2026-09-23",
@@ -1396,6 +1368,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1665184"
+      }
+    ]
+  },
+  {
+    "id": "merged-fb137d842c29",
+    "title": "Singelmingel",
+    "date": "2026-09-25",
+    "time": "18:00",
+    "venue": "Setesdølen",
+    "area": "Kristiansand S",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Er du singel, sosial og klar for å møte noen nye – på ekte? Bli med og mingle på koselige Setesdølen, der alle er åpne for å bli kjent – enten du er ute etter kjærlighet, nye bekjentskaper eller bare en skikkelig hyggelig kveld. På Singelmingel treffer du mange single i en avslappet og sosial setting hvor det er lett å komme i prat. Her kan du kjenne på kjemien med én gang – ansikt til ansikt. SeS-spill og minglekort gjør det lett å bli kjent med alle, og du kan vinne gavekort og andre gøye premier. Aldersinndelingen er veiledende, så alle som ønsker å date i alderen 30–50 kan melde seg på. Gled deg til: Mange single mellom 30–50 år Spesialmeny og 20% rabatt både fredag og lørdag SeS-spill og premier Minglekort som gjør det lett å komme i prat med alle ✨ God stemning og uformell atmosfære En sosial og effektiv måte å møte nye mennesker på Ta sjansen, møt opp med åpent sinn – du vet aldri hvem du treffer på veien. Vi gleder oss til å kjenne gnistene i lufta! SeS❣️",
+    "url": "https://www.facebook.com/singeleventer/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -1678,6 +1672,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1731527"
+      }
+    ]
+  },
+  {
+    "id": "merged-8fb88a788420",
+    "title": "Speeddate 40-55",
+    "date": "2026-09-30",
+    "time": "18:00",
+    "venue": "Teateret",
+    "area": "Kristiansand S",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Er du singel og synes det er vanskelig å møte nye mennesker i en travel hverdag? Kanskje savner du en sosial arena hvor det er enkelt å bli kjent med andre som også er åpne for nye relasjoner? Da er speed dating perfekt for deg! På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen lange meldingsutvekslinger, bare ekte møter med ekte mennesker. Skulle praten stoppe litt opp, har vi enkle konversasjonskort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan senke skuldrene og fokusere på å ha en hyggelig kveld. Dette blir en sosial kveld med gode samtaler, latter, god stemning og muligheten til å møte noen du kanskje ellers aldri ville truffet. Kanskje oppstår det en ekstra god kjemi? Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed dating En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! - matching foregår i etterkant Ingen forpliktelser - hver date varer kun noen minutter Jovialt vertskap og konversasjonkort sørger for gode samtaler Utvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser.",
+    "url": "https://www.facebook.com/singeleventer/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -2008,6 +2024,28 @@
     ]
   },
   {
+    "id": "merged-1cbfd31cc51a",
+    "title": "Speeddate 50-70",
+    "date": "2026-10-07",
+    "time": "18:00",
+    "venue": "Teateret",
+    "area": "Kristiansand S",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Er du singel og savner en hyggelig måte å møte nye mennesker på? Det kan være vanskelig å treffe andre single i hverdagen, særlig når mange allerede har etablerte vennekretser og faste rutiner. Speed dating er en fin og sosial anledning til å bli kjent med andre i samme situasjon – ansikt til ansikt, i trygge og avslappede omgivelser. I løpet av kvelden får du møte flere single gjennom korte samtaler rundt bordene. Her handler det ikke om prestasjon, men om gode møter, latter og muligheten til å kjenne om kjemien stemmer. Skulle praten stoppe litt opp, har vi enkle samtalekort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan slappe av og bare være deg selv. Dette blir en varm og sosial kveld med gode samtaler, hyggelig stemning og kanskje starten på et nytt vennskap – eller noe mer. Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å ønske deg velkommen! SeS! Fordeler med speed dating: En morsom og effektiv måte å møte nye mennesker på Alle er single og alle ønsker å date Du kan kjenne på kjemien med en gang No pressure! - matching foregår i etterkant Ingen forpliktelser - hver date varer kun noen minutter Jovialt vertskap og konversasjonkort sørger for gode samtaler Utvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser.",
+    "url": "https://www.facebook.com/singeleventer/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/singeleventer/"
+      }
+    ]
+  },
+  {
     "id": "merged-341fd5910762",
     "title": "Foredrag med Nils Harald Sødal",
     "date": "2026-10-08",
@@ -2207,6 +2245,29 @@
       {
         "name": "Songkick Kristiansand",
         "url": "https://www.songkick.com/festivals/112901-southern-discomfort/id/43265907-southern-discomfort-2026?utm_medium=organic&utm_source=microformat"
+      }
+    ]
+  },
+  {
+    "id": "merged-dbc4fe2673a8",
+    "title": "Teigen Music band ✨",
+    "date": "2026-10-09",
+    "time": "21:00",
+    "venue": "Clarion Hotel Ernst",
+    "area": "Kristiansand S",
+    "category": [
+      "family",
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teigen Music band ✨ Fredag 9. oktober fylles Clarion Hotel Ernst med allsang, munterhet og noen av norgeshistoriens mest elskede låter. TMB (Teigen Music Band) har gjort det til sitt varemerke å skape kvelder man husker lenge etter at lysene slås på igjen. Med røtter tilbake til 2019, som et lite bandprosjekt kalt Bra Kara, har bandet vokst frem til å bli en fullverdig hyllest til Jahn Teigens musikalske arv. Forvent en god dose klassikere fra Jahn Teigens store repertoar – som «Mil etter mil» og «Optimist» – i tillegg til det beste fra Prima Vera, fremført av allsidige musikere med bakgrunn fra flere sjangre og band. Nyt konserten og syng med! Ta med vennegjengen eller familie – dette blir en kveld dere synger sammen! Clarion Hotel Ernst 9. oktober kl. 21:00",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1752574",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1752574"
       }
     ]
   },
@@ -2490,6 +2551,29 @@
     ]
   },
   {
+    "id": "merged-c816c15acbac",
+    "title": "Unnskyld! Med Svein Tindberg og Kjetil Bjerkestand",
+    "date": "2026-10-14",
+    "time": "",
+    "venue": "Domkirkens Menighetshus",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Unnskyld! -en samtale om anger, håp og ønsket om å gjøre noe bedre. Onsdag 14. oktober kl. 19.00 får vi storfint besøk på Livsprat når Svein Tindberg og Kjetil Bjerkestrand kommer til en eksklusiv førsamtale om Unnskyld – Et Requiem, som fremføres på Kilden dagen etter. Hva skjer når en av Norges fremste skuespillere og en av våre mest nyskapende komponister setter ord og toner til en hel generasjons behov for å si: «Unnskyld»? Gjennom samtalen dykker vi ned i bakgrunnen for verket, tekstene, musikken og de store spørsmålene forestillingen reiser – om klimakrise, urettferdighet, ansvar og håp. Underveis får vi også smakebiter fra konsertforestillingen. Samtalen ledes av Frode Gallefoss. Ideen til Unnskyld – Et Requiem oppsto da Kjetil Bjerkestrand nærmet seg 70 år og kjente et sterkt behov for – på vegne av seg selv og sin generasjon – å be om unnskyldning for alt man ikke har gjort. Svein Tindberg svarte med tekster som er både dypt alvorlige, varme, morsomme og selvironiske, mens Bjerkestrands musikk løfter dem til en sterk og gripende helhet. Sammen har de skrevet en dødsmesse, men dypest sett og kanskje aller mest, en bønn til Vår Herre - en bønn om hjelp. Arrangementstidspunkt/konsertstart : 19:00 Dørene åpner : 30 min før Varighet : 90 min Aldersgrense : 15 Ledsager : Som ordinær pris Rullestol : Nei Parkeringsmuligheter : Ja For mer informasjon se Arrangørens nettside og",
+    "url": "https://www.ticketmaster.no/event/526154913?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.ticketmaster.no/event/526154913?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
+      }
+    ]
+  },
+  {
     "id": "merged-6e7a89545f81",
     "title": "Vær på ville veier - Relæxt!",
     "date": "2026-10-14",
@@ -2604,6 +2688,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1751849"
+      }
+    ]
+  },
+  {
+    "id": "merged-622f5192f162",
+    "title": "Singel Bingo med Radio Loland",
+    "date": "2026-10-15",
+    "time": "19:00",
+    "venue": "Setesdølen",
+    "area": "Kristiansand S",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Bli med på en lukket bingokveld kun for single, hvor du kan hygge deg med nye og gamle bekjentskaper mens du venter på det store gevinsttallet. Enkelt, sosialt og garantert god stemning – dette passer for alle, uansett alder eller bingoerfaring! Radio Loland Bingo har skikkelig greie premier! Hver eneste uke har de 12.700 kroner i ordinære premier. I tillegg kan du vinne lykketallspotten som kan komme opp i 100.000 skattefrie kroner. Dette kan du forvente: Klassisk bingo med Radio Loland Mat og drikke tilgjengelig i baren Sosial og uformell atmosfære Kun for single – en fin arena for å bli kjent med noen nye Bong kjøper du i baren for kun 80,- Vi åpner dørene 19:30 og bingo starter 20:30. Kom og ta et glass og en matbit før vi spiller! Ta med deg humøret og bingopennen og la tallene rulle – kanskje du går hjem med både gevinst og et nytt bekjentskap! SeS!",
+    "url": "https://www.facebook.com/singeleventer/",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/singeleventer/"
       }
     ]
   },
@@ -2891,7 +2997,7 @@
     "id": "merged-26f434cc2037",
     "title": "Moen å le av",
     "date": "2026-10-17",
-    "time": "20:00",
+    "time": "20:30",
     "venue": "Teateret Hovedscenen",
     "area": "Kristiansand",
     "category": [
@@ -3071,6 +3177,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/64724"
+      }
+    ]
+  },
+  {
+    "id": "merged-ab759809487b",
+    "title": "DJ Friendly // Vaktbua Klubb",
+    "date": "2026-10-23",
+    "time": "22:00",
+    "venue": "Vaktbua",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "festival"
+    ],
+    "family": false,
+    "price": "",
+    "description": "DJ Friendly spiller house og techno for alle danseglade på Vaktbua fra kl. 22:00! DJ Friendly har spilt på Vaktbua mange ganger, alltid med fullt dansegulv og GOD stemning. Dette sier artisten selv om Vaktbua: - Gjestene gjør Vaktbua til verdens beste minste klubb. DJ Friendly heter egentlig Erik Eriksson, han er født og oppvokst i Stavanger, og bor nå på et gammelt småbruk i indre Agder. Han er nok mest kjent for sine 3000 radiosendinger i løpet av 18 år på NRK P3, der han ukentlig presenterte elektronisk musikk i alle sine former og undersjangere. Mange har nok våknet opp til hans ørevennlige chillout-sendinger tidlig en lørdag- eller søndagsmorgen. DJ Friendly lager fremdeles ukentlige mixer og podcastsendinger for tusenvis av lyttere på nettsider som https://www.mixcloud.com/erik-djfriendly-eriksson/ I tillegg har han nesten 25 års erfaring som klubb-DJ, og har levert en rekke uforglemmelige kvelder både på Vaktbua og andre klubber og festivaler over hele landet. - Jeg liker best å spille ny musikk fra sjangere som funky deep house og melodiøs techno, og drar mer enn gjerne opp stemningen med noen kjente klubbklassikere fra 1990- og 2000-tallet. Men jeg lover å skuffe de som bare vil høre populære slagere fra dagens hitlister, sier DJ Friendly. ID 20 år. Online billettsalg (begrenset antall!) til kl. 22, deretter i døra.",
+    "url": "https://tikkio.com/events/66240",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://tikkio.com/events/66240"
       }
     ]
   },
@@ -3671,17 +3800,24 @@
     "venue": "Kafé Krank / Laboratoriet",
     "area": "Kristiansand",
     "category": [
-      "culture"
+      "culture",
+      "concert",
+      "festival",
+      "show"
     ],
     "family": false,
     "price": "",
-    "description": "Gouldian Finch and Dirty Old Town at Kafé Krank / Laboratoriet at 2026-10-31T21:00:00+0100",
+    "description": "I oktober presenterer vi ny musikk fra trommeslager, komponist og Jaga Jazzist-grunnlegger Martin Horntveths prosjekt Gouldian Finch. Horntveth debuterte som Gouldian Finch med bestillingsverket 'Superego', som ble fremført på Punktfestivalen I Kristiansand og som ble utgitt på platen, 'Hatch' i november 2023 til strålende kritikker. Låten 'The Flamingo' med vokal av selveste Emilie Nicolas lå på NRK P13's A-liste i mange måneder. I februar 2025 fulgte han opp med den mer jazzifiserte, Schizo. Med 10 manns-besetning spilte de noen elleville konserter blant annet på Parkteatret, Hamar, Drammen, Sandvika og ikke minst på Nasjonale Jazzscene i Oslo. Med nylig gjennomført konsert med Jaga Jazzist og byens eget symfoniorkester gleder trommeslageren, komponisten og artisten seg til å spille helt aleine igjen. Martin Horntveth (født 20. september 1977) er en norsk musiker, komponist, produsent og artist oppvokst i Tønsberg. Med fokus hovedsakelig på komposisjoner for film, dans og teater de siste 20 årene, har han nylig dykket ned i et stort sjangerblandings-prosjekt med flere kommende album og bestillingsverk under Gouldian Finch-paraplyen. Med påvirkninger fra hip-hop, glitch-electronica, pop, filmmusikk, folkemusikk og jazz smelter stilene sammen og endrer seg raskt slik at det føles som en berg-og-dal-bane gjennom musikalske sjangere. Martin har spilt solokonserter i UK, Belgia, USA, Italia pluss mange ganger I Norge. Alt dette under sitt eget navn. Arrangementstidspunkt/konsertstart : 21:00 Dørene åpner : 90 min før Varighet : 75 min Servering : Alle rettigheter Aldersgrense : 20 Ledsager : Ledsager gratis uten billett Adkomst : Alle busser, tog og ferger stanser i Kvadraturen (sentrum) med kort gangavstand til Kafé Krank. Rullestol : Ja Parkeringsmuligheter : Ja Linker: Arrangørens nettside Artistens nettside Spotify Instagram Sjanger 1 : Jazz/Blues Sjanger 2 : Konserter",
     "url": "https://www.songkick.com/concerts/43408941-gouldian-finch-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat",
     "source": "Songkick Kristiansand",
     "sources": [
       {
         "name": "Songkick Kristiansand",
         "url": "https://www.songkick.com/concerts/43408941-gouldian-finch-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat"
+      },
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.ticketmaster.no/event/374349586?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
       }
     ]
   },
@@ -5087,6 +5223,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1723484"
+      }
+    ]
+  },
+  {
+    "id": "merged-628a536753a5",
+    "title": "Julebord på Hartmanns brygge med SuperStars",
+    "date": "2026-11-27",
+    "time": "19:00",
+    "venue": "Hartmanns brygge",
+    "area": "Kristiansand S",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Julebord på Hartmanns Brygge Fredag 27. november 2026 åpner vi dørene til en av sesongens mest stemningsfulle festkvelder på Hartmanns Brygge. Bandet Superstars tar scenen og sørger for dansegulv og god stemning fra første tone – med kjente hits som passer for alle. Kveldens festmeny Forrett: Serranoskinke med melon Julebuffet: Ribbe med medisterkaker, julepølse, rødkål, poteter og ribbesaus – og pinnekjøtt med rotmos, poteter og sjy Dessert: Riskrem med jordbærsaus, inkludert kaffe Aldersgrense: 20 år (alle rettigheter i baren) Vi tar kontakt med deg i forkant av arrangementet for å avklare eventuelle allergier og bestilling av drikkepakker.",
+    "url": "https://app.checkin.no/event/230136",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://app.checkin.no/event/230136"
       }
     ]
   },
@@ -7587,30 +7745,6 @@
     ]
   },
   {
-    "id": "merged-5298fc3b07bd",
-    "title": "Ravnedalen Live 2027 @ Ravnedalen Naturpark",
-    "date": "2027-07-15",
-    "time": "",
-    "venue": "Ravnedalen Naturpark",
-    "area": "Kristiansand",
-    "category": [
-      "concert",
-      "festival",
-      "outdoor"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Ravnedalen Live 2027 at Ravnedalen Naturpark at 2027-07-15",
-    "url": "https://www.songkick.com/festivals/2753269-ravnedalen-live/id/43326780-ravnedalen-live-2027?utm_medium=organic&utm_source=microformat",
-    "source": "Songkick Kristiansand",
-    "sources": [
-      {
-        "name": "Songkick Kristiansand",
-        "url": "https://www.songkick.com/festivals/2753269-ravnedalen-live/id/43326780-ravnedalen-live-2027?utm_medium=organic&utm_source=microformat"
-      }
-    ]
-  },
-  {
     "id": "merged-ee28271b524a",
     "title": "Presidentinnene 2027",
     "date": "2027-08-06",
@@ -7631,6 +7765,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1739634"
+      }
+    ]
+  },
+  {
+    "id": "merged-81cb1fca12f1",
+    "title": "Verdiløse menn / 2027",
+    "date": "2027-09-18",
+    "time": "19:30",
+    "venue": "Kilden teater og konserthus Konsertsalen",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Verdiløse menn til Kilden! Den legendariske Jokke-mussikalen Verdiløse menn besøker Kristiansand lørdag 18. september 2027. Mussikalen er skrevet av Christopher Nielsen, basert på hans bror Joachim Nielsens udødelige sanger og tekster. Sangenes plass i forestillingen blir framført av tre musikere som alle spilte i Jokkes band. Verdiløse menn har gått for fulle hus siden urpremieren i 2008 og er mer populær enn noensinne, nå sett av over 100.000 publikummere. Goggen sitter alene hjemme, er selskapssjuk og konstaterer at gamle kompiser har fått seg jobb eller dame. Kleggen er imidlertid ledig, og dukker etter hvert opp med en six-pack øl, med Knugern på slep, og med litt av en nyhet … Slik åpner Verdiløse menn, Christopher Nielsens mussikal, der låtene til Joachim Nielsen flettes inn i historier om damer og dop, tigging og øl, døde venner og udødelig vennskap. Stort lenger Off Broadway går det neppe an å komme! Regi og scenografi: Anders T. Andersen På scenen: Jan Sælid Gard B. Eidsvold Kim Sørensen Marte Engebrigtsen Per Egil Aske Musikere: Valentourettes med Petter Baarli, Peter Pogo og Runar «Kula» Johannessen.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1752565",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1752565"
       }
     ]
   }
