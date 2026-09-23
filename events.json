@@ -1,94 +1,23 @@
 [
   {
-    "id": "merged-91a21c659b8c",
-    "title": "SPIS UTE UKA PÅ BAKGÅRDEN",
-    "date": "2026-09-21",
-    "time": "12:00",
-    "venue": "Kristiansand",
-    "area": "Kristiansand S",
+    "id": "merged-87b0860a3e15",
+    "title": "AN DRAN DRIN DREKT | Kartellet | Onsdag 23. september kl. 12",
+    "date": "2026-09-23",
+    "time": "14:00",
+    "venue": "Elefantteateret",
+    "area": "Kristiansand",
     "category": [
       "culture"
     ],
     "family": false,
     "price": "",
-    "description": "Bakgården serverer LAMMESKANK MED BAKTE ROTGRØNNSAKER, POTETMOS OG RØDVINSSAUS",
-    "url": "bakgardenbar.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "description": "Rare triks, felespill på stylter, sprø folkedans og en mystisk regle fra Grytøya og Vesterålen. Kartellet hyller den frie leken og håper å inspirere små og store til å leke, bevege seg – og kanskje danse litt mer! Stylter og fele Jo Einar Sterten Jansen Krumspring, regler og dans Sigurd Johan Heide Regler, krumspring og dans Tone Ingvaldsen",
+    "url": "https://elefantteateret.ticketco.events/no/nb/e/an_dran_drin_drekt__kartellet__onsdag_23_september_kl_12",
+    "source": "TicketCo Norge",
     "sources": [
       {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "bakgardenbar.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-8ef81b06f900",
-    "title": "Foredrag med Marianne Mørck Danielsen",
-    "date": "2026-09-22",
-    "time": "18:00",
-    "venue": "Kristiansand Folkebiblioteket",
-    "area": "Kristiansand S",
-    "category": [
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Sterkt foredrag med Marianne Mørck Danielsen om pårørenderollen til personer med demens. Arrangementet er gratis. Det blir også musikkinnslag med Bjøro Hildebrandt. Velkommen!",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1752300",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1752300"
-      }
-    ]
-  },
-  {
-    "id": "merged-f42a05c29b2d",
-    "title": "Ut på tokt med Pider Ro",
-    "date": "2026-09-22",
-    "time": "12:00",
-    "venue": "Kilden teater og konserthus Multisalen",
-    "area": "Kristiansand",
-    "category": [
-      "food",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Velkommen til en ramsalt forestilling som rommer både humor og alvor, med sus av gammel seilskutetid og et sørlandsk glimt i øyet. Som vanlig blir det servert skrøner fra Gabriel Scotts bok Pider Ro, ispedd maritime sanger underveis. For dem som har vært på Pider Ro-forestillinger tidligere, blir det både nye og gamle fortellinger og sanger. Medvirkende: Skuespiller Lars Emil Nielsen Lars Emil er en erfaren, allsidig og etterspurt skuespiller fra Lillesand. Mange kjenner ham også fra sommerrevyen På nyklipte stier i Lillesand. Våren 2026 er han aktuell i Kildens oppsetning Kilden Gabriel Scott-forestilling. Lars Emil er uten tvil Sørlandets fremste og mest erfarne formidler av karakteren «Pider Ro». Musiker Svein-Helge Vikse Svein-Helge er en erfaren og allsidig musiker, ofte å høre i duoformat med akustisk gitar. Han arbeider deltid som gitarlærer og deltid som freelance-musiker. Om sommeren er han svært aktiv som cruisemusiker i havna, og ellers spiller han jevnlig med dyktige vokalister på kulturelle oppdrag i landsdelen. Lars Emil og Svein-Helge ble kjent da de i 2020 samarbeidet i Kildens oppsetning To i båden – Sørlandsvisa 100 år. Siden da har de reist rundt på Sørlandet med Pider Ro-forestillinger i kulturhus, på egne arrangementer, som kulturelle innslag og med jevnlige forestillinger for SeniorKilden. Som i fjor har de også med seg en utvalgt gjest. Denne gangen deltar Kjell Åge Stoveland fra Kristiansand Symfoniorkester på bratsj. Kjell Åge Stoveland kommer fra Mandal og har vært bratsjist i KSO siden 2002. Han er utdannet ved UiA og Norges musikkhøgskole, og har bred erfaring som orkester- og kammermusiker. Han har også medvirket på en rekke plateinnspillinger, både som solist og i ensemble.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1731526",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1731526"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-f715d54cab43",
-    "title": "WEATHERING WITH YOU",
-    "date": "2026-09-22",
-    "time": "17:30",
-    "venue": "CINEMATEKET I KRISTIANSAND",
-    "area": "Kristiansand",
-    "category": [
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
-    "url": "https://tikkio.com/events/65986-weathering-with-you",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/65986-weathering-with-you"
+        "name": "TicketCo Norge",
+        "url": "https://elefantteateret.ticketco.events/no/nb/e/an_dran_drin_drekt__kartellet__onsdag_23_september_kl_12"
       }
     ]
   },
@@ -283,27 +212,22 @@
     ]
   },
   {
-    "id": "merged-8cab0d8f5dcf",
+    "id": "merged-e3244b43dcad",
     "title": "Live podcast med Lars Dehli og gjester",
     "date": "2026-09-24",
-    "time": "19:00",
-    "venue": "Teateret Biscenen",
-    "area": "Kristiansand S",
+    "time": "21:00",
+    "venue": "Teateret",
+    "area": "Kristiansand",
     "category": [
       "concert",
-      "food",
       "show"
     ],
     "family": false,
     "price": "",
-    "description": "Hvorfor sliter folk mer enn noensinne med å finne seg en kjæreste i våre dager, når du har et så stort utvalg tilgjengelig på telefonen din? Hva gjør at antallet 24 åringer som aldri har hatt sex er fordoblet? Og når folk først er i parforhold, hvorfor er det flere som går fra hverandre enn noen gang? Moderne dating kan opplevelse som både forvirrende og irrasjonelt, men er det egentlig ikke dersom du forstår de psykologiske mekanismene som styrer tiltrekning og pardannelse. Dette er kjønnsforskjeller som har utviklet seg gjennom evolusjon i over 300.000 år, lenge før swiping, teksting eller dating eksisterte. Det du kjenner på av angst, avvisning og ambivalente signaler er mismatchen mellom parringsatferd som har utviklet seg over utrolig lang tid for å tilpasse seg andre utfordringer enn den tilværelsen vil lever i i dag.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1748599",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "description": "Annet: Live podcast med Lars Dehli og gjester pÃ¥ Teateret i Kristiansand. Hvorfor sliter folk mer enn noensinne med Ã¥ finne seg en kjÃ¦reste i vÃ¥re dager, nÃ¥r du har et sÃ¥ stort utvalg tilgjengelig pÃ¥ telefonen din? Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
     "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1748599"
-      },
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
@@ -466,13 +390,17 @@
     ],
     "family": false,
     "price": "",
-    "description": "Hagle skifter gir inn i 2026 og klemmer gassen i bånn med sin gledesspredende country-rap,som har blittomfavnet av hele nasjonen.Med over 250 millioner streams, utallige TV-opptredener, VG-lista, Spellemannspris og hyppige avspillinger påradiofyller Hagle konsertarenaer over hele landet.Etter stor suksess iHver gang vi møteshar Hagle igjen tatt topplasseringene på norske streaminglister, senestmed Espen Lind-tolkningen«Baby, du er rå!»sammen med Ingebjørg Bratland, som gikk rett inn på 1. plass påSpotify top 50.Sommeren 2026 kan du oppleve Hagle med sitt fantastiske liveband på utvalgtefestivalscener i Norge.",
+    "description": "HAGLE: Hagle skifter gir inn i 2026 og klemmer gassen i bånn med sin gledesspredende country-rap,som har blittomfavnet av hele nasjonen.Med over 250 millioner streams, utallige TV-opptredener, VG-lista, Spellemannspris og hyppige avspillinger påradiofyller Hagle konsertarenaer over hele landet.Etter stor suksess iHver gang vi møteshar Hagle igjen tatt topplasseringene på norske streaminglister, senestmed Espen Lind-tolkningen«Baby, du er rå!»sammen med Ingebjørg Bratland, som gikk rett inn på 1. plass påSpotify top 50.Sommeren 2026 kan du oppleve Hagle med sitt fantastiske liveband på utvalgtefestivalsceneriNorg",
     "url": "https://tikkio.com/events/64919",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/64919"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/64904-hagle-kick-kristiansand-fri-alder"
       }
     ]
   },
@@ -1002,6 +930,50 @@
     ]
   },
   {
+    "id": "merged-aef93d46cd44",
+    "title": "Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik!",
+    "date": "2026-09-30",
+    "time": "21:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teater/Musikal: Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik! pÃ¥ Kilden i Kristiansand. Fra krakk til kamp Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-4ad309f1a2fe",
+    "title": "Speed date 40-55",
+    "date": "2026-09-30",
+    "time": "20:00",
+    "venue": "Teateret",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Annet: Speed date 40-55 pÃ¥ Teateret i Kristiansand. Er du singel og synes det er vanskelig Ã¥ mÃ¸te nye mennesker i en travel hverdag? Kanskje savner du en sosial arena hvor det er enkelt Ã¥ bli kjent med andre som ogsÃ¥ er Ã¥pne for nye relasjoner? Da er speed dating perfekt for deg! Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-8fb88a788420",
     "title": "Speeddate 40-55",
     "date": "2026-09-30",
@@ -1024,26 +996,21 @@
     ]
   },
   {
-    "id": "merged-4ad309f1a2fe",
-    "title": "speed date 40 - 55",
-    "date": "2026-09-30",
-    "time": "18:00",
-    "venue": "Teateret Foajeen",
-    "area": "Kristiansand S",
+    "id": "merged-f5b2a4ef84c7",
+    "title": "Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik!",
+    "date": "2026-10-01",
+    "time": "21:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
     "category": [
-      "food",
       "show"
     ],
     "family": false,
     "price": "",
-    "description": "Er du singel og synes det er vanskelig å møte nye mennesker i en travel hverdag? Kanskje savner du en sosial arena hvor det er enkelt å bli kjent med andre som også er åpne for nye relasjoner? Da er speed dating perfekt for deg! På speed dating møter du flere single i løpet av én kveld gjennom korte dater hvor dere får kjenne på stemningen, kjemien og om praten flyter. Ingen lange meldingsutvekslinger, bare ekte møter med ekte mennesker. Skulle praten stoppe litt opp, har vi enkle konversasjonskort som hjelper samtalen videre. All matching skjer i etterkant, slik at du kan senke skuldrene og fokusere på å ha en hyggelig kveld. Dette blir en sosial kveld med gode samtaler, latter, god stemning og muligheten til å møte noen du kanskje ellers aldri ville truffet. Kanskje oppstår det en ekstra god kjemi? Billetten inkluderer velkomstdrikke med eller uten alkohol. Vi gleder oss til å kjenne gnistene i lufta! SeS! Fordeler med speed datingEn morsom og effektiv måte å møte nye mennesker påAlle er single og alle ønsker å dateDu kan kjenne på kjemien med en gangNo pressure! - matching foregår i etterkantIngen forpliktelser - hver date varer kun noen minutterJovialt vertskap og konversasjonkort sørger for gode samtalerUtvider nettverket ditt - Selv om du ikke finner en romantisk match, kan du møte interessante mennesker som kan bli nye venner eller forbindelser.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1749092",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "description": "Teater/Musikal: Fra krakk til kamp - en teaterforestilling om penger og politikk og svindel og svik! pÃ¥ Kilden i Kristiansand. Fra krakk til kamp Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
     "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1749092"
-      },
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
@@ -1175,6 +1142,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/65603"
+      }
+    ]
+  },
+  {
+    "id": "merged-4e3f89210086",
+    "title": "Grotjønn by Night",
+    "date": "2026-10-03",
+    "time": "18:00",
+    "venue": "Gamlemandalsvei 110",
+    "area": "Kristiansand S",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "VELKOMMEN til en spektakulær opplevelse i klatreparken Høyt & Lavt og området rundt Grotjønn. Lørdag 03.10.26, i avslutningen av høstferien, er muligheten der for små som store – unge som eldre. Sammen eller alene. Du kan velge mellom å klatre i mørket, delta på lysvandringen, - eller rett og slett få med deg begge deler. I høstmørket lyssettes noen av klatreløypene, for å gi deg en annerledes og magisk klatreopplevelse – Tenk å slippe seg ut i en zipline omsluttet av mørket mot et lyspunkt langt der framme! Klatreløypene vil være tilpasset både store og små eventyrere. Parallelt vil det foregå en LYSvandring med ulike kulturelle opplevelser underveis. Via veier og stier under klatreløyper og rundt vakre Grotjønn ledes publikum av hundrevis av fakler og lysdesign. Kanskje møter dere nøkken eller huldra? Noen levende historier fra gamledager? Det blir musikk, sang og eventyr og annet som virkelig skal rykke oss ut av høsthverdagen. Dette blir noe for alle sanser. Nyttig informasjon: Åpningstider: • Høyt & Lavt kiosken åpner kl 18:00. Her kan du få deg noe enkelt å bite i og varm drikke før eventyret starter. • Klatreløypene er åpne i perioden 19:00 - 22:00. • Start på klatreløypene stenger 21:30. • Lysvandringen starter med første gruppe kl. 19:00. • Klatringen må forhåndsbookes og det er begrenset antall billetter. Det koster 150,- • Lysvandringen er gratis. Nyttig informasjon klatring: • Klatringen vil være tilpasset personhøyde 110cm (ca 5år) og oppover. • Kle på deg tilpasset vær og temperatur. Varme klær og godt fottøy. Nyttig informasjon LYSvandring: • Oppmøte utenfor Høyt & Lavt kiosken • Kle på deg tilpasset vær og temperatur. Varme klær og godt fottøy. • Avganger skjer gruppevis, med 7 min. mellomrom. • En lysvandring varer i omlag 1 time.",
+    "url": "https://hoytlavt.no/kristiansand",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://hoytlavt.no/kristiansand"
       }
     ]
   },
@@ -1581,24 +1570,25 @@
     ]
   },
   {
-    "id": "merged-5efa737ec536",
+    "id": "merged-ca52e90414ff",
     "title": "Linda Eide – språksjov",
     "date": "2026-10-09",
     "time": "19:30",
-    "venue": "Kilden teater og konserthus Konsertsalen",
-    "area": "Kristiansand",
+    "venue": "Kilden",
+    "area": "Kristiansand S",
     "category": [
+      "show",
       "culture"
     ],
     "family": false,
     "price": "",
-    "description": "Me kjenner ho frå tv-programmet Eides språksjov. No har Linda Eide gått laiv og dreg landet rundt med språklege underfundigheiter i sjovsekken. Med seg på scenen har ho Sjur Hjeltnes og Halvor Folgerø, som begge sørgjer for musikalsk og verbal bækking. På kvar stad dukkar det òg opp ein lokal gjest, som trioen har invitert. Velkomen til ein kveld med infotainment for alle penga, når denne gjengen i kjent stil hyllar og herjar med det mest fascinerande og sprøe som finst i denne verda – språket! Linda Eide – sjovleiar med blokkfløyte og wind synth Sjur Hjeltnes – pianist med utdanning og innsikt Halvor Folgerø – seniorkonsulent med fagott og bass Lokal gjest – TBA",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1731545",
+    "description": "Me kjenner ho frå tv-programmet Eides språksjov. No har Linda Eide gått laiv og dreg landet rundt med språklege underfundigheiter i sjovsekken. Med seg på scenen har ho Sjur Hjeltnes og Halvor Folgerø, som begge sørgjer for musikalsk og verbal bækking. På kvar stad dukkar det òg opp ein lokal gjest, som trioen har invitert. Velkomen til ein kveld med infotainment for alle penga, når denne gjengen i kjent stil hyllar og herjar med det mest fascinerande og sprøe som finst i denne verda – språket! Linda Eide – sjovleiar med blokkfløyte og wind synth Sjur Hjeltnes – pianist med utdanning og innsikt Halvor Folgerø – seniorkonsulent med fagott og bass Lokal gjest – Rolf Løvland",
+    "url": "https://kilden.com",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1731545"
+        "url": "https://kilden.com"
       }
     ]
   },
@@ -1995,6 +1985,28 @@
     ]
   },
   {
+    "id": "merged-5e64b7c5c103",
+    "title": "Arkeologikafe",
+    "date": "2026-10-15",
+    "time": "18:00",
+    "venue": "Teateret Intimscenen",
+    "area": "Kristiansand",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Arkeologikafè er åpne arrangement der det formidles kunnskap om kulturhistorie og kulturminnevern. Formen på arrangementene er gjerne uformell, for å være en sosial møteplass samtidig som en arena for læring. Arkeologikafè arrangeres av fylkeskommunen, og tar for seg ulike tema innenfor kulturhistorie og kulturminnevern. Tid og sted for de ulike arrangementene blir publisert på våre facebook-sider. Arrangementet er gratis.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1661921",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1661921"
+      }
+    ]
+  },
+  {
     "id": "merged-76953bf5f753",
     "title": "D'Sound @ Blå Kors",
     "date": "2026-10-15",
@@ -2175,6 +2187,30 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1704799"
+      }
+    ]
+  },
+  {
+    "id": "merged-2c2e509deebc",
+    "title": "Bjørneboefestivalen 2026",
+    "date": "2026-10-16",
+    "time": "17:00",
+    "venue": "Teateret Intimscenen",
+    "area": "Kristiansand S",
+    "category": [
+      "family",
+      "festival",
+      "food"
+    ],
+    "family": true,
+    "price": "",
+    "description": "En litterær fredagssamtale med Nikoline Riis Lindahl Hva skjer med et menneske når omsorg svikter, når systemer ikke strekker til, eller når det som burde beskytte, påfører skade? Dette er spørsmål som vi kjenner igjen fra Jens Bjørneboes forfatterskap, og som også klinger sterkt i Nikoline Riis Lindahls bøker. Lindahl har markert seg som en modig og viktig stemme i norsk litteratur. I sakprosaboken Pasientrom 42 skriver hun om egne erfaringer med psykisk helsevern, tvang og anoreksi, mens romanen Hvis jeg var Agnes skildrer en barndom preget av vold, frykt og lengsel etter trygghet. Gjennom både sakprosa og skjønnlitteratur undersøker hun hva det gjør med mennesker å leve under press, og hvordan man finner språk for det som ofte forties. I denne samtalen utforsker vi forbindelseslinjene mellom litteratur og samfunnskritikk, mellom det personlige og det politiske. Med Bjørneboes spørsmål om frihet, verdighet og makt som bakteppe møter vi en forfatter som utfordrer oss til å se de menneskene og erfaringene som lett blir oversett. Velkommen til en engasjerende samtale om litteraturens evne til å gi stemme til de sårbare, stille spørsmål ved etablerte sannheter og skape rom for både forståelse og forandring. Praktisk informasjon: Arrangementet finner sted på Intimscenen og er gratis. Det er begrenset antall plasser, så vi anbefaler å være ute i god tid. Om Bjørneboefestivalen: Bjørneboefestivalen er en ny tverrfaglig kunst- og samfunnsfestival i Kristiansand, som arrangeres for første gang 14.–17. oktober 2026. Med utgangspunkt i Jens Bjørneboes forfatterskap og samfunnsengasjement samler festivalen scenekunst, film, musikk, litteratur, lydkunst og samtaler om frihet, makt og menneskeverd. Bjørneboefestivalen er støttet av Kulturrådet, Cultiva og Kristiansand kommune, og gjennomføres i samarbeid med Vardeteatret Sør, Norsk Forfattersentrum Sørlandet, Kristiansand folkebibliotek, Cinemateket Kristiansand, Foajeen, Kraftverk og Universitetet i Agder (UiA).",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1754508",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1754508"
       }
     ]
   },
@@ -6897,6 +6933,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1733326"
+      }
+    ]
+  },
+  {
+    "id": "merged-8a648af6df20",
+    "title": "Tålekraft",
+    "date": "2027-04-06",
+    "time": "19:00",
+    "venue": "Teateret Hovedscenen",
+    "area": "Kristiansand S",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Bli med på en opplevelse som ikke bare gir deg kunnskap om hvordan å forbli stødig når omgivelsene vakler, men også en dypere forståelse for hva det innebærer å være et menneske. Livet bringer så mangt, og slett ikke bare det som er behagelig og hyggelig. Uforutsette kriser og ubehagelige overraskelser kan og vil ramme oss alle, og det er faktisk umulig å unngå. Livet vil av og til kreve svært mye av deg, og du må forsøke å tåle det. Ikke gå i stykker. Tåle både det som skjer og din egen reaksjon på det som skjer. Du må forsøke å være mentalt forberedt, ha tålekraft. Da trenger du å ha en mental beredskap, være forberedt på et vis, uten å slukes av bekymring for alt som kan skje. Beredskap i hodet er faktisk viktigere enn beredskap i boden. Og du må ta ansvar for din egen tålekraft, ingen andre kan gjøre det for deg. I foredraget \"Tålekraft – Styrk din mentale beredskap\" tar Jon Reichelt, kjent som militærpsykiateren i Kompani Lauritzen, deg med på en reise inn i menneskets evne til å håndtere motgang. Jon hadde i 18 års ansvar for å bidra til den mentale beredskapen hos Norges kanskje skarpeste soldater i Forsvarets spesialkommando (FSK), som er kjent for å ha både egenskaper og vilje til å tåle det de møter. Gjennom kunnskap og personlig erfaring hentet fra militære operasjoner, pasientbehandling og eget liv, vil Jon gi deg til mulighet til å styrke din psykiske motstandskraft. Her lærer du at tålekraft absolutt ikke handler om å unngå ubehag eller frykt, men tvert imot å møte nettopp både ubehag og frykt for gjennom dette å øke din tålekraft. Er du klar til å ta ansvar for å tåle ditt eget liv, og derved også kunne hjelpe andre? Bli med på foredraget \"Tålekraft – Styrk din mentale beredskap\" og finn din egen vei til å bli beredt for hva livet måtte bringe. Jon G. Reichelt har hatt fagansvar for psykiatrien i Forsvaret, og har vært leder for Institutt for militærpsykiatri og stressmestring i Forsvarets sanitet. Han er tidligere sjef for Forsvarets sanitet med grad generalmajor. Han er lege med spesialitet i psykiatri, godkjent veileder i kognitiv atferdsterapi og har en doktorgrad i medisin.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1754509",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1754509"
       }
     ]
   },
