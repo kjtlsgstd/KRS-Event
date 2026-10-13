@@ -1,19 +1,21 @@
 {
-  "last_run_at": "2026-10-12T14:04:49+02:00",
+  "last_run_at": "2026-10-13T13:51:39+02:00",
   "status": "partial",
   "events_total": 293,
-  "events_found_this_run": 342,
+  "events_found_this_run": 70,
   "events_after_deduplication": 293,
-  "events_new_or_updated": 1,
+  "events_new_or_updated": 0,
   "sources_total": 33,
   "sources_checked": 16,
-  "sources_ok": 13,
-  "sources_failed": 3,
+  "sources_ok": 12,
+  "sources_failed": 4,
   "sources_skipped": 17,
-  "run_duration_seconds": 47.23,
+  "run_duration_seconds": 24.4,
   "error_summary": [
-    "Kunstsilo: HTTPSConnectionPool(host='www.kunstsilo.no', port=443): Read timed out. (read timeout=20)",
-    "Teateret: HTTPSConnectionPool(host='teateret.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake fai…",
-    "Ticketmaster Kristiansand: 403 Client Error: Forbidden for url: https://www.ticketmaster.no/discover/kristiansand"
+    "Kvadraturen - Hva skjer i Kristiansand: Expecting value: line 1 column 1 (char 0)",
+    "Kunstsilo: 404 Client Error: Not Found for url: https://www.kunstsilo.no/no/arrangementer",
+    "Teateret: HTTPSConnectionPool(host='teateret.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (…",
+    "Ticketmaster Kristiansand: 403 Client Error: Forbidden for url: https://www.ticketmaster.no/discover/kristiansand",
+    "Preserved previous events because this run produced only 69 events versus 293 previously."
   ]
 }
