@@ -1,73 +1,5 @@
 [
   {
-    "id": "merged-fb6673dd6c3c",
-    "title": "GOOD WILL HUNTING",
-    "date": "2026-10-19",
-    "time": "17:30",
-    "venue": "CINEMATEKET I KRISTIANSAND",
-    "area": "Kristiansand",
-    "category": [
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
-    "url": "https://tikkio.com/events/66030-good-will-hunting",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/66030-good-will-hunting"
-      }
-    ]
-  },
-  {
-    "id": "merged-533d7926c65b",
-    "title": "KURS: Muntlig historie og fortellerkunst",
-    "date": "2026-10-19",
-    "time": "21:00",
-    "venue": "Kong Christian Frederiks Plass 4, 5006 Bergen",
-    "area": "Kristiansand",
-    "category": [
-      "food",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Nytt kurs for voksne amatører Muntlig historie og fortellerkunst Med Kari Thorkildsen Fortellerteater og fortellerkunst er alltid spennende. Det er kanskje den eldste historieformidlingsformen som finnes og for tiden veldig populært. Å fortelle er å gi noe av seg selv. Vi har fått med oss Kari Thorkildsen, en veteran i det bergenske fortellermiljøet. Hun vil lære deg hvordan du igjennom ulike teknikker og metoder, kan bygge opp historien din. Du vil lære noe om det å skape indre bilder, memorering av tekst, muntlig språk, stemmebruk, det fysiske uttrykket, samt skriving og tegning. Målet er å gi deltakerne selvtillit og trygghet, slik at de kan finne frem til sin egen fortellerstemme. Kurset passer for alle som ønsker å bli bedre formidler. Du kan ta utgangspunkt i egen historie eller tekst, eller fortelle andres historie, ta utgangspunkt i små fortellertekster, eventyr eller sagn. Hvis du synes at dette høres spennende ut, er det bare å melde seg på. Det kan være lurt å være raskt ute, for på dette kurset tar vi bare inn 8–10 deltakere. Kari Thorkildsen er førstelektor emerita i drama og teater ved Høgskolen på Vestlandet. Hun er også storyteller og skriver, utarbeider og fremfører muntlige fortellerforestillinger basert på egne og andres historier. Praktisk informasjon: Når: Seks mandager kl. 19.00–21.00 Oppstart: 19. oktober Hvor: På Cornerteateret på Møhlenpris Kursavgift: Kr. 1.850 + Ticketco-avgift Kursdatoer: 1) Mandag, 19. oktober 2) Mandag, 26. oktober 3) Mandag, 2. november 4) Mandag, 9. november (NB: ingen undervisning 16. november) 5) Mandag, 23. november 6) Mandag, 30. november Kursarrangør: Jeans-illustrasjon på plakaten: Pixabay ds_30",
-    "url": "https://vlteatersenter.ticketco.events/no/en/e/muntlig_historie_og_fortellerkurs",
-    "source": "TicketCo Norge",
-    "sources": [
-      {
-        "name": "TicketCo Norge",
-        "url": "https://vlteatersenter.ticketco.events/no/en/e/muntlig_historie_og_fortellerkurs"
-      }
-    ]
-  },
-  {
-    "id": "merged-9dd16d7487a8",
-    "title": "KYROS - Bryt Stressmønsteret",
-    "date": "2026-10-19",
-    "time": "17:45",
-    "venue": "Søm kirke",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "KYROS har til nå først og fremst jobbet med ledere. Nå åpner vi dørene for alle. Bryt stressmønsteret er skreddersydd for livet slik det faktisk leves – med jobb, relasjoner, familie, forventninger og drømmer. Forstå hvorfor du reagerer som du gjør. Lær hvordan du kan påvirke det – og få større frihet til å velge annerledes.",
-    "url": "https://tikkio.com/events/66642-kyros-bryt-stressmonsteret",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/66642-kyros-bryt-stressmonsteret"
-      }
-    ]
-  },
-  {
     "id": "merged-71c243ad44fc",
     "title": "Maskefall",
     "date": "2026-10-20",
@@ -91,6 +23,29 @@
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-f7025679b9fb",
+    "title": "Rapunzel (premiere 20/10 kl18)",
+    "date": "2026-10-20",
+    "time": "20:00",
+    "venue": "Hemmingstad Kultursenter",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "show"
+    ],
+    "family": true,
+    "price": "",
+    "description": "Brosteinsteateret i samarbeid med Hemmingstad Kultursenter presenterer familieforestillingen «Rapunzel» med premiere 20. oktober 2026. Eventyret om Rapunzel er det mange barn og voksne som kjenner. Historien omhandler prinsesse Rapunzel som blir bortført da hun var baby av en ond heks. Kongen og Dronningen i landet fortviler og leter forgjeves etter henne over hele landet. Men den onde heksen har gjemt seg langt inne i en bortglemt skog. Rapunzel vokser opp i et høyt tårn hvor bare heksen kan besøke henne. Årene går og Rapunzels hår vokser langt nedover tårnet. Men en dag skjer det noe uventet som kan endre hele historien og gi nytt håp for at kongefamilen slik at de finner Prinsesse Rapunzel. Historien virker nok både mørk og trist, men når Brosteinsteateret ved Hemmingstad Kultursenter presenterer sine eventyrproduksjoner blir det både humor, spenning og mange fargerike karakterer. For 24 året på rad presenterer teateret sin årlige høstforestilling. Både små og store kan glede seg. Aldersgrense 5 år. På scenen møter vi mange kjente aktører som setter liv til rollene i eventyret: Elise Fjeldheim Tindeland, Sigve Kristensen, Gudrun Hornell, Christina Meling, Nina Jackman, Kathrine Nilsen, Guri Søndenå, Arne Christian Stave Ytreland, Synnøve Gabrielsen og Ida Elise Eikesdal. Regi/Manus: Niels Petter Solberg Koreografi: Krister Rognaldsen Pedersen Lyd/Lys: Andrii & Candela Lighting Premiere tirsdag 20. oktober 2026 ved Hemmingstad Kultursenter. Vi har også forestilling: onsdag 21/10 kl. 18, lørdag 24/10 kl. 14 & 16, Søndag 25/10 kl.16, tirsdag 27/10 kl. 18, onsdag 28/10, kl.18 og lørdag 31/10 kl.14 & 16. For de av dere som velger grøtservering så blir dette servert hos Biografen Cafe etter forestillingen. Hvis det er noen som ønsker laktosefri grøt så ta kontakt med Biografen Cafe i forkant av forestillingen. Forestillingen varer 1 time og 5 minutt. Velkommen! Med støtte fra Haugesund Sparebank og Studieorganisasjonen Kultur og Tradisjon.",
+    "url": "https://brosteinsteateret.ticketco.events/no/nb/e/rapunzel_premiere_201026",
+    "source": "TicketCo Norge",
+    "sources": [
+      {
+        "name": "TicketCo Norge",
+        "url": "https://brosteinsteateret.ticketco.events/no/nb/e/rapunzel_premiere_201026"
       }
     ]
   },
@@ -433,8 +388,8 @@
     ]
   },
   {
-    "id": "merged-e23455b0ff5f",
-    "title": "Dirty Old Town og NKA pres: Erlend Ropstad med band - UTSOLGT",
+    "id": "merged-3708005289f2",
+    "title": "Dirty Old Town og NKA pres: Erlend Ropstad med band",
     "date": "2026-10-23",
     "time": "23:30",
     "venue": "Kick Kulturscene",
