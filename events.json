@@ -1,31 +1,9 @@
 [
   {
-    "id": "merged-097e628d8728",
-    "title": "Barnas arkitekturdag",
-    "date": "2026-10-24",
-    "time": "11:00",
-    "venue": "Kvadraturen i Kristiansand",
-    "area": "Kristiansand S",
-    "category": [
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "24. oktober vil Kristiansand sentrum igjen fylles med små og store arkitektspirer, når Barnas arkitekturdag arrangeres for 8. gang. På ikke mindre enn 14 ulike steder i Kvadraturen vil det være mulig å delta på kreative verksteder og utforske arkitektur, kunst, konstruksjon og byplanlegging. Alle verkstedene er gratis, og dørene åpner klokka 11.00.",
-    "url": "https://www.kristiansand.kommune.no/navigasjon/bolig-kart-og-eiendom/plan-og-bygg/barnas-arkitekturdag/",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.kristiansand.kommune.no/navigasjon/bolig-kart-og-eiendom/plan-og-bygg/barnas-arkitekturdag/"
-      }
-    ]
-  },
-  {
-    "id": "merged-6a11e06174d1",
+    "id": "merged-efcfcbba3911",
     "title": "Charlie & sjokoladefabrikken",
-    "date": "2026-10-24",
-    "time": "17:00",
+    "date": "2026-10-25",
+    "time": "13:00",
     "venue": "Teateret Hovedscenen",
     "area": "Kristiansand S",
     "category": [
@@ -43,341 +21,6 @@
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1748164"
       },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-d355d2731e13",
-    "title": "Dirty Old Town pres: GOLF",
-    "date": "2026-10-24",
-    "time": "23:00",
-    "venue": "Kick Kulturscene",
-    "area": "Kristiansand",
-    "category": [
-      "concert",
-      "festival",
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Konsert: Dirty Old Town pres: GOLF pÃ¥ Kick Kulturscene i Kristiansand. GOLF skal endelig ut pa? turne? den kommende hÃ¸sten og vinteren, i forbindelse med deres nye prosjekt. NÃ¥ er de klare for DrÃ¸mmen jeg vil selge-tour og kommer til Kristiansand og Kick Kulturhus lÃ¸rdag 24. oktober! Sist gang fansen fikk oppleve GOLF utenfor festivalscenene var da de spilte en utsolgt Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Songkick Kristiansand",
-        "url": "https://www.songkick.com/concerts/43380888-dirty-old-town-at-kick-kulturscene?utm_medium=organic&utm_source=microformat"
-      }
-    ]
-  },
-  {
-    "id": "merged-305a5a6852ca",
-    "title": "Et levende eventyr",
-    "date": "2026-10-24",
-    "time": "13:00",
-    "venue": "Kilden teater og konserthus Dansesalen",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "concert",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Velkommen til en aktiv, kreativ og annerledes eventyrstund! Fortellerkunstner, mindfulness- instruktør og barneyogalærer Helene Knutsen tar barna med på Et levende eventyr. Helenes eventyrstunder byr på et variert opplegg der store og små får være med på å LEKE eventyrene og å gjøre dem LEVENDE. Gjennom å bruke sansene våre, kroppen, fantasien, og til og med pusten inviterer Helene voksne og barn til opplevelser av tilstedeværelse og nærvær. Et levende eventyr byr på en kombinasjon av musikk, dans, sanseøvelser, bevegelse, høytlesning av barnebøker og avspenningsøvelser, og inviterer store og små til å ta et lite steg ut av det hverdagslige og inn i det eventyrlige. Fra 2 – 8 år (men fenger opp til 10 år) Varighet ca 45 minutter Info om utøver – Helene Knutsen Helene Knutsen er fortellerkunstner, mindfulness-instruktør og barneyogalærer, og står bak konseptet Et levende eventyr. Siden 2018 har hun skapt inkluderende og sanselige eventyrstunder for barn og familier, der eventyr formidles gjennom bevegelse, musikk, lek og aktiv deltakelse. Med rundt 130 arrangementer og nær 10 000 publikummere har hun begeistret store og små på biblioteker, kulturhus og andre arenaer på Sørlandet og hun gleder seg nå over å skulle få gjeste Kilden teater og konserthus for første gang.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1735334",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1735334"
-      }
-    ]
-  },
-  {
-    "id": "merged-1a4f7c33f948",
-    "title": "Familieverksted i Kunstsilo: Fra krusedull til kunstverk",
-    "date": "2026-10-24",
-    "time": "11:00",
-    "venue": "Kunstsilo",
-    "area": "Kristiansand S",
-    "category": [
-      "family"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Hva skjer når du lar hånden tegne av seg selv? I dette familieverkstedet leker vi med fantasi, farger, former og tilfeldigheter! Vi lar oss inspirere av kunstnere som Asger Jorn, Egill Jacobsen og Else Alfelt fra utstillingen Mellom drømmer og virkelighet. Med en tilfeldig krusedull utforsker vi hvordan fantasien vår kan lage surrealistiske kunstverk. Praktisk info: • Drop-in",
-    "url": "kunstsilo.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "kunstsilo.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-140870adf434",
-    "title": "Heavy Breathers - av Susie Wang",
-    "date": "2026-10-24",
-    "time": "20:00",
-    "venue": "Kilden",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-164d603547c4",
-    "title": "Herrelandslaget i alle kanaler - om fotball-VM, journalistikk og strategisk kommunikasjon - LÃ¸rdagsuniversitetet i Kristiansand",
-    "date": "2026-10-24",
-    "time": "15:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Annet: Herrelandslaget i alle kanaler - om fotball-VM, journalistikk og strategisk kommunikasjon - LÃ¸rdagsuniversitetet i Kristiansand pÃ¥ Teateret i Kristiansand. LÃ¸rdagsuniversitetet er et tilbud om populÃ¦rvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hÃ¸rverdige foredragsholdere. Aktuelle tema blir presenter Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-d9bd05ded6f4",
-    "title": "Lørdagsuniversitetet",
-    "date": "2026-10-24",
-    "time": "13:00",
-    "venue": "Teateret Biscenen",
-    "area": "Kristiansand S",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Lørdagsuniversitetet er et tilbud om populærvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hørverdige foredragsholdere. Aktuelle tema blir presentert og diskutert i en uformell setting. Tid: Lørdager kl. 13.00 Sted: Teateret, Kongens gate 2 Plassbegrensning. Det er stor pågang, så vær tidlig ute for å sikre deg plass. Billetter (gratis) hentes i baren på Teateret fra klokka 11:00 samme dag. Se fullt program her",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1661893",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1661893"
-      }
-    ]
-  },
-  {
-    "id": "merged-0007cdce61f3",
-    "title": "Maskefall",
-    "date": "2026-10-24",
-    "time": "13:00",
-    "venue": "Kilden teater og konserthus Multisalen",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Maskefall – ekte historier som berører Forestillingen Maskefall formidler sterke fortellinger gjennom musikk, visuell kunst og scenekunst. Publikum inviteres inn til et ærlig og gripende møte med erfaringer knyttet til psykisk helse, rus og livet som pårørende. Her faller maskene, og det som ofte holdes skjult, får en stemme. Prosjektet er utviklet i samarbeid mellom deltakere med egne livserfaringer og profesjonelle kunstnere. Resultatet er en forestilling som både utfordrer, inspirerer og skaper gjenkjennelse. Maskefall viser hvordan kreativitet og fellesskap kan forvandle personlige opplevelser til sterke kunstneriske uttrykk som berører et bredt publikum. Maskefall er en opplevelse som åpner for refleksjon, dialog og økt forståelse. Den gir rom for håp, mot og menneskelig nærhet, og minner oss om at bak hver maske finnes en historie som fortjener å bli sett og hørt. Regi: Birgitte Feddersen og Elisabeth Lindland Koreografi: Karin Moe Hennie Scenografi og lysdesign: Shane Burke",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1741401",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1741401"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-e69899bbbf6f",
-    "title": "Salmer på pøbb",
-    "date": "2026-10-24",
-    "time": "",
-    "venue": "Haubitz Hall",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "outdoor"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Lewi Bergrud Thor-Erik Fjellvang Med band og gjester Salmer på Pøbb har fylt klubber og pøbber landet over. Den 22.10 kommer de tilbake til Kristiansand og spiller denne gangen i Haubitz Hall på Odderøya! ...har gått sin seiersgang over hele kongeriket! - Fredriksstad Blad «Salmer på pøbb» har treft ein nerve i det norske musikklandskapet (…) bare smil og glede å sjå blant publikum! - NRK I 2024 tok Salmer på Pøbb-konseptet av for alvor, med over 40 utsolgte konserter fra Svalbard i nord til Kristiansand i sør, en kritikerrost platedebut med «Kapittel 1» og massiv medieoppmerksomhet. Ny plate og ny salmebok slippes rett før turnéstart i midten av oktober. Men først og fremst skal Salmer på pøbb oppleves i levende live. For dette er mye mer enn en konsert. På Salmer på pøbb møtes folk fra alle generasjoner i en uformell atmosfære der kan føle seg hjemme. Samme hva du tror på, samme hva slags musikk du liker, om du vil synge eller helst bare lytte, du er hjertelig velkommen. Konsertene er åpne for alle over 18 år (studentrabatt for alle under 25 og/eller studerende!) Ta med deg en venn og bli med på en kveld du vil huske lenge! Mer om Salmer på pøbb: Aldri før har salmer fått veggene til å riste på pub i Kristiansand (...) Konserten ble utsolgt en måned før konsertdato og samtlige billetter til ekstrakonserten som er satt opp 1. februar er revet bort allerede (...) Halvveis uti konserten er publikum i ekstase (...) - Fædrelandsvennen …her får salmesangens språklige klangbunn slå fra seg med sin voldsomme kraft (…) – Det er (…) ufattelig god stemning. Det er intimt, nedskalert og veldig lavterskel - Vårt Land For en stakket kveld ble salmene endevendt, ristet på og sendt ut i nye lydbilder over et stappfullt kulturhus (…) Selve salmerepertoaret er kjent og kjært når «Salmer på Pøbb» spiller. Men tolkningene har du aldri hørt før. - Sarpsborg Arbeiderblad Arrangementstidspunkt/konsertstart : 20:00 Aldersgrense : 18 Ledsager : Full pris Adkomst : Bevegelseshemmede : Ja Parkeringsmuligheter : Nei Artistens nettside Artistens nettside",
-    "url": "https://www.ticketmaster.no/event/120579425?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/120579425?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-6c5dac7ef191",
-    "title": "Thomas Dybdahl",
-    "date": "2026-10-24",
-    "time": "19:00",
-    "venue": "Kilden teater og konserthus Konsertsalen",
-    "area": "Kristiansand S",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Thomas Dybdahl regnes som en av landets aller beste artister, og gjennom en rekke vakre, tidløse og solide album har han for lengst sikret seg en plass blant Norges aller mest markante artister og låtskrivere. Dybdahl debuterte som soloartist med That Great October Sound, og tok hjem Spellemannprisen for innsatsen. Siden har han levert ytterligere kritikerroste album som bl.a Stray Dogs, One Day You`ll Dance For Me New York City, Science, og What's Left Is Forever som nådde helt frem til en Grammy-nominasjon. 2025 ble et spesielt sterkt år for Dybdahl, med omfattende turnévirksomhet og en rekke konserter som ble belønnet med terningkast 6 av anmeldere over hele landet. Live har han befestet sin posisjon som en av Norges aller sterkeste formidlere – intim, sjelfull og teknisk briljant, med et publikum som spenner over generasjoner. Forrige albumutgivelse var vakre Teenage Astronauts. Her samarbeidet han med Grammy-vinner Larry Klein, den legendariske arrangøren Vince Mendoza,Stavanger Symfoniorkester og tekstforfatter Edie Kuhnle Ottestad. Resultatet ble et ambisiøst og storslått prosjekt som tydelig viser at Dybdahl fortsatt er nysgjerrig, kompromissløs og i konstant kunstnerisk utvikling. Parallelt jobber han for tiden med oppfølgeren til albumet Fever fra 2020. Første smakebit kom høsten 2025 med singelen Let Me Love You – en låt som allerede har blitt en live favoritt og derfor fått en sentral plass i konsertsettet og peker tydelig fremover mot neste kapittel i Dybdahls karriere. Mai 2026 kommer neste singel, og September 2026 kommer en EP med flere nye låter.",
-    "url": "https://kilden.com/program/47619-thomas-dybdahl/",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kilden.com/program/47619-thomas-dybdahl/"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-0d39f359ef46",
-    "title": "Utstillingsåpning Kunstgavekortet Salong 2026",
-    "date": "2026-10-24",
-    "time": "12:00",
-    "venue": "Galleri Kobbel",
-    "area": "Kristiansand S",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Kunstgavekortet samler over 40 profesjonelle kunstnere og kunsthåndverkere fra Kristiansand i en omfattende gruppeutstilling. Gjennom maleri, grafikk, tegning, skulptur, keramikk, kunstbøker og kunstplakater viser SALONG 2026 bredden i kunsten som er tilgjengelig gjennom Kunstgavekortet – fra mindre arbeider og utgivelser til større originalverk. Utstillingen markerer samtidig etableringen av Kunstgavekortets fysiske hentepunkt og galleributikk i Galleri Kobbel, Holbergs gate 10, Kristiansand. (Rett ved Dronningensgate). Nettutvalget flyttes inn i gallerirommet, og gjennom høsten og vinteren blir galleriet et levende showroom der publikum kan se verkene, oppdage kunstnere og kjøpe kunst og kunstgavekort direkte. Vi planlegger også kreative verksted og hyggelig program for publikum frem mot jul. Følg med! Alle verk i utstillingen er tilgjengelige for kjøp i galleriet eller gjennom kunstgavekortet.no.",
-    "url": "www.kobbelkunstbyra.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "www.kobbelkunstbyra.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-e14bffb70388",
-    "title": "VIVID.presents: Spurv + Grant The Sun [post-rock/metal] // Vaktbua",
-    "date": "2026-10-24",
-    "time": "19:00",
-    "venue": "Vaktbua",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "festival",
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "YES! Endelig ny VIVID. a post_rock festival konsert på Vaktbua: VIVID.presents: Spurv + Grant The Sun + Beaten To Death. Sekstetten i Spurv er igjen i fullt svev! Bandet, som nå kan omtales som flaggskipet i norsk postrock, har rukket å bli hele 15 år! Konfirmasjoner skal man jo ikke ta lett på, så derfor inviterer Vaktbua til konsert 24. oktober! Billetter på Tikkio.com til kl. 19, deretter i døra. Konsertstart 19.30! Bandet har ikke gjort annet enn å høste lovord siden de gav ut sin første EP “Blader som faller til jorden og blir til nye trær” i 2012. Siden den gang har det blitt 3 album, platekontrakt med Pelagic Records og omfattende turnévirksomhet i inn- og utland. Kina har faktisk stukket seg ut som et marked der de har en spesiell hang for Spurvs store atmosfæriske lydlandskap som lukter urskog og snøtopper. Vi kunne fortsatt adjektivhistorien om Spurv til det endeløse her, men vi antar at du skjønner tegningen. Eneste rettferd er å se og høre Spurv live. Og den muligheten får du i oktober. Grant The Sun - Vaskekte instrumental Follo-metal! Grant The Sun er en fullblods follotrio med medlemmer fra blant annet Beaten To Death og Insense. Bandet slapp i 2017 sin debut-EP til svært gode tilbakemeldinger fra internasjonal presse, deriblant britiske Metal Hammer som mente platen var en \"unique twist on multi-layered instrumentality”. Siden da har bandet sluppet to EPer til og et album før bandet igjen er tilbake med ny fullengder til denne konserten. Enten du er generelt glad i godt musikalsk håndtverk, eller mer spesifikt liker smart metal med hint av alt fra Russian Circles og Cloudkicker til Extol og Meshuggah, så vet du nå hvor du har å være denne kvelden. \"Grant The Sun masterfully combining heavy riffs and hard-hitting, complex rhythms with catchy, prog-driven melodies that while is near-impossible to place in a single category, falls somewhere between Meshuggah and The Ocean\". -Terrorizer Magazine , UK Beaten To Death For den uinnvidde er Beaten To Death et to ganger Spellemannpris-nominert Oslobasert grindcoreband. Superlativene har haglet over bandet helt siden debuten “Xes And Strokes” i 2011, med vekt på deres teft for raffe riff, grove groove, flott hår og melodiske magi. Men det er på scenen B2D virkelig kommer til sin rett!",
-    "url": "https://tikkio.com/events/64733",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://tikkio.com/events/64733"
-      },
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/64733-vividpresents-spurv-grant-the-sun-post-rockmetal-vaktbua"
-      }
-    ]
-  },
-  {
-    "id": "merged-47b02492f328",
-    "title": "Viggo VennelÃ¸s",
-    "date": "2026-10-24",
-    "time": "20:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Humor: Viggo VennelÃ¸s pÃ¥ Teateret i Kristiansand. Viggo Venn stÃ¥r midt mellom latter og alvor â med hjertet utenpÃ¥ kostymet og et glimt i Ã¸yet. Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-f73a0ed76403",
-    "title": "Viggo Venneløs",
-    "date": "2026-10-24",
-    "time": "18:00",
-    "venue": "Teateret Biscenen",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Viggo Venn står midt mellom latter og alvor – med hjertet utenpå kostymet og et glimt i øyet. I Viggo Venneløs utforsker han det vakre i det rare og det rare i det vakre. Gjennom dansetrinn du ikke visste fantes, musikk du ikke visste du trengte og fysisk humor som treffer rett i hjerterota. Vesten er av. Dette er en forestilling full av latter bevegelse og varme – for voksne som vil både le og føle. Aldersgrense: 15 år Viggo Venn er en norsk komiker, klovn og fysisk teaterkunstner – kjent for sin særegne blanding av absurditet, sårbarhet og publikumsnær humor. Han fikk sitt internasjonale gjennombrudd da han vant Britain's Got Talent 2023, med sin ikoniske refleksvest og uforutsigbare energi som trollbandt både publikum og dommere. Viggo er utdannet ved École Philippe Gaulier i Paris – den legendariske klovneskolen som også har fostret komikere som Sacha Baron Cohen, Emma Thompson og Helena Bonham Carter. Han har tidligere arbeidet som sykehusklovn i Norge, og har undervist i klovning og fysisk komedie rundt om i Europa. Før Viggo Venneløs har han skapt og turnert med en rekke kritikerroste forestillinger – både solo og i duoen Zach & Viggo, som vant Best Comedy Award på Brighton Fringe 2016 og Adelaide Fringe 2017. Han har også vært finalist i Das Supertalent (Tyskland), finalist i New Acts of the Year Show (London) og opptrådt på Royal Variety Performance foran den britiske kongefamilien i Royal Albert Hall (2023). I Viggo Venneløs vender han tilbake til teaterscenen – uten vest, men med hjertet fullt",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1705434",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1705434"
-      }
-    ]
-  },
-  {
-    "id": "merged-efcfcbba3911",
-    "title": "Charlie & sjokoladefabrikken",
-    "date": "2026-10-25",
-    "time": "14:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Teater/Musikal: Charlie & sjokoladefabrikken pÃ¥ Teateret i Kristiansand. Kristiansand barne- og ungdomsteater presenterer: Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
@@ -447,6 +90,58 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/66598"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66598-tuff-trio-sondager-pa-vaktbua"
+      }
+    ]
+  },
+  {
+    "id": "merged-85569016ee1d",
+    "title": "HJEM KJÆRE HJEM",
+    "date": "2026-10-26",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66033-hjem-kjaere-hjem",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66033-hjem-kjaere-hjem"
+      }
+    ]
+  },
+  {
+    "id": "merged-15b900640bcf",
+    "title": "Salmer på pøbb // Byscenen Haugesund",
+    "date": "2026-10-26",
+    "time": "18:30",
+    "venue": "Byscenen Haugesund",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "SALMER PÅ PØBB Lewi Bergrud Thor-Erik Fjellvang Med band Salmer på Pøbb har siden starten i 2022 tatt Norge med storm. Nå legger ensemblet ut på sin tredje norgesturné – og den 26. oktober er de i Haugesund. I 2024 tok konseptet av for alvor, med over 40 utsolgte konserter fra Svalbard til Kristiansand, kritikerrost platedebut med Kapittel 1 og massiv medieoppmerksomhet. I 2025 fulgte Kapittel 2 – og en turné med sytten stopp på pøbber, klubber og i konserthus, brorparten smekk fulle. Årets turné følges av utgivelsen Kapittel 3 . Salmer på pøbb er mye mer enn en konsert. Her møtes folk fra alle generasjoner. Og samme hva du tror på, samme hva slags musikk du liker, om du vil synge eller helst bare lytte, du er hjertelig velkommen. Konsertene er åpne for alle over 18 år (studentrabatt for alle under 25 og/eller studerende!) Ta med deg en venn og bli med på en kveld du vil huske lenge! Sagt om Salmer på pøbb: Aldri før har salmer fått veggene til å riste på pub i Kristiansand! - Fædrelandsvennen …her får salmesangens språklige klangbunn slå fra seg med sin voldsomme kraft (…) ufattelig god stemning (...) intimt, nedskalert og veldig lavterskel - Vårt Land For en stakket kveld ble salmene endevendt, ristet på og sendt ut i nye lydbilder over et stappfullt kulturhus (…) Selve salmerepertoaret er kjent og kjært når «Salmer på Pøbb» spiller. Men tolkningene har du aldri hørt før. - Sarpsborg Arbeiderblad ...har gått sin seiersgang over hele kongeriket! - Fredriksstad Blad ...har treft ein nerve i det norske musikklandskapet (…) bare smil og glede å sjå blant publikum! - NRK ...plutselig var salmene pakket inn og endevendt på en så overraskende måte at jeg bare måtte le for meg selv! - Guro Fostervold Tvedten",
+    "url": "https://tikkio.com/events/63713-salmer-pa-pobb-byscenen-haugesund",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/63713-salmer-pa-pobb-byscenen-haugesund"
       }
     ]
   },
@@ -501,6 +196,28 @@
     ]
   },
   {
+    "id": "merged-c9f1c77b3946",
+    "title": "NO MAN'S LAND",
+    "date": "2026-10-27",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66034-no-mans-land",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66034-no-mans-land"
+      }
+    ]
+  },
+  {
     "id": "merged-8525fe487d8b",
     "title": "Winemakers Dinner i Kunstsilo",
     "date": "2026-10-27",
@@ -520,6 +237,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "kunstsilo.no"
+      }
+    ]
+  },
+  {
+    "id": "merged-82a0c9d6662d",
+    "title": "Agder folkehøyskole Halloween fest",
+    "date": "2026-10-28",
+    "time": "20:00",
+    "venue": "All Inn Kristiansand",
+    "area": "Kristiansand",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Join us for Agder folkehøyskole Halloween fest . More details about this event will be published soon.",
+    "url": "https://tikkio.com/events/67124-agder-folkehoyskole-halloween-fest",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/67124-agder-folkehoyskole-halloween-fest"
       }
     ]
   },
@@ -617,6 +356,28 @@
     ]
   },
   {
+    "id": "merged-a89865952a79",
+    "title": "Salmer på pøbb // Terminalen",
+    "date": "2026-10-28",
+    "time": "18:30",
+    "venue": "Terminalen",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "SALMER PÅ PØBB Lewi Bergrud Thor-Erik Fjellvang Med band Salmer på Pøbb har siden starten i 2022 tatt Norge med storm. Nå legger ensemblet ut på sin tredje norgesturné – og den 28. oktober er de i Ålesund. I 2024 tok konseptet av for alvor, med over 40 utsolgte konserter fra Svalbard til Kristiansand, kritikerrost platedebut med Kapittel 1 og massiv medieoppmerksomhet. I 2025 fulgte Kapittel 2 – og en turné med sytten stopp på pøbber, klubber og i konserthus, brorparten smekk fulle. Årets turné følges av utgivelsen Kapittel 3 . Salmer på pøbb er mye mer enn en konsert. Her møtes folk fra alle generasjoner. Og samme hva du tror på, samme hva slags musikk du liker, om du vil synge eller helst bare lytte, du er hjertelig velkommen. Konsertene er åpne for alle over 18 år (studentrabatt for alle under 25 og/eller studerende!) Ta med deg en venn og bli med på en kveld du vil huske lenge! Sagt om Salmer på pøbb: Aldri før har salmer fått veggene til å riste på pub i Kristiansand! - Fædrelandsvennen …her får salmesangens språklige klangbunn slå fra seg med sin voldsomme kraft (…) ufattelig god stemning (...) intimt, nedskalert og veldig lavterskel - Vårt Land For en stakket kveld ble salmene endevendt, ristet på og sendt ut i nye lydbilder over et stappfullt kulturhus (…) Selve salmerepertoaret er kjent og kjært når «Salmer på Pøbb» spiller. Men tolkningene har du aldri hørt før. - Sarpsborg Arbeiderblad ...har gått sin seiersgang over hele kongeriket! - Fredriksstad Blad ...har treft ein nerve i det norske musikklandskapet (…) bare smil og glede å sjå blant publikum! - NRK ...plutselig var salmene pakket inn og endevendt på en så overraskende måte at jeg bare måtte le for meg selv! - Guro Fostervold Tvedten",
+    "url": "https://tikkio.com/events/63714-salmer-pa-pobb-terminalen",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/63714-salmer-pa-pobb-terminalen"
+      }
+    ]
+  },
+  {
     "id": "merged-1407853e8390",
     "title": "Speed date 30+",
     "date": "2026-10-28",
@@ -683,6 +444,28 @@
     ]
   },
   {
+    "id": "merged-e3de4265cb06",
+    "title": "AsbjÃ¸rn Ribe",
+    "date": "2026-10-29",
+    "time": "20:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: AsbjÃ¸rn Ribe pÃ¥ Kilden i Kristiansand. AsbjÃ¸rn Ribe kombinerer vakre melodier og sanger med poetiske, sterke tekster pÃ¥ en mÃ¥te som ingen andre her til lands. Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-21d7a29c573f",
     "title": "Asbjørn Ribe - konsert",
     "date": "2026-10-29",
@@ -728,6 +511,28 @@
     ]
   },
   {
+    "id": "merged-4cad843040c3",
+    "title": "Dirty Old Town pres: ODDNY + support: Bror",
+    "date": "2026-10-29",
+    "time": "21:00",
+    "venue": "KafÃ© Krank",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Dirty Old Town pres: ODDNY + support: Bror pÃ¥ KafÃ© Krank i Kristiansand. Fenomenet Oddny kommer endelig pÃ¥ besÃ¸k til oss i Kristiansand og KafÃ© Krank! Hold av 29. oktober og fÃ¥ med deg lokale Bror som kveldens herlige, lokale support! Med lÃ¥tar som Â«Oktober, Bergen byÂ», Â«BittelittÂ» og Â«AlmaÂ» har Spellemannvinnar Oddny for lengst markert seg som eit vestnorsk unikum i nor Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-00535dec68be",
     "title": "Eksklusiv Cognac-smaking med Bache-Gabrielsen",
     "date": "2026-10-29",
@@ -748,6 +553,28 @@
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1720351"
       },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-b380be251b06",
+    "title": "Heavy Breathers - av Susie Wang",
+    "date": "2026-10-29",
+    "time": "20:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
@@ -812,6 +639,28 @@
     ]
   },
   {
+    "id": "merged-4489db5adce2",
+    "title": "PAPER MOON",
+    "date": "2026-10-29",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66035-paper-moon",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66035-paper-moon"
+      }
+    ]
+  },
+  {
     "id": "merged-dd2a70b8b431",
     "title": "Rachlin og Sjostakovitsj",
     "date": "2026-10-29",
@@ -830,6 +679,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1733337"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -841,7 +694,8 @@
     "venue": "Teateret Intimscenen",
     "area": "Kristiansand S",
     "category": [
-      "culture"
+      "culture",
+      "show"
     ],
     "family": false,
     "price": "",
@@ -852,6 +706,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1755167"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -874,6 +732,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1712282"
+      }
+    ]
+  },
+  {
+    "id": "merged-631d85fdb23a",
+    "title": "Charlie & sjokoladefabrikken",
+    "date": "2026-10-30",
+    "time": "18:30",
+    "venue": "Teateret",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "show"
+    ],
+    "family": true,
+    "price": "",
+    "description": "Teater/Musikal: Charlie & sjokoladefabrikken pÃ¥ Teateret i Kristiansand. Kristiansand barne- og ungdomsteater presenterer: Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -924,6 +805,28 @@
     ]
   },
   {
+    "id": "merged-a11ac9e430eb",
+    "title": "Heavy Breathers - av Susie Wang",
+    "date": "2026-10-30",
+    "time": "20:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-319330c60b01",
     "title": "Jamkveld og åpen scene med Gitaristene",
     "date": "2026-10-30",
@@ -965,6 +868,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/64905"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1156,6 +1063,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1686360"
+      }
+    ]
+  },
+  {
+    "id": "merged-86d050514223",
+    "title": "Lørdagsuniversitetet",
+    "date": "2026-10-31",
+    "time": "13:00",
+    "venue": "Teateret Biscenen",
+    "area": "Kristiansand S",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Lørdagsuniversitetet er et tilbud om populærvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hørverdige foredragsholdere. Aktuelle tema blir presentert og diskutert i en uformell setting. Tid: Lørdager kl. 13.00 Sted: Teateret, Kongens gate 2 Plassbegrensning. Det er stor pågang, så vær tidlig ute for å sikre deg plass. Billetter (gratis) hentes i baren på Teateret fra klokka 11:00 samme dag. Se fullt program her",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1661893",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1661893"
       }
     ]
   },
