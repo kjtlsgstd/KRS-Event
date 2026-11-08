@@ -1,320 +1,5 @@
 [
   {
-    "id": "merged-f3d603c4ab81",
-    "title": "CC Cowboys",
-    "date": "2026-11-07",
-    "time": "19:00",
-    "venue": "Kilden teater og konserthus Konsertsalen",
-    "area": "Kristiansand",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Siden dannelsen i Fredrikstad i 1989 har CC Cowboys etablert seg som en av de mest utholdende og folkekjære institusjonene i norsk rock. Med frontfigur Magnus Grønneberg i spissen – kjent for sin karakteristiske, intense stemme og jordnære tekster – har bandet preget den norske musikkscenen i over 35 år. Nå er CC Cowboys tilbake med sitt 14. studioalbum, Jeg tilstår, og markerer nok en gang sin posisjon som et av Norges mest betydningsfulle rockeband. Fredrikstad-bandet har i over tre tiår vært en bauta i norsk musikkliv, og med Jeg tilstår viser de at de fortsatt evner å fornye seg – uten å miste det karakteristiske uttrykket som har gitt dem en lojal fanskare gjennom generasjoner. Albumet er produsert av Thomas Gallatin, mikset av Kai Worley og mastret av George Tanderø, og byr på et solid lydbilde som både hedrer bandets røtter og peker fremover.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1731547",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1731547"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-a0c795f30cdd",
-    "title": "Dirty Old Town @ Kristiansand Domkirke",
-    "date": "2026-11-07",
-    "time": "21:00",
-    "venue": "Kristiansand Domkirke",
-    "area": "Kristiansand",
-    "category": [
-      "culture",
-      "concert",
-      "festival",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Så nært har du aldri opplevd dem før. Etter å ha solgt ut Unity Arena, spilt over hele Norden og stått på noen av landets største festivalscener, skriver Highasakite nå det siste kapitlet i Testament. Med The Last Testament trekkes musikken helt inn til publikum, når et av landets mest kritikerroste liveband flytter inn i noen av Norges vakreste kirkerom. Bli med og skriv de siste linjene i The Last Testament. Arrangementstidspunkt/konsertstart : 18:00 Dørene åpner : 60 min før Varighet : 90 min Servering : Ingen servering Aldersgrense : Ingen aldersgrense Ledsager : Ledsager gratis med billett - begrenset antall Adkomst : Alle busser, tog og ferger stanser i Kvadraturen (sentrum) med kort gangavstand til Kristiansand Domkirke. Rullestol : Ja Parkeringsmuligheter : Ja Linker: Arrangørens nettside Artistens nettside YouTube Spotify Instagram Facebook",
-    "url": "https://www.songkick.com/concerts/43175474-dirty-old-town-at-kristiansand-domkirke?utm_medium=organic&utm_source=microformat",
-    "source": "Songkick Kristiansand",
-    "sources": [
-      {
-        "name": "Songkick Kristiansand",
-        "url": "https://www.songkick.com/concerts/43175474-dirty-old-town-at-kristiansand-domkirke?utm_medium=organic&utm_source=microformat"
-      },
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/1569747153?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-1abb46eea41d",
-    "title": "Dirty Old Town pres: Tatt Av Dage",
-    "date": "2026-11-07",
-    "time": "22:00",
-    "venue": "KafÃ© Krank",
-    "area": "Kristiansand",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Konsert: Dirty Old Town pres: Tatt Av Dage pÃ¥ KafÃ© Krank i Kristiansand. Det blir en real helaften med tung, tung rock nÃ¥r Tatt Av Dage skrur forsterkerne til 11 og inviterer til en solid kveld pÃ¥ KafÃ© Krank! Bandet bestÃ¥r av Erik Jakobsen pÃ¥ gitar og vokal, Hans Eidskard pÃ¥ trommer, Sigve Hornnes pÃ¥ bass, Per Holter-Andersen pÃ¥ vokal og Ã smund Ã mdal pÃ¥ tangenter. Eidska Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-ace95fb03c7f",
-    "title": "Dirty Old Town pres: Tatt Av Dage",
-    "date": "2026-11-07",
-    "time": "",
-    "venue": "Kafé Krank / Laboratoriet",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "food",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Det blir en real helaften med tung, tung rock når Tatt Av Dage skrur forsterkerne til 11 og inviterer til en solid kveld på Kafé Krank! Bandet består av Erik Jakobsen på gitar og vokal, Hans Eidskard på trommer, Sigve Hornnes på bass, Per Holter-Andersen på vokal og Åsmund Åmdal på tangenter. Eidskard, Jakobsen og Holter-Andersen grunnla på 90-tallet tungrockbandet Natt & Tåke som senere ble lagt på hylla.For ca tre år siden inviterte Jakobsen på en jam, hvor meningen i utgangspunktet var å spille noen gamle Natt & Tåke låter for moro skyld. Medlemmene merket imidlertid fort at de fremdeles hadde mye på hjertet, og det trillet etter hvert ut en rekke nye låter og ny lyrikk. Det ble også klart at dette ikke var Natt & Tåke, men noe nytt og spennende. Bandet tok til seg navnet Tatt av Dage. Tatt av Dage ble forsterket av Sigve Hornnes på bass. En gammel kjenning fra 80 og 90-tallet med fartstid fra bl.a. Revelation, Seventh Seal og Sensible Joe. Åsmund Åmdal ble med i bandet våren 2024. Han har bakgrunn fra en rekke ulike prosjekter. Musikken er tung og kompromissløs hardrock med norsk lyrikk. Dørene åpner kl 19:00 Konsertstart kl 21:00 Velkommen! Arrangementstidspunkt/konsertstart : 21:00 Dørene åpner : 120 min før Varighet : 90 min Servering : Mat Øl / Vin Alle rettigheter Aldersgrense : 20 Ledsager : Ledsager gratis uten billett Adkomst : Alle busser, tog og ferger stanser i Kvadraturen (sentrum) med kort gangavstand til Kafé Krank. Buss nr 10 til sykehuset går fra Henrik Wergelands gate og stanser like utenfor Kafé Krank - busstopp: Fylkeshuset. Rullestol : Ja Parkeringsmuligheter : Ja Arrangørens nettside",
-    "url": "https://www.ticketmaster.no/event/1094253273?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/1094253273?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-c30e511a0f9e",
-    "title": "Er barn som spiser sunt mer tilfredse? Hva vet vi om matens betydning for barns helse, utvikling og trivsel? - LÃ¸rdagsuniversitetet i Kristiansand",
-    "date": "2026-11-07",
-    "time": "14:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "food",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Annet: Er barn som spiser sunt mer tilfredse? Hva vet vi om matens betydning for barns helse, utvikling og trivsel? - LÃ¸rdagsuniversitetet i Kristiansand pÃ¥ Teateret i Kristiansand. LÃ¸rdagsuniversitetet er et tilbud om populÃ¦rvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hÃ¸rverdige foredragsholdere. Aktuelle tema blir presenter Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-6a0ae499b084",
-    "title": "Familieverksted: Lag bjørkelykt",
-    "date": "2026-11-07",
-    "time": "11:00",
-    "venue": "Kunstsilo",
-    "area": "Kristiansand S",
-    "category": [
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Lys opp mørketiden med stemningsfulle lykter! I utstillingen 'Leonard Rickhard: Modellbyggeren' finner vi flere verk hvor kunstneren har latt seg fascinere av bjørkeskogene på Sørlandet. I familieverkstedet kan dere lage egne lykter av bjørkenever. Praktisk info: Familieverkstedet finner du i Multisalen, og det er gratis å delta. Kunstsilo tilbyr familieverksted hver helg (med noen få unntak) samt i skoleferier. I hverdagene er Multisalen forbeholdt skole- og barnehagebesøk.",
-    "url": "kunstsilo.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "kunstsilo.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-dcc05eec9b07",
-    "title": "Heavy Breathers - av Susie Wang",
-    "date": "2026-11-07",
-    "time": "19:00",
-    "venue": "Kilden",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-baf26313f785",
-    "title": "KELLINI // Vaktbua klubb",
-    "date": "2026-11-07",
-    "time": "19:00",
-    "venue": "Vaktbua",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "festival"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Siden 2000-tallet har den smittende og entusiastiske norske DJ-en og produsenten Kjetil Lagesen utviklet talentet sitt under artistnavnet KELLINI. Når det gjelder opptredener, er KELLINI kjent for sin dype og groovy stil innen Nu-disco, house og melodisk elektronika. Han har spilt på nattklubber og festivaler over hele Europa, inkludert i Berlin og over hele Norge. Dette inkluderer steder som Jaeger, Storgata 26, Jarle Bråthens «FjernstYrt»-fester, Vaktbua, Dama Di og Crack Bellmer. Han avsluttet også Geiranger Elektro Festival etter artisten Skateboard. Døra åpner kl 19. Online billettsalg til kl 21, deretter i døra.",
-    "url": "https://tikkio.com/events/67000",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://tikkio.com/events/67000"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/67000-kellini-vaktbua-klubb"
-      }
-    ]
-  },
-  {
-    "id": "merged-add99794a078",
-    "title": "Kammerkonserter i Agder: SÃ¸m Kirke",
-    "date": "2026-11-07",
-    "time": "15:00",
-    "venue": "Kilden",
-    "area": "Kristiansand",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Konsert: Kammerkonserter i Agder: SÃ¸m Kirke pÃ¥ Kilden i Kristiansand. Fiolin & piano Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-39a24100e03b",
-    "title": "Lørdagsuniversitetet",
-    "date": "2026-11-07",
-    "time": "13:00",
-    "venue": "Teateret Biscenen",
-    "area": "Kristiansand S",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Lørdagsuniversitetet er et tilbud om populærvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hørverdige foredragsholdere. Aktuelle tema blir presentert og diskutert i en uformell setting. Tid: Lørdager kl. 13.00 Sted: Teateret, Kongens gate 2 Plassbegrensning. Det er stor pågang, så vær tidlig ute for å sikre deg plass. Billetter (gratis) hentes i baren på Teateret fra klokka 11:00 samme dag. Se fullt program her",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1661893",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1661893"
-      }
-    ]
-  },
-  {
-    "id": "merged-373871f80c9e",
-    "title": "MANTRA MUSIC EXPERIENCE - Kirtan Vibration - INTERAKTIV KONSERT",
-    "date": "2026-11-07",
-    "time": "17:45",
-    "venue": "Sagene Samfunnshus/Sagene Community Center",
-    "area": "Oslo",
-    "category": [
-      "concert",
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "- MANTRA MUSIC EXPERIENCE - KIRTAN VIBRATION (read in Norwegian below) KIRTAN VIBRATION is more than just a concert – it’s an heart felt immersive experience. Heart Oasis is an international kirtan band traveling all over Europe spreading the sacred yoga sound - mantra sound. OSLO never falls asleep, but everyone needs a reset sometimes. Catch the positive vibes in the heart of Oslo! Maybe you are feeling tired and overwhelmed, but silence is boring? Need to unwind, find inner peace, lift your mood, and take a break from everyday stress? If you are looking for a moment to find yourself again and experience something you'll be telling your friends about - this event is absolutely for you! Kirtan meditation is more than just a musical event — it’s a joyful, heart-opening experience that helps you recharge, find inspiration, and reconnect with your inner peace. Imagine a cozy space, soft light, the subtle scent of incense, and the sounds of mantras slowly dissolving the tension in your body and mind. Here, you can truly be yourself: immerse yourself in the sound vibration, sing from the bottom of your heart, and dance away the stress. We invite you to an extraordinary meditative concert by the international band Heart Oasis. What to expect: Great music – good musicians, pleasant sound quality and stunning, ethereal vocals performed by professional musicians. Time to chill out – we will start off with deep relaxation and a soothing sound bath. Dance out your emotions – there will also be tracks to move you, because traditional Vedic mantras can be joyfully sung to dance beats too! Safe landing – the entire journey will conclude with a peaceful, gentle lullaby. A welcoming atmosphere – a place where you can truly be yourself and meet kind-hearted people who share your vibe. An unforgettable atmosphere and the magic of mantras Experience meditation that is deep, dynamic, and incredibly engaging. Mantras are ancient yogic sound vibrations. You don't need to \"know how to sing,\" and you don't need any prior experience in meditation. Just step into the collective rhythm of chanting, and you’ll feel the tension and stress melt away. This is an evening of true relaxation. Kirtan is the congregational singing of mantras that carries an incredible power! Come and check it out yourself! Drop by alone or bring your friends. It doesn't matter if it’s your first time or if you’re already a \"pro.\" Mantra Music Night is more than just a concert – it’s a unique experience. WHERE? Sagene Samfunnshus/Sagene Community Center Kristiansandsgate 2 , 0463 Oslo WHEN? Saturday, Noverber 7th, 6:00 PM TICKETS? Donations are very welcome to cover the cost of the venue. #MantraMusicNight #OsloVibes #MantraVibes #HealingSound #OSLO #SoulEvents #SoundMeditation #ConsciousMusic #Reset2026 #KirtanOslo #KirtanOslo #OsloVibes #Mantra Music Vibes ****************************************************************************************************************************************** NORSK: MANTRA MUSIC EXPERIENCE - KIRTAN VIBRATION Kirtan Vibration er mer enn bare en konsert – det er en hjertevarm og oppslukende opplevelse. Heart Oasis er et internasjonalt kirtan-band som reiser rundt i hele Europa for å spre den hellige yogalyden – mantralyden. Oslo sover aldri, men av og til trenger alle en «reset». Få tak i de gode vibbene midt i hjertet av Oslo! Føler du deg trøtt og overveldet, men synes stillheten er kjedelig? Trenger du å koble av, finne indre ro, løfte humøret og ta en pause fra hverdagsstresset? Hvis du leter etter et øyeblikk til å finne tilbake til deg selv og oppleve noe du vil fortelle vennene dine om – så er dette arrangementet midt i blinken for deg! Kirtan-meditasjon er mer enn bare et musikalsk arrangement — det er en gledelig og hjerteåpnende opplevelse som hjelper deg å lade batteriene, finne inspirasjon og gjenopprette kontakten med din indre ro. Se for deg et lunt rom, dempet belysning, den svake duften av røkelse, og lyden av mantraer som sakte løser opp spenningene i kropp og sinn. Her kan du virkelig være deg selv: leve deg inn i lydvibrasjonene, synge av et fullt hjerte og danse bort stresset. Vi inviterer deg til en helt spesiell meditasjonskonsert med det internasjonale bandet Heart Oasis. Hva du kan forvente: God musikk – topp lydkvalitet og fantastiske, eteriske vokalprestasjoner av profesjonelle musikker. Tid til chill out – vi starter med dyp avslapning og et beroligende lydbad. Dans ut følelsene dine – det blir også låter som kan få deg med i dansen, for tradisjonelle vediske mantraer kan også synges med glede til dansbare rytmer! Trygg landing – hele reisen avsluttes med en fredelig og mild vuggevise. En varm atmosfære – et sted hvor du kan være deg selv og møte hyggelige mennesker som deler din \"vibe\". Uforglemmelig stemning og mantraenes magi. Opplev en meditasjon som er dyp, dynamisk og utrolig engasjerende. Mantraer er urgamle yogiske lydvibrasjoner. Du trenger ikke å «kunne synge», og du trenger ingen erfaring med meditasjon fra før. Bare bli med inn i den felles rytmen, og du vil kjenne at spenninger og stress smelter bort. Dette er en kveld med ekte avspenning. Kirtan er felles sang av mantraer som bærer på en utrolig kraft! Kom og sjekk det ut selv. Kom alene eller ta med venner. Det spiller ingen rolle om det er første gangen din, eller om du allerede er en «proff». Mantra Music Night er mer enn en konsert – det er en unik opplevelse. HVOR? Sagene Samfunnshus Kristiansandsgate 2, 0463 Oslo NÅR? Lørdag 7. november kl. 18:00 BILLETTER? Donasjoner tas med stor takk for å dekke leien av lokalet. #MantraMusicNight #OsloVibes #MantraVibes #HealingSound #OSLO #SoulEvents #SoundMeditation #ConsciousMusic #Reset2026 #KirtanOslo #Mantra Music Vibes",
-    "url": "https://tikkio.com/events/66568-kirtan-experience-kirtan-music-night",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/66568-kirtan-experience-kirtan-music-night"
-      }
-    ]
-  },
-  {
-    "id": "merged-8cee86439c05",
-    "title": "Svanesjøen: Symphony of Lights",
-    "date": "2026-11-07",
-    "time": "18:00",
-    "venue": "Teateret Hovedscenen",
-    "area": "Kristiansand S",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "«Svanesjøen: Symphony of Lights» er sesongens store nye produksjon. Tchaikovskys ikoniske musikk åpner døren til en helt nytolket verden: spektakulær lysdesign, opplyste kostymer og dansere i verdensklasse fra hele verden forvandler den klassiske balletten til en fortryllende visuell opplevelse. Dette er mer enn en forestilling – det er en opplevelse av en historie om kjærlighet og magi, fortalt gjennom lys, bevegelse og musikk. Hver akt utfolder seg som et levende kunstverk, der tidløs tradisjon møter dristig, moderne scenedesign. Opplev Svanesjøen i et helt nytt lys – en legende gjenfødt med betagende bilder og sterk følelsesmessig kraft. Billetter er nå i salg – sikre deg de beste plassene i god tid.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1727740",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1727740"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-cf18fba346c6",
-    "title": "Under en magisk måne - Peter Pan",
-    "date": "2026-11-07",
-    "time": "13:00",
-    "venue": "Kilden teater og konserthus Multisalen",
-    "area": "Kristiansand",
-    "category": [
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Det er en stjerneklar sommerkveld. Wendy og de to brødrene hennes, John og Michael, skal sove ute. Men det er ikke lett å sovne under en magisk måne. Så forteller storesøster Wendy historien om Peter Pan, som bor sammen med de bortkomne guttene i Aldriland. – «Aldriland, det er andre stjerne til høyre og så rett fram til soloppgangen.» Dermed starter reisen til en magisk verden der tiden står stille og fantasien får vinger. På byens tak er alt mulig. Det er bare å lukke øynene og fly sammen til et fantasiland fullt av havfruer, sjørøvere og pirater, bortkomne gutter – og en ikke helt snill Tingeling. Kommer havfruene til å klare å lokke barna ut i den blå lagunen? Kommer piratene til å fange Peter Pan? Eller rekker den grønne klokkodillen å spise opp Kaptein Krok? Kommer Peter Pan noen gang til å bli voksen – og finner Wendy, John og Michael veien hjem igjen? I teatrets verden, der alt er en lek – men også litt alvor – kan alt skje. Kom som du er, eller kle deg ut som Peter Pan, Tingeling, Kaptein Krok eller en annen du har lyst til å være. Vi gleder oss til å få besøk av deg. – «Kom, bli med til Aldriland. Fantastiske ting kan skje under en magisk måne.» Spilletid: ca. 1 time Språk: Norsk tegnspråk og tale",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1731523",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1731523"
-      }
-    ]
-  },
-  {
     "id": "merged-c4dd1104f399",
     "title": "AVLYST KARI 70 - Kari Bremnes",
     "date": "2026-11-08",
@@ -490,6 +175,28 @@
     ]
   },
   {
+    "id": "merged-ba6d7d1bc3cc",
+    "title": "RESURRECTION",
+    "date": "2026-11-10",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66060-resurrection",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66060-resurrection"
+      }
+    ]
+  },
+  {
     "id": "merged-7d4e78963ca8",
     "title": "Skriveskolens diktanalyse: Ole Johan Moe analyserer Cornelius Jakhelln",
     "date": "2026-11-10",
@@ -530,6 +237,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1663230"
+      }
+    ]
+  },
+  {
+    "id": "merged-ab7724debf44",
+    "title": "EVE'S BAYOU",
+    "date": "2026-11-11",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66061-eves-bayou",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66061-eves-bayou"
       }
     ]
   },
@@ -596,6 +325,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/65931"
+      }
+    ]
+  },
+  {
+    "id": "merged-bed9080adbb3",
+    "title": "LATTERLIG ONSDAG på Lille Andevinge | 11. November",
+    "date": "2026-11-11",
+    "time": "18:00",
+    "venue": "Lille Andevinge",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "🎤 LATTERLIG ONSDAG – Lille-lørdag med lattergaranti! 😂 Hvem har sagt at man må vente til helga for å ha det gøy?! 🍻 Denne onsdagen klinker vi til med humorstjerner av beste sort: 🎤 Kjetil Moen har tatt Sørlandet med storm og reiser land og strand rundt med sitt eget soloshow! Nylig solgte han ut soloshowet sitt i Kristiansand, med hele 450 pers i salen! 🔥 🎤 David Di Moen er primus motor i Stå Opp Telemark, en drivkraft i standupmiljøet og en latterlig fin fyr som vet hvordan han skal få folk til å trekke på smilebåndet! 🎤 Yngve Skomsvoll er en bauta i norsk standup, med snart tre tiår bak mikrofonen og tekstforfatter for noen av landets største komikere! Disse tre får selskap av lokale humorspirer fra Sørlandet, som betyr en kveld full av variasjon, spenning, latter og overraskelser! ✨ Lave skuldre, høy latter og lille-lørdagsstemning! Ta med deg venner, kollegaer, kjæresten eller naboen. Her handler det om å senke skuldrene, fylle glasset og få en skikkelig morsom pause midt i uka! 📍Lille Andevinge, Arendal 📅 Onsdag 11. november kl. 19:00 🎟️ Kun 100 kr! Livet er for kort til kjedelige onsdager! 😎",
+    "url": "https://tikkio.com/events/66344-humor-onsdag-pa-lille-andevinge-november",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66344-humor-onsdag-pa-lille-andevinge-november"
       }
     ]
   },
@@ -700,6 +452,73 @@
     ]
   },
   {
+    "id": "merged-f916d37be23a",
+    "title": "DARK CITY",
+    "date": "2026-11-12",
+    "time": "19:45",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 20:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66065-dark-city",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66065-dark-city"
+      }
+    ]
+  },
+  {
+    "id": "merged-7fc7378de30e",
+    "title": "FLUKTEN FRA HØNSEGÅRDEN",
+    "date": "2026-11-12",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "food"
+    ],
+    "family": true,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00 Åpent for barn og voksne (7 år+, eller inntil tre år yngre i følge med en voksen) Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66063-flukten-fra-honsegarden",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66063-flukten-fra-honsegarden"
+      }
+    ]
+  },
+  {
+    "id": "merged-6a0e61327ef0",
+    "title": "Heavy Breathers - av Susie Wang",
+    "date": "2026-11-12",
+    "time": "20:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-3670d7542bfb",
     "title": "Høyt og lavt – en statusrapport fra Norges rikeste land",
     "date": "2026-11-12",
@@ -727,12 +546,12 @@
     ]
   },
   {
-    "id": "merged-8a2aa931dd1f",
-    "title": "Liveshow med Spårtsklubben",
+    "id": "merged-218d5ab61128",
+    "title": "Liveshow med SpÃ¥rtsklubben",
     "date": "2026-11-12",
-    "time": "",
-    "venue": "KRS LIVE",
-    "area": "Kristiansand S",
+    "time": "19:00",
+    "venue": "KRS Live",
+    "area": "Kristiansand",
     "category": [
       "concert",
       "show"
@@ -740,9 +559,13 @@
     "family": false,
     "price": "",
     "description": "Liveshow med Spårtsklubben i Kristiansand! Jon Martin Henriksen, Mads Hansen, Helene Olafsen og Erik Follestad inviterer til en kveld med latter, humor og ekte Spårtsklubben-stemning. Her får du alt du elsker fra podkasten - bare live, foran et publikum. Ingen klipp, ingen filter, bare fire venner (?), gode historier, og spalter som får salen til å koke. Forvent det uventede, og vær med når Norges største podkast endelig møter fansen ansikt til ansikt. Aldersgrense: 18 år Arrangementstidspunkt/konsertstart : 21:00 Dørene åpner : 60 min før Varighet : 90 min Servering : Øl / Vin Ledsager : Ledsager gratis med billett Linker: Arrangørens nettside",
-    "url": "https://www.ticketmaster.no/event/692030112?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
     "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      },
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.ticketmaster.no/event/692030112?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
@@ -790,6 +613,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1759987"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -849,13 +676,17 @@
     ],
     "family": false,
     "price": "",
-    "description": "JUBILEUMSSESONG 20 ÅR Bli med og vinn tusenvis av kroner! Bakgårdens Musikkbingo feirer 20 sesonger med full trøkk, uforglemmelig stemning og selvfølgelig – sjansen til å stikke av med de feteste premier! Gjør deg klar for en kveld fylt med hitlåter, allsang, musikalske utfordringer og muligheten til å vinne både gavekort og mye cash Kjenn igjen låtene – kryss av – vinn – og bli en del av jubileumsfeiringen! Bordet ditt er reservert fra kl 18:45 Bordsetting Vil dere sitte samlet? Kjøp billettene samlet",
+    "description": "JUBILEUMSSESONG 20 ÅR 🎉 Bli med og vinn tusenvis av kroner! Bakgårdens Musikkbingo feirer 20 sesonger med full trøkk, uforglemmelig stemning og selvfølgelig – sjansen til å stikke av med de feteste premier! Gjør deg klar for en kveld fylt med hitlåter, allsang, musikalske utfordringer og muligheten til å vinne både gavekort og mye cash 💸 🎤 Kjenn igjen låtene – kryss av – vinn – og bli en del av jubileumsfeiringen! Bordet ditt er reservert fra kl 18:45 🔖 Bordsetting Vil dere sitte samlet? Kjøp billettene samlet",
     "url": "https://tikkio.com/events/64726",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/64726"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/64726-bakgardens-musikkbingo-13-november"
       }
     ]
   },
@@ -879,6 +710,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/tickets/64458-communic-sublime-eyes-mayfire"
+      }
+    ]
+  },
+  {
+    "id": "merged-f640e2de017f",
+    "title": "Heavy Breathers - av Susie Wang",
+    "date": "2026-11-13",
+    "time": "20:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -958,7 +811,8 @@
     "venue": "Kilden teater og konserthus Konsertsalen",
     "area": "Kristiansand S",
     "category": [
-      "show"
+      "show",
+      "culture"
     ],
     "family": false,
     "price": "",
@@ -969,6 +823,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1737794"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1707,6 +1565,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1751409"
+      }
+    ]
+  },
+  {
+    "id": "merged-295895b25650",
+    "title": "Lørdagsuniversitetet",
+    "date": "2026-11-21",
+    "time": "13:00",
+    "venue": "Teateret Biscenen",
+    "area": "Kristiansand S",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Lørdagsuniversitetet er et tilbud om populærvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hørverdige foredragsholdere. Aktuelle tema blir presentert og diskutert i en uformell setting. Tid: Lørdager kl. 13.00 Sted: Teateret, Kongens gate 2 Plassbegrensning. Det er stor pågang, så vær tidlig ute for å sikre deg plass. Billetter (gratis) hentes i baren på Teateret fra klokka 11:00 samme dag. Se fullt program her",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1661893",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1661893"
       }
     ]
   },
