@@ -1,179 +1,75 @@
 [
   {
-    "id": "merged-24ca3fcece0d",
-    "title": "Anton Rudd // Vaktbua",
-    "date": "2026-11-14",
-    "time": "19:00",
-    "venue": "Vaktbua",
-    "area": "Kristiansand S",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Anton Ruud fra Harestua, er en djevel, sammen med flere andre, på norske rocketekster som vi glatt kan sende et papirfly i retning Jokke, Raga, Thåström, Waits, Cave – og vi skjønner godt at Stein Torleif Bjella liker dette. Å skrive låter er en kunst. Både når det gjelder selvopplevde historier, eller om man dikter opp. Kunsten er å formidle det videre, og Anton Ruud er en artist som mestrer den. Og om det er selvopplevde historier, er det ikke en overraskelse. Dette er en mann som har opplevd livet på både godt og vondt. Når en hører Anton Ruud formidle sine historier, kan en ikke unngå å høre gjenklangen av gamle svenske punkrockere og legendariske skandinaviske viseformidlere. Nerven i fremføringen og hans sterke stemme, som av en eller annen merkerlig grunn fremdeles er ukjent for mange, tar en med til mørke barer såvel som skogen og fjellet. 17:00 - Vaktbua bar åpen 19:00 - Døra åpner (billetter) 20:30 - Fridthjof Berntsen 21:00 - Anton Ruud",
-    "url": "https://tikkio.com/events/65947",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://tikkio.com/events/65947"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/65947-anton-rudd-vaktbua"
-      }
-    ]
-  },
-  {
-    "id": "merged-17916bca006c",
-    "title": "Baldrian og Musa",
-    "date": "2026-11-14",
-    "time": "13:30",
-    "venue": "Teateret Intimscenen",
+    "id": "merged-7a66793a1206",
+    "title": "Opphold på ubestemt tid (MATINÉ)",
+    "date": "2026-11-15",
+    "time": "14:00",
+    "venue": "Cornerteateret",
     "area": "Kristiansand",
     "category": [
+      "food",
       "show"
     ],
     "family": false,
     "price": "",
-    "description": "På tur Baldrian og Musa Dukketeater – av og med Giert Werring Forestillingen «På tur» er en rendyrket figurteaterforestilling hvor det skapes en verden der det umulige blir mulig; naturlovene oppheves og …. Ingen vet hvilken vei eplene faller… Fantasien er drivkraften, og det hverdagslige blir fantastisk.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1740039",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "description": "Opphold på ubestemt tid Om forestillingen Vi befinner oss i en ulovlig spillbule. Tre karakterer spiller et spill der reglene endrer seg og rollene veksler. Vi møter flyktningen som forsøker å bygge et liv, norsklæreren som har blitt portvokter og byråkraten som skal produsere skattebetalere. Alle blir formet av spillets regler, og av hverandre. I møtet mellom regler og realitet trer det fram et absurd landskap der mistanken dirrer i veggene, språket blir et maktmiddel og grensene mellom «de» og «oss» stadig tegnes på nytt. Vibeke Flesland Havre fortsetter å utforske samtiden i et unikt samarbeid med sosialantropolog Kari Anne K. Drangsland. I ti år har Drangsland gjort feltarbeid i det norske integreringsbyråkratiet. Forestillingen bygger på hennes nyskrevne tekst Opphold på ubestemt tid, som er en samling dokumentariske dikt basert på samtaler med flyktninger, byråkrater og norsklærere. to fugler i ett slag, sier vi sier dere fluer? vi sier fugler men … det er bedre å slå fugler enn fluer fluer kaster man vekk fugler kan man spise 1 million asylsøkere kom til Europa i 2015, tusenvis druknet i Middelhavet og over 30.000 kom til Norge. Norske myndigheter erklærte flyktningkrise, og for å gjenvinne kontroll, ble reglene for permanent opphold og statsborgerskap endret. Opphold på ubestemt tid undersøker konsekvensene av disse endringene og stiller dagsaktuelle spørsmål om hva slags samfunn vi ønsker å være. Kunstnerisk Team: Regissør og dramatiker: Vibeke Flesland Havre Tekstforfatter og fagkonsulent: Kari Anne Klovholt Drangsland Visuelt uttrykk: Lise Christensen og Imad Alwahibi Lyddesign: Audun Aschim Steffensen og Gunnar Innvær Lysdesign: Maja Bergebakken Sundt Musiker: Annlaug Børsheim Danser: Shelmith Øseth Med: Janna Kari Kvinnesland , Siv Torin Knudsen Pedersen , Peiman Azizpour og Josef Aldebes Forestillingen er produsert i samarbeid med: Den Nationale Scene Forestillingen er støttet av: Bergen kommune Fond for lyd og bilde Fritt Ord ASYKNOW, finansiert av ERC-STG og Universitetet i Bergen (UiB) TiCToC, finansiert av Humanities in the European Research Area og Norges forskningsråd Etter forestillingen Opphold på ubestemt tid lørdag 14. november inviterer vi til en panelsamtale om midlertidighet, tilhørighet og trygghet i norsk asylpolitikk – og hva det betyr å leve med en framtid på vent. (14. november 19:45 - 20:30) I panelet møter vi Kari Anne K. Drangsland, Abdullahi Elmi Ibrahhim, Renate Litleskare og Jessica Schultz. Samtalen ledes av Osama Shaheen fra Chr. Michelsens Institutt. Panelsamtalen er gratis og åpen for alle – også for deg som ikke har sett forestillingen.",
+    "url": "https://cornerteateret.ticketco.events/no/en/e/opphold_paa_ubestemt_tid15_11_2026",
+    "source": "TicketCo Norge",
     "sources": [
       {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1740039"
+        "name": "TicketCo Norge",
+        "url": "https://cornerteateret.ticketco.events/no/en/e/opphold_paa_ubestemt_tid15_11_2026"
       }
     ]
   },
   {
-    "id": "merged-03cdf78f51bc",
-    "title": "Dirty Old Town pres: TÃFL",
-    "date": "2026-11-14",
-    "time": "22:00",
-    "venue": "KafÃ© Krank",
+    "id": "merged-4b2121de5e72",
+    "title": "Tromsø vs Kristiansand (1. div damer) søndag kamp",
+    "date": "2026-11-15",
+    "time": "13:00",
+    "venue": "Tromsø ishall",
     "area": "Kristiansand",
     "category": [
-      "concert"
+      "family"
     ],
-    "family": false,
+    "family": true,
     "price": "",
-    "description": "Konsert: Dirty Old Town pres: TÃFL pÃ¥ KafÃ© Krank i Kristiansand. TÃFL slipper ny musikk og spiller sine stÃ¸rste klubbkonserter over hele landet. LÃ¸rdag 14. november kommer bandet endelig tilbake til Kristiansand og KafÃ© Krank! Enorm energi, relaterbare tekster og rungende allsang. Skillet mellom publikum og bandet opphÃ¸rer, og det er som om hele salen strekker se Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
+    "description": "Hjemmekamp for Tromsø Hockey 1. divisjon damelag Barn under 16 år har gratis inngang men må hente ut barnebillett i Ticketco for å kunne komme inn.",
+    "url": "https://tromsohockey.ticketco.events/no/nb/e/tromso_vs_ksand_damer_15-11",
+    "source": "TicketCo Norge",
     "sources": [
       {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+        "name": "TicketCo Norge",
+        "url": "https://tromsohockey.ticketco.events/no/nb/e/tromso_vs_ksand_damer_15-11"
       }
     ]
   },
   {
-    "id": "merged-f92eb86b14f1",
-    "title": "Heavy Breathers - av Susie Wang",
-    "date": "2026-11-14",
-    "time": "19:00",
-    "venue": "Kilden",
+    "id": "merged-8e887d321e0b",
+    "title": "AFFEKSJONSVERDI",
+    "date": "2026-11-16",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
     "area": "Kristiansand",
     "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Teater/Musikal: Heavy Breathers - av Susie Wang pÃ¥ Kilden i Kristiansand. Etter glitrende anmeldelser i aviser som Die Welt og The New York Times â og utsolgte forestillinger i London, Berlin og New York â vender Susie Wang endelig tilbake til Kilden. Sist gang var i 2020 med Licht und Liebe, senere vist pÃ¥ Nationaltheatret og i Tyskland. I samarbeid med Kilden skal de nÃ¥ Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-7a6a8e763840",
-    "title": "In memory of elvis gospel med paal flaata og koret stemmebruget",
-    "date": "2026-11-14",
-    "time": "",
-    "venue": "Kristiansand Domkirke",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "IN MEMORY OF ELVIS GOSPEL En konsertopplevelse som treffer rett i sjelen. Dette er ikke bare en konsert. Det er en opplevelse. En musikalsk reise inn i hjertet til Elvis Presley – der tro, kraft og følelser smelter sammen i musikken som sto ham aller nærmest. Bak rockeikonet skjulte det seg en artist med en dyp kjærlighet til gospel. Det var her Elvis fant trøst og styrke – og det var denne musikken som ga ham tre Grammy-priser. Nå løftes denne arven frem i en storslått forestilling som kombinerer de mektigste gospelklassikerne med udødelige sanger som «Bridge Over Troubled Water», «How Great Thou Art» og «An American Trilogy». På scenen står et ensemble i ypperste klasse: Den enestående Paal Flaata – en artist med over 25 års platekarriere – har en stemme som har blitt beskrevet som noe helt utenom det vanlige. Etter å ha frontet det kritikerroste bandet Midnight Choir og vunnet Spellemannspris for «Amsterdam Stranded», har Flaata etablert seg som en av Norges mest respekterte og turnerende soloartister, med hele 10 albumutgivelser bak seg – akkompagnert av et stjernelag av musikere, ledet av pianist og produsent Gøran Grini. Ved hans side står Stemmebruget – et av de største blandakorene i Kristiansand, med rundt 50 sangere i alderen 25 til 70 år. Koret er kjent for sitt sterke sosiale miljø og sin smittende sangglede, kombinert med en tydelig ambisjon om stadig musikalsk utvikling. Selv om Stemmebruget har sine røtter i rock, favner repertoaret bredt – fra pop og funk til ballader, julesanger og gospel. Koret har gjort seg bemerket på lokale scener, blant annet i Kilden teater og konserthus, og gjennom samarbeidsprosjekter som konserter med Agder Brass og opptredener som backingkor for ulike artister. Koret har også vært en del av In Memory Of Elvis Gospel-turnéen tidligere, med medvirkning i 2018, 2019 og 2025 i Kristiansand Domkirke. Med varme, energi og ekte formidlingsevne tilfører Stemmebruget konserten både kraft og nærhet – og bidrar til en opplevelse som treffer publikum rett i hjertet. Dette er konserten som fyller rommet med gåsehud, tårer og stående applaus. Med over 200 konserter og nærmere 100 000 publikummere rørt til det innerste, bygger årets turné videre på suksessen fra tidligere kritikerroste produksjoner. Publikum vender tilbake – ikke bare for musikken, men for følelsen. For dette handler ikke bare om å høre Elvis. Dette er kvelden du tar med deg – lenge etter siste tone har stilnet. Arrangementstidspunkt/konsertstart : 19:00 Dørene åpner : 30 min før Varighet : 90 min Servering : Ingen servering Aldersgrense : Ingen aldersgrense Ledsager : Ledsager gratis med billett Rullestol : Ja Parkeringsmuligheter : Nei Facebook",
-    "url": "https://www.ticketmaster.no/event/22220274?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/22220274?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-091a4e173bf1",
-    "title": "Janove – med strykekvartett",
-    "date": "2026-11-14",
-    "time": "19:00",
-    "venue": "Kilden teater og konserthus Konsertsalen",
-    "area": "Kristiansand",
-    "category": [
-      "concert",
       "food"
     ],
     "family": false,
     "price": "",
-    "description": "Høsten 2026 gjør Janove noen få eksklusive konserter med strykekvartett. Turneen besøker åtte av landets største konserthus i november og desember hvor han for første gang presenterer sine låter i symfonisk format. I hver by er det med en lokal strykekvartett. Prosjektet springer ut av en idé som har utviklet seg over flere år, og som nå realiseres i full skala. Arrangementene er skrevet av Erlend Skomsvoll, Gisle Kverndokk, Erik Waldejer og Heine Røise, som alle er etablerte og anerkjente navn med imponerende meritter. Sammen skaper de ulike arrangørene variasjon, bredde og tilfører nye nyanser i musikken. Repertoaret hentes fra hele Janoves katalog og utvalget er gjort med tanke på hva som kler det nye formatet og rommer både kjente favoritter, aldri fremførte låter og helt nytt materiale. – Dette gleder jeg meg veldig til! Jeg har gått gjennom hele min katalog, materialet fra det symfoniske og stumteatralske stykke, The Mute, og Kaizerkatalogen for å finne de mest interessante og spennende låtene å fremføre i symfonisk drakt, sier Janove Ottesen. – Det blir alltid magisk når låtene forsterkes med strykere og mange av mine favorittlåter blir ofte ekstra dramatiske når de lener seg enda lenger inn mot et filmatisk og teatralsk uttrykk. Det har vært utrolig gøy å motta arrangementene og nå gleder jeg meg til å fremføre de sammen med strykekvartettene. I forbindelse med turneen slippes en ny singel, «Min Melodi Blå», samt et dobbeltalbum digitalt og på vinyl; Janove - «The Collection», bestående av en samling favorittlåter i bandformat på den ene platen, og pianoutgivelser på den andre. Hver plate inneholder i tillegg ett uutgitt bonusspor; «En Mester Og Hans Karakter» og «En Drøm». Med på turneen er også artisten OLIVER som Special Guest, med sin egenkomponerte, filmatiske pianomusikk.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1732520",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66066-affeksjonsverdi",
+    "source": "Tikkio",
     "sources": [
       {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1732520"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66066-affeksjonsverdi"
       }
     ]
   },
   {
-    "id": "merged-ba1e4880e012",
-    "title": "Jul på Fiskebrygga",
-    "date": "2026-11-14",
-    "time": "13:00",
-    "venue": "Fiskebrygga",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "concert",
-      "food",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Lørdag 14. november tenner vi lysene på Fiskebrygga. Kom i julestemning på Kirkens Bymisjons tradisjonelle julemarked, spis julebrunsj og bli med på tenningen av lysene på brygga. Kirkens Bymisjon arrangerer gratis julerebus på brygga, gratis juleverksted og gratis steking av pinnebrød for barna. I tillegg blir det salg av sveler, kaffe og kakao, smaksprøver fra Reinhartsen, besøk av Julenissen og underholdning på Bryggescenen. Lysene på brygga blir tent kl. 17. PROGRAM kl. 13 - 17: Kirkens Bysmisjons julemarked. Salgsbodene har stort utvalg av egenproduserte varer, håndverk og lokale matskatter. Det blir salg av sveler, risgrøt, varm drikke m.m. på brygga. Fiskehandler Reinhartsen byr på smaksprøver både ute og inne i fiskebasaren. kl. 13 - 16: Pinnebrødsteking for barna ved Kirkens Bymisjon. Gratis aktivitet. kl. 13 - 16: Juleverksted for de minste barna 4 - 7 år inne hos Kirkens Bymisjon. Gratis aktivitet. kl. 13 - 16: Juleverksted for barn og ungdom fra 8 år og oppover i telt på brygga (like ved \"Rett i garnet\"). Gratis aktivitet. kl. 13 - 17: uteleker og småaktiviteter for barna i Passasjen (området mellom Kirkens Bymisjon og brygga). Gratis aktivitet. kl. 13 - 17: Julerebus på brygga i regi av Kirkens Bymisjon. Du får tak i \"rebusark\" hos Kirkens Bymisjon (inne) og ute på salgsstandene i julemarkedet. Gratis aktivitet. Flotte premier! Fra kl. 14: Restaurant Amigos selger rykende varme og ferske Churros med kanel og sukker på brygga! kl. 15: Julekonsert med Bymisjonskoret på \"Bryggescenen\" ved Dolly Dimples. kl. 16: Julesang og dans med barna fra Fridans Musikalgruppe på \"Bryggescenen\" ved Dolly Dimples. kl. 1630: Julenissen kommer!Julenissen kommer for å hilse på barna. kl. 17: Julenissen tenner lysene på julebroa! Vi er alle med å teller ned. Vi avslutter med julesang og dans fra barna i Fridans Musikalgruppe.",
-    "url": "www.julebyenkristiansand.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "www.julebyenkristiansand.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-00ffe2ff0e72",
+    "id": "merged-684bd0deb6b9",
     "title": "Kære Larsen – En hyllestkonsert til Kim Larsen",
-    "date": "2026-11-14",
+    "date": "2026-11-17",
     "time": "19:30",
     "venue": "Teateret Hovedscenen",
     "area": "Kristiansand",
@@ -192,165 +88,6 @@
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1724986"
       },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-7e47b57105f0",
-    "title": "Riksteatret: Ubesvart anrop",
-    "date": "2026-11-14",
-    "time": "15:00",
-    "venue": "Kilden teater og konserthus Multisalen",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "food",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Ubesvart anrop av Nora Dåsnes Til ungdommen. En knapp måned etter terrorangrepene 22. juli skal Rebekka begynne på videregående. Hun kjenner ingen av dem som døde, og tenker at hun burde klare å ta hverdagen tilbake. Hun forsøker å engasjere seg i revyen, i Daniel med det krøllete håret, i fester og skole og venner. Problemet er bare at hun tenker på det hele tiden. «Ubesvart anrop» handler om å lete etter mening i møte med det meningsløse. Om hvor vanskelig det kan være å nå ut til hverandre, og hvor viktig det er når vi får det til. Stykket er også en historie om vennskap som holder, og om at det finnes veier tilbake! Når Riksteatret dramatiserer Nora Dåsnes' prisbelønte tegneserieroman 15 år etter 22. juli, er målet å gi unge mennesker håp og hjelp til å forstå egen uro i møte med en urolig verden. Maja Christensen, fra NRKs ungdomssuksess «Rådebank», spiller hovedrollen. Menneskene rundt henne spilles av Amina Mohamud, Jawad Aziz, Arjan Nilsen og Christina Sleipnes. Sagt om boka «Full av håp (...) en bragd» VG (6) «En bok som engasjerer, berører og får leseren til å reflektere rundt både kollektive, politiske samfunnsspørsmål og individuelle, eksistensielle spørsmål» Vinner av Nordisk råds barne- og ungdomslitteraturpris På scenen Maja Christensen, Amina Mohamud, Arjan Nilsen, Jawad Aziz og Christina Sleipnes Team Regissør og dramatiker: Toril Solvang-Kayiambakis Scenograf og kostymedesigner: Marcus Olson Lysdesigner og videodesigner: Oscar Frostad Udbye Komponist, lyddesigner og musikalsk ansvarlig: Ida Flåten Kampenhaug Dramaturg: Liv Gulbrandsen Produsent: Bastian Stabell Av Nora Dåsnes. Dramatisert av Toril Solvang-Kayiambakis. Urpremiere: Oslo / Nydalen 17. september 2026 Turnépremiere: Egersund 22. september 2026 Produsert av Riksteatret",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1737793",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1737793"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-a82766af16b1",
-    "title": "TØFL @ Kafé Krank / Laboratoriet",
-    "date": "2026-11-14",
-    "time": "21:00",
-    "venue": "Kafé Krank / Laboratoriet",
-    "area": "Kristiansand",
-    "category": [
-      "culture",
-      "family",
-      "concert",
-      "festival",
-      "food",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "TØFL slipper ny musikk og spiller sine største klubbkonserter over hele landet. Lørdag 14. november kommer bandet endelig tilbake til Kristiansand og Kafé Krank! Enorm energi, relaterbare tekster og rungende allsang. Skillet mellom publikum og bandet opphører, og det er som om hele salen strekker seg mot noe større sammen. «Det var ren uhemmet glede både på og foran scenen. En sånn konsert der du koser deg, selv om det pøsregner» Adresseavisen, om TØFL på Pstereo, terningkast 6 Med debut-EPen «Eg ska» fra 2018 etablerte TØFL seg raskt som et band med en unik evne til å sette ord på eksistensen, på en måte de fleste kan relatere til. Debutalbumet \"Eg fins, WTF!?\" fra 2022 høstet solide anmeldelser, og ble etterfulgt av utsolgt Rockefeller. Sist sommer var de det mest etterspurte bandet på Balestrand Badeklubb, og de har headlinet Mablisfestivalen og Fredvikafestivalen. De har solgt ut scener som Samfundet og Fiskepiren flere ganger. «På scena er TØFL eit band med uendeleg publikumstekke og energi. (…) Om du aldri har høyrt ei TØFL-låt før, så tek det deg eit par minuttar før du er sjarmert i senk. (…) Her stod dei på plakaten saman med live-legender som Honningbarna og Spidergawd, men klarte likevel å levere dei beste augneblikka av pur festival-lukke.» NRK P3, Jesper Nondal om TØFL på Fresn \"EP-en «Eg ska» og debutplaten «Eg fins, WTF!?» kunne like gjerne blitt kalt «Greatest Hits Vol. 1» og «Vol. 2», for hele salen synger med på samtlige låter, som alle blir møtt med like store doser engasjement. (...) Hadde jeg vært bookingansvarlig for sommerfestivaler i vårt langstrakte land, hadde jeg gjort mitt ytterste for å få Tøfl så langt opp på plakaten som overhodet mulig. Hvorfor? Fordi publikum går bananas over alt de gjør.\" Aftenbladet, om TØFL på Fiskepiren Arrangementstidspunkt/konsertstart : 21:00 Dørene åpner : 120 min før Varighet : 90 min Servering : Mat Øl / Vin Alle rettigheter Aldersgrense : 20 Ledsager : Ledsager gratis uten billett Adkomst : Alle busser, tog og ferger stanser i Kvadraturen (sentrum) med kort gangavstand til Kafé Krank. Rullestol : Ja Parkeringsmuligheter : Ja",
-    "url": "https://www.songkick.com/concerts/43147721-tofl-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat",
-    "source": "Songkick Kristiansand",
-    "sources": [
-      {
-        "name": "Songkick Kristiansand",
-        "url": "https://www.songkick.com/concerts/43147721-tofl-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat"
-      },
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/1008915315?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-9167c1e0ab63",
-    "title": "VAMP",
-    "date": "2026-11-14",
-    "time": "20:00",
-    "venue": "KRS Live",
-    "area": "Kristiansand",
-    "category": [
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Vamp har etablert seg som et av Norges mest folkekjære band og blitt en del av den norske folkesjelen gjennom sin kraftfulle viserock og sitt helt spesielle uttrykk i møtet mellom musikk og lyrikk. Gjennom godt og vel tre tiår har de levert hundrevis av sanger om det å være menneske. Om kjærlighet og sorg, myter og skrømt, ærlighet og svik, døden og livet. Og havet. Vamp består av: Øyvind Staveland: fele, fløyter, vokal, bratsj, trekkspill Odin Staveland: trommer, vokal, piano, perkusjon, trekkspill Jan Toft: vokal, gitar Lars Eirik Støle: Orgel, piano, synther, trekkspill, kor Kjetil Dalland: bass, kor Ledsager : Gratis med billett (ledsager betaler kun billettavgift) Adkomst : Alle busser, tog og ferger stanser i Kvadraturen (sentrum) med kort gangavstand til KRS Live. Busstopp ved KRS Live: Kvadraturen Videregående Skole. Bevegelseshemmede : Ja Parkeringsmuligheter : Ja Foajèen åpner: kl. 18:00 Showstart: kl. 19:00 Linker: Arrangørens nettside",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Songkick Kristiansand",
-        "url": "https://www.songkick.com/concerts/42915174-vamp-at-krs-live?utm_medium=organic&utm_source=microformat"
-      },
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/1483543388?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-e0adba238225",
-    "title": "DNT-Dag i Aquarama",
-    "date": "2026-11-15",
-    "time": "11:00",
-    "venue": "Aquarama",
-    "area": "Kristiansand",
-    "category": [
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "DNT-dagen i Aquarama er et samarbeid mellom DNT Sør og Aquarama, der vi samler små og store til en dag fylt med aktivitet, trygg læring og bevegelsesglede. Arrangementet er til for å gi barn en lavterskel og unik introduksjon til friluftsliv, mestring og lek i trygge omgivelser. I løpet av dagen setter vi opp flere aktivitetsstasjoner inne i badelandet. Her kan barna konkurrere i et kano-race mot venner og familie, suse over bassenget i zip-line, stupe utfor 3-meteren i kajakk eller delta på et utebad hvor nesten alle gjestene løper sammen ut til havet og dukker seg. Instruktører og frivillige fra DNT Sør er til stede for å veilede, motivere og sørge for at alle aktiviteter foregår på en trygg måte. DNT-dagen er også en fin mulighet for foreldre til å bli kjent med DNT Sør sitt tilbud for barnefamilier, som Barnas Turlag, hytteopplevelser, nærturer og aktiviteter gjennom året. DNT-dagen i Aquarama passer for familier som ønsker en aktiv dag, der barn får utforske og leke i vann kombinert med trygghet og gode rammer rundt aktivitetene.",
-    "url": "https://www.aquarama.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.aquarama.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-a45997e095a0",
-    "title": "Julemarked og aktivitetsdag på Bragdøya",
-    "date": "2026-11-15",
-    "time": "11:00",
-    "venue": "Lumber",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "food",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Bragdøya kystlag inviterer til julemarked med et stort og variert utvalg av utstillere og produkter, samt flere kafeer med salg av mat og drikke. Thaulows hus er åpent med omvisning, og smeden er på plass i smia. Aktiviteter for barna: traktornissen, snekkerverksted, pinnebrødsteking og hoppetauverksted. Forestilling med Baldrian og Musa på Låven. Skyss fra Lumber mellom kl. 11.00 og 13.00. Retur fram til kl 15.30. Billetten inkluderer båttransport og aktiviteter.",
-    "url": "bragdoya.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "bragdoya.no"
-      }
-    ]
-  },
-  {
-    "id": "merged-5bc0f6d6f016",
-    "title": "KÃ¦re Larsen â En hyllestkonsert til Kim Larsen - Ekstra konsert!",
-    "date": "2026-11-17",
-    "time": "20:30",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Konsert: KÃ¦re Larsen â En hyllestkonsert til Kim Larsen - Ekstra konsert! pÃ¥ Teateret i Kristiansand. KÃ¦re Larsen âEn hyllestkonsert til Kim Larsen. Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
@@ -429,6 +166,28 @@
     ]
   },
   {
+    "id": "merged-f44ea95b6503",
+    "title": "METROPOLIS",
+    "date": "2026-11-18",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66067-metropolis",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66067-metropolis"
+      }
+    ]
+  },
+  {
     "id": "merged-801b91a9c476",
     "title": "Nasjonal skreduke - Etterklang, skifilm med Tonje Kvivik",
     "date": "2026-11-18",
@@ -471,6 +230,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "bakgardenbar.no"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/67172-vin-til-jul-med-christer-berens"
       }
     ]
   },
@@ -498,6 +261,50 @@
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-5de4943ea4da",
+    "title": "A GHOST STORY",
+    "date": "2026-11-19",
+    "time": "19:45",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 20:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66069-a-ghost-story",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66069-a-ghost-story"
+      }
+    ]
+  },
+  {
+    "id": "merged-08cc76cffa4d",
+    "title": "CHICKEN WITH PLUMS",
+    "date": "2026-11-19",
+    "time": "17:30",
+    "venue": "CINEMATEKET I KRISTIANSAND",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. [18 års grense, pga. alkoholbevilling i Foajeen og salen] Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
+    "url": "https://tikkio.com/events/66068-chicken-with-plums",
+    "source": "Tikkio",
+    "sources": [
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66068-chicken-with-plums"
       }
     ]
   },
@@ -601,6 +408,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/67422"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/67422-krank-pres-mare-sofie"
       }
     ]
   },
@@ -698,6 +509,32 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/66472"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-6b660dbd7cf4",
+    "title": "Dirty Old Town pres: Kristi Brud",
+    "date": "2026-11-20",
+    "time": "22:00",
+    "venue": "KafÃ© Krank",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Dirty Old Town pres: Kristi Brud pÃ¥ KafÃ© Krank i Kristiansand. Etter braksuksessen med debutalbumet âAlt er nyttâ har Kristi Brud etablert seg som et av de mest spennende rockebandene i Norge. Platen ble belÃ¸nnet med Spellemann for Ã rets Rockeplate i 2024, og pressen var unisont begeistret: VG, Aftenposten, Klassekampen og Bergens Tidende trillet alle terningka Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -889,7 +726,8 @@
     "area": "Kristiansand",
     "category": [
       "concert",
-      "show"
+      "show",
+      "culture"
     ],
     "family": false,
     "price": "",
@@ -900,6 +738,54 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1672093"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-5fb6f305ebdb",
+    "title": "KI, det kreativt skapende og problemer med det tellende - LÃ¸rdagsuniversitetet i Kristiansand",
+    "date": "2026-11-21",
+    "time": "14:00",
+    "venue": "Teateret",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Annet: KI, det kreativt skapende og problemer med det tellende - LÃ¸rdagsuniversitetet i Kristiansand pÃ¥ Teateret i Kristiansand. LÃ¸rdagsuniversitetet er et tilbud om populÃ¦rvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hÃ¸rverdige foredragsholdere. Aktuelle tema blir presenter Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
+    "id": "merged-dcef9436606b",
+    "title": "Kammerkonserter i Agder: Bykle kirke, Setesdal",
+    "date": "2026-11-21",
+    "time": "19:00",
+    "venue": "Kilden",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Kammerkonserter i Agder: Bykle kirke, Setesdal pÃ¥ Kilden i Kristiansand. Trompet og piano Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -923,6 +809,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1751409"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1043,6 +933,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/66490"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
