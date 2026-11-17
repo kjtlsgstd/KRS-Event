@@ -1,30 +1,8 @@
 [
   {
-    "id": "merged-8e887d321e0b",
-    "title": "AFFEKSJONSVERDI",
-    "date": "2026-11-16",
-    "time": "17:30",
-    "venue": "CINEMATEKET I KRISTIANSAND",
-    "area": "Kristiansand",
-    "category": [
-      "food"
-    ],
-    "family": false,
-    "price": "",
-    "description": "CINEMATEKET I KRISTIANSAND Filmvisning kl. 18:00. Kafé/bar åpen før og etter film. Billettsalget på nett stenger når kassen åpner på Cinemateket, en halvtime før hver visning. Det kan være masse billetter igjen, selv om man ikke får kjøpt på nett den siste halvtimen. Filminfo og trailer: www.krscinematek.no",
-    "url": "https://tikkio.com/events/66066-affeksjonsverdi",
-    "source": "Tikkio",
-    "sources": [
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/66066-affeksjonsverdi"
-      }
-    ]
-  },
-  {
-    "id": "merged-600a5a1ec291",
+    "id": "merged-e9d6d0e7781c",
     "title": "Don Juan",
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "time": "20:00",
     "venue": "Kvarteret",
     "area": "Kristiansand",
@@ -34,12 +12,12 @@
     "family": false,
     "price": "",
     "description": "Don Juan er en ambisiøs forestilling som roter sammen historiske perioder til en eksplosiv blanding. I over fire hundre år har Don Juan, en av teaterhistoriens mest notoriske karakterer, stadig dukket opp i Shakespeare, Mozart, Phantom of the Opera, og utallige andre steder. Til tross for denne historiske rundgangen, klarer Don Juan stadig å holde på sin egen identitet og kjennetegn, som en hedonistisk og skruppelløs skjørtejeger. Don Juan er opplysningstidens menneske, en gjennomtenkt kriger som går i frontlinjen mot moralister og hyklere. Nå, fire hundre år senere, må vi spørre oss selv hva vi egentlig lærte av historiene om Don Juan; og kanskje enda viktigere, hva vi burde lært? Regissører: Ivar Aakre Moberg og Sebastian Sjøvoll Produksjonsleder: Sofia Borne Oversatt av: Hanne Hermann Forestillingen starter kl. 19:00. Dørene åpner 15-20 min før. Legitimasjon må mulig vises ved inngangen. Personer under 18 år må ha verge. Les mer her: https://www.samfunnetibergen.no/nb/nyttig",
-    "url": "https://studentteateretimmaturus.ticketco.events/no/en/e/don_juanmandag",
+    "url": "https://studentteateretimmaturus.ticketco.events/no/en/e/don_juantirsdag",
     "source": "TicketCo Norge",
     "sources": [
       {
         "name": "TicketCo Norge",
-        "url": "https://studentteateretimmaturus.ticketco.events/no/en/e/don_juanmandag"
+        "url": "https://studentteateretimmaturus.ticketco.events/no/en/e/don_juantirsdag"
       }
     ]
   },
@@ -92,28 +70,6 @@
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1736765"
       },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-8ac391d43b57",
-    "title": "Peer Gynt med KÃ¥re Conradi",
-    "date": "2026-11-17",
-    "time": "13:00",
-    "venue": "Kilden",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Teater/Musikal: Peer Gynt med KÃ¥re Conradi pÃ¥ Kilden i Kristiansand. Det Norske Ibsenkompaniet presenterer KÃ¥re Conradis kritikerroste enmannsforestilling over Peer Gynt. Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
@@ -727,6 +683,29 @@
     ]
   },
   {
+    "id": "merged-e978b0d6d6e1",
+    "title": "Dirty Old Town pres: The Impossible Green + support: Velcro Dog",
+    "date": "2026-11-21",
+    "time": "22:00",
+    "venue": "KafÃ© Krank",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "festival"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Konsert: Dirty Old Town pres: The Impossible Green + support: Velcro Dog pÃ¥ KafÃ© Krank i Kristiansand. The Impossible Green skal ut pÃ¥ hÃ¸stturnÃ© igjen og selvsagt har vi invitert dem tilbake til Kristiansand og KafÃ© Krank! The Impossible Green gjÃ¸r det igjen! Etter et hesblesende fjorÃ¥r med over 60 konserter land og strand rundt, fra de stÃ¸rste festivalene til de minste klubbene, kommer bandet med ny Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      }
+    ]
+  },
+  {
     "id": "merged-5fb6f305ebdb",
     "title": "KI, det kreativt skapende og problemer med det tellende - LÃ¸rdagsuniversitetet i Kristiansand",
     "date": "2026-11-21",
@@ -941,6 +920,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1741209"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -2056,6 +2039,28 @@
     ]
   },
   {
+    "id": "merged-627daecd35ea",
+    "title": "Gullstrupene julekonsert",
+    "date": "2026-12-05",
+    "time": "12:00",
+    "venue": "Kilden teater og konserthus Foajé Nord",
+    "area": "Kristiansand",
+    "category": [
+      "concert"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Gullstrupene inviterer til en skikkelig hyggestund med korsang og glede! Vi synger oss gjennom de mest kjente julesangene, og vi håper å gi vårt publikum en ordentlig god førjulsstemning. Og på våre konserter er det alltid lov å synge med!",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763026",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763026"
+      }
+    ]
+  },
+  {
     "id": "merged-e51cdc5718b6",
     "title": "Julebyens Kunstnermarked",
     "date": "2026-12-05",
@@ -2074,6 +2079,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "www.julebyenkristiansand.no"
+      }
+    ]
+  },
+  {
+    "id": "merged-d45037730e0f",
+    "title": "Julebyens Kunstnermarked i Rådhuskvartalet",
+    "date": "2026-12-05",
+    "time": "12:00",
+    "venue": "Rådhusgata 18",
+    "area": "Kristiansand",
+    "category": [
+      "food"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Velkommen til Julebyen Kunstnermarked i Rådhuskvartalet. Du møter en rekke kunstnere som stiller ut og selger sine kunstverk og produkter i markedet. Her finnes et stort og variert utvalg av kunst og produkter som er perfekte julegaver eller som en liten oppmerksomhet til deg selv til jul. Gratis inngang.",
+    "url": "https://www.facebook.com/events/1029982583393075/1029982590059741/?active_tab=about&ref=110",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.facebook.com/events/1029982583393075/1029982590059741/?active_tab=about&ref=110"
       }
     ]
   },
@@ -3254,6 +3281,29 @@
     ]
   },
   {
+    "id": "merged-8a77177aa1ce",
+    "title": "Eventyret om Gjerdeløa som ble konseptkunst: Teatralsk omvisning med Jeanette",
+    "date": "2027-01-13",
+    "time": "18:00",
+    "venue": "Kunstsilo",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Bli med når Gjerdeløa får nytt liv og nye overraskende meninger gjennom øynene til den særdeles engasjerte og selverklærte kunsteksperten Jeanette (spilt av Guandaline Sagliocco). I denne spesialomvisningen møter du en sjarmerende karakter som med boblende entusiasme, skarpe observasjoner og svært spontane assosiasjoner våger å nærme seg Gjerdeløa, det første og viktigste konseptkunstverk i Norge. Denne gangen kaster hun seg med hud og hår inn Marianne Heskes eventyrlige prosjekt, der en helt vanlig løe fra 1600-tallet har foretatt en spektakulær reise fra Tafjord på Vestlandet, til kjendis status på 80-tallet i Pompidou senteret i Paris, via flere stoppesteder før den nå har landet trygt på en mesanin i Kunstsilo i Kristiansand. Jeanette, med sitt ærlige blikk og sterke vilje til å opplyse mennesker om kunst (og seg selv) reflekterer, filosoferer og undres over spørsmålet: Hva har skjedd i og rundt Gjerdeløa, hvordan var egentlig den lange reisen, og hva i all verden er konseptkunst? Sagliocco Ensemble har gjort stor suksess med sine produksjoner bl.a. på Nasjonalmuseet, Telemark Museum og Louvres, og nå er hun tilbake her på Kunstsilo etter fjorårets suksess med en vandring i Torvald Moseids Draumkvedet. Forvent en leken og unik inngang til kunsten, hvor publikum får se Gjerdeløa av Marianne Heske med helt nye briller. Velkommen til en teateromvisning som forener kunst, formidling og komedie som garantert gir deg både et smil om munnen og nye tanker med på veien. Produksjon: Sagliocco Ensemble i samarbeid med Kunstsilo Skuespiller: Guandaline Sagliocco Regi: Anne-Sophie Erichsen Lyddesign: Truls Hannemyr Kostyme: Guro Dale/Kjersti Posti Høgli Tekniker: Rahim Jegham",
+    "url": "kunstsilo.no",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "kunstsilo.no"
+      }
+    ]
+  },
+  {
     "id": "merged-0230b6cd0ec8",
     "title": "LEPROUS",
     "date": "2027-01-14",
@@ -4421,6 +4471,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1756785"
+      }
+    ]
+  },
+  {
+    "id": "merged-1c77fb5b1c6a",
+    "title": "Vi ♥ 80-tallet",
+    "date": "2027-03-05",
+    "time": "20:00",
+    "venue": "Kilden teater og konserthus Teater- og Operasalen",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "En hyllest til 80-tallets udødelige hits! Et stjernelag bestående av Åge Sten Nilsen, Margaret Berger, Ben Adams og Anna-Lisa Kumoji inntar Kilden for å feire tiårets mest ikoniske pop- og rockelåter i en energisk musikalsk fest. Fra synth og powerballader til uforglemmelige stadionhits – her får du låtene som definerte en hel generasjon. Et fyrverkeri av en kveld – med liveband, stjerneartister, korister og et spektakulært sceneshow. Gjør deg klar til å synge med og feire en tid full av farger, energi og udødelige melodier. Velkommen til en hyllest til tiåret som aldri går av moten!",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763027",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763027"
       }
     ]
   },
