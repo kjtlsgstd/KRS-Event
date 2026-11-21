@@ -1,243 +1,5 @@
 [
   {
-    "id": "merged-5de080fc0a16",
-    "title": "DJ Friendly // Vaktbua Klubb",
-    "date": "2026-11-20",
-    "time": "22:00",
-    "venue": "Vaktbua",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "festival"
-    ],
-    "family": false,
-    "price": "",
-    "description": "DJ Friendly spiller house og techno for alle danseglade på Vaktbua fra kl. 22:00! Denne gangen har Friendly med han en ganske grei gjeste-DJ: Freddie! DJ Friendly har spilt på Vaktbua mange ganger, alltid med fullt dansegulv og GOD stemning. Dette sier artisten selv om Vaktbua: - Gjestene gjør Vaktbua til verdens beste minste klubb. DJ Friendly heter egentlig Erik Eriksson, han er født og oppvokst i Stavanger, og bor nå på et gammelt småbruk i indre Agder. Han er nok mest kjent for sine 3000 radiosendinger i løpet av 18 år på NRK P3, der han ukentlig presenterte elektronisk musikk i alle sine former og undersjangere. Mange har nok våknet opp til hans ørevennlige chillout-sendinger tidlig en lørdag- eller søndagsmorgen. DJ Friendly lager fremdeles ukentlige mixer og podcastsendinger for tusenvis av lyttere på nettsider som https://www.mixcloud.com/erik-djfriendly-eriksson/ I tillegg har han nesten 25 års erfaring som klubb-DJ, og har levert en rekke uforglemmelige kvelder både på Vaktbua og andre klubber og festivaler over hele landet. - Jeg liker best å spille ny musikk fra sjangere som funky deep house og melodiøs techno, og drar mer enn gjerne opp stemningen med noen kjente klubbklassikere fra 1990- og 2000-tallet. Men jeg lover å skuffe de som bare vil høre populære slagere fra dagens hitlister, sier DJ Friendly. ID 20 år. Online billettsalg (begrenset antall!) til kl. 22, deretter i døra.",
-    "url": "https://tikkio.com/events/66472",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://tikkio.com/events/66472"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      },
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/66472-dj-friendly-vaktbua-klubb"
-      }
-    ]
-  },
-  {
-    "id": "merged-6b660dbd7cf4",
-    "title": "Dirty Old Town pres: Kristi Brud",
-    "date": "2026-11-20",
-    "time": "22:00",
-    "venue": "KafÃ© Krank",
-    "area": "Kristiansand",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Konsert: Dirty Old Town pres: Kristi Brud pÃ¥ KafÃ© Krank i Kristiansand. Etter braksuksessen med debutalbumet âAlt er nyttâ har Kristi Brud etablert seg som et av de mest spennende rockebandene i Norge. Platen ble belÃ¸nnet med Spellemann for Ã rets Rockeplate i 2024, og pressen var unisont begeistret: VG, Aftenposten, Klassekampen og Bergens Tidende trillet alle terningka Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-1573a09d5346",
-    "title": "JULESHOW MED SVEIN & BJARNE",
-    "date": "2026-11-20",
-    "time": "19:00",
-    "venue": "Teateret Hovedscenen",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Svein & Bjarne er tilbake – denne gangen med et lite dryss jul! Etter en fantastisk mottakelse sist, er Svein & Bjarne tilbake på Teateret – denne gangen på Hovedscenen. Publikum kan glede seg til det samme populære showet som har fått salen til å riste av latter, men denne gangen krydret med noen herlige juleinnslag. To kompiser. Én scene. Uendelig med latter! Svein & Bjarne inviterer til en humorkveld full av sprelske historier og gjenkjennelige situasjoner. Etter flere år i tenkeboksen, hvor den ene alltid har vært positiv og den andre alltid negativ, bestemte plutselig den positive seg for å ta hele skrittet. Den negative måtte da noe motvillig bli med – men nektet plent å ta skrittet. I hvert fall ikke før nærmere jul. Begge er i alle fall sprengklare for show, og kvelden byr på enorme mengder gode tips og triks til et bedre liv og samliv – med en liten dose julestemning på kjøpet. Velkommen til en kveld fylt med latter, gjenkjennelige historier og et lite dryss jul!",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1748346",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1748346"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-b2ca80e3005d",
-    "title": "KARSTEN BLOMVIK – LYKKELIG DEPRIMERT",
-    "date": "2026-11-20",
-    "time": "19:00",
-    "venue": "Teateret Biscenen",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "food",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "«KARSTEN BLOMVIK – LYKKELIG DEPRIMERT» Gladgutten fra «Alle Mot 1», «P3morgen» og «4ETG» setter opp sitt aller første soloshow! Denne gangen går han dypere enn noen gang – bokstavelig talt. I «Lykkelig Deprimert» deler han både de gode tidene og de mørkeste dagene, fra barndommens bekymringsløse glede til de mer brutale realitetene av depresjon og selvmordstanker. Hvordan gikk han fra å være en helt vanlig 10-åring til en suicidal 11-åring? Og hvordan i all verden ble det til et standupshow? Selv om tematikken kan høres alvorlig ut, er dette først og fremst en kveld med humor, varme og gode historier. Fordi noen ganger er det beste vi kan gjøre... å le av det hele.",
-    "url": "https://www.teateret.no/event/karsten-blomvik---lykkelig-deprimert",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.teateret.no/event/karsten-blomvik---lykkelig-deprimert"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-f8d10030cc4d",
-    "title": "Kristi Brud @ Kafé Krank / Laboratoriet",
-    "date": "2026-11-20",
-    "time": "21:00",
-    "venue": "Kafé Krank / Laboratoriet",
-    "area": "Kristiansand",
-    "category": [
-      "culture",
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Etter braksuksessen med debutalbumet \"Alt er nytt\" har Kristi Brud etablert seg som et av de mest spennende rockebandene i Norge. Platen ble belønnet med Spellemann for Årets Rockeplate i 2024, og pressen var unisont begeistret: VG, Aftenposten, Klassekampen og Bergens Tidende trillet alle terningkast 5, og flere medier trakk frem platen som en av årets aller beste utgivelser. Høsten 2025 fulgte Kristi Brud opp den kritikerroste debuten med albumet «Et Fall». Også denne gangen ble bandet møtt med begeistring fra et samlet pressekorps og Spellemann-nominert. Høsten 2026 legger band ut på turné, og med to kritikerroste album i ryggen ligger alt til rette for en høstkveld fylt med intensitet, sterke låter og kompromissløs norsk rock. Arrangementstidspunkt/konsertstart : 21:00 Dørene åpner : 120 min før Varighet : 70 min Servering : Alle rettigheter Aldersgrense : 20 Ledsager : Ledsager gratis uten billett Adkomst : Alle busser, tog og båter stanser i Kvadraturen (sentrum) med kort gangavstand til Kafé Krank. Buss nr 10 går fra Henrik Wergelands gate mot sykehuset, busstopp Fylkeshuset ligger like ved Krank. Rullestol : Ja Parkeringsmuligheter : Ja Linker: Arrangørens nettside Artistens nettside Spotify",
-    "url": "https://www.songkick.com/concerts/43382800-kristi-brud-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat",
-    "source": "Songkick Kristiansand",
-    "sources": [
-      {
-        "name": "Songkick Kristiansand",
-        "url": "https://www.songkick.com/concerts/43382800-kristi-brud-at-kafe-krank-laboratoriet?utm_medium=organic&utm_source=microformat"
-      },
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://www.ticketmaster.no/event/39147479?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
-      }
-    ]
-  },
-  {
-    "id": "merged-670b47463b7d",
-    "title": "LANG DAGS FERD MOT NATT 20.11",
-    "date": "2026-11-20",
-    "time": "19:00",
-    "venue": "Grusomhetens Teater",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "GRUSOMHETENS TEATER PRESENTERER LANG DAGS FERD MOT NATT Av EUGENE O’NEILL REGI: LARS ØYNO Spilles 5. november - 28. november 2026 på Grusomhetens Teater (onsdag-lørdag) Kl.18.00 Forestillingen varer i 4,5 timer (ink. 2 pauser). «Lang dags ferd mot natt» av Eugene O’Neill var inspirasjonskilden til våre to tidligere amerikanske oppførte klassikere «Hvem er redd for Virginia Woolf?» og «En sporvogn til begjær». Slik fullfører vi nå en amerikansk tekstbasert trilogi der den siste er den første i kronologien. Handlingen foregår i 1912 på familien Tyrones landsted i New England. Faren er en aldrende skuespiller som grunnet frykt for fattigdommen har forspilt et sjeldent talent til fordel for kassasuksesser og eiendomsspekulasjon. Hans kone Mary er ved handlingens begynnelse nettopp kommet ut fra en behandlingsinstitusjon for rusmisbrukere. Sønnene James jr. og Edmund søker som faren til alkoholen for å unnvike konfrontasjon med sin skjebne. Yngstesønnen lider dessuten av tæring, en realitet som det ikke snakkes om. Under all den smerte som preger familien hviler avventende noen forløsende ord, og uttrykt ved dagens ende forandres bildet. Medvirkende skuespillere: Sven Nordin, Hanne Dieserud, Filip Stav, Simen Pettersen, Live Noven. Regi: Lars Øyno Scenografi: Bård Lie Thorbjørnsen Lysdesign: Rolf Christian Egseth Lystekniker: Jan Skomakerstuen Lyddesign: Henrik Mojord Kostymedesign: Charlotte Høyem Masker: Trude Sneve Produsent: Nemi Colette Bang Spilles på Grusomhetens Teater Hausmannsgate 34, Oslo fra 5. november t.o.m 28. november 2026 kl. 18.00 (onsdag - lørdag). Støttet av Norsk Kulturdirektorat og Oslo Kommune. For mer informasjon, spørsmål eller gruppebestillinger på 10+ kontakt: Nemi Colette Bang Produsent nemi@grusomhetensteater.no +44 7904455896 www.grusomhetensteater.no/",
-    "url": "https://grusomhetensteater.ticketco.events/no/en/e/lang_dags_ferd_mot_natt_2011",
-    "source": "TicketCo Norge",
-    "sources": [
-      {
-        "name": "TicketCo Norge",
-        "url": "https://grusomhetensteater.ticketco.events/no/en/e/lang_dags_ferd_mot_natt_2011"
-      }
-    ]
-  },
-  {
-    "id": "merged-337baa64cdec",
-    "title": "Lys i mørket - en vinterkonsert med Sound of happiness",
-    "date": "2026-11-20",
-    "time": "18:00",
-    "venue": "Kristiansand Domkirke",
-    "area": "Kristiansand",
-    "category": [
-      "family",
-      "concert"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Hjertelig velkommen til Sound Of Happiness sin vinterkonsert \"Lys i mørket\" Vi har den store glede av å invitere dere inn i Kristiansand domkirke, Fredag 20. november klokka 18:00. Det blir en konsert med varme - og kalde🥶 - toner, om vinter, snø, jul og lyset i mørketiden vi nå går inn i. Gjennom konserten vil egne aktører fra Sound of Happiness opptre, og dere vil se blant annet Happy Choir, bandene Red Dawn og Riders & Roaders og enkeltelever. Vi har også invitert med oss Bjørn Henrik Brandtenborg fra The Voice og Kristiansand Pop-kor som skal dele scenen sammen med oss. Vi gleder oss, og håper å se deg der ⭐🌟 Billetter kjøpes på forhånd, eller i døra Voksen: 150kr Barn: 75kr Ledsager m/bevis: 0kr OBS: Beboere på bolig vil få mulighet for rabatterte billetter via direkte invitasjon til bolig. Ta kontakt med marie@soh.no Dørene åpner 15 minutter før konsertstart. Konsertstart: 18:00 Varighet: omtrent 1,5 time",
-    "url": "www.soh.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "www.soh.no"
-      },
-      {
-        "name": "Tikkio",
-        "url": "https://tikkio.com/events/66221-lys-i-morket"
-      }
-    ]
-  },
-  {
-    "id": "merged-8915a06e51db",
-    "title": "Reisen til julestjernen",
-    "date": "2026-11-20",
-    "time": "",
-    "venue": "Kilden teater og konserthus",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "show"
-    ],
-    "family": true,
-    "price": "",
-    "description": "EN MAGISK JULEKLASSIKER FOR HELE FAMILIEN Når mørket senker seg over landsdelen vår, tennes et velkjent lys i teatersalen: Reisen til julestjernen vender tilbake til Kilden høsten 2026! Sverre Brandts folkekjære juleeventyr, akkompagnert av Johan Halvorsens uforglemmelige musikk, er en av norsk teaterhistories mest spilte stykker – kun slått av Peer Gynt. Med regi av Lars Jacobsen får denne klassiske fortellingen nytt liv på vår scene. Opplev en vakker og fortryllende fortelling om Sonja, en modig pike som trosser snø og mørke for å finne den savnede julestjernen – en stjerne kongen forbannet da hans datter prinsesse Gulltopp forsvant for mange år siden. På reisen møter hun farlige hekser, en slu greve og vennlige hjelpere som leder henne nærmere sannheten. Sonjas mot og tro på julens magi blir nøkkelen til å bringe lys, håp og kjærlighet tilbake til kongeriket. På scenen står Kildens skuespillere side om side med flere titalls barn og unge – sammen håper de å skape ekte teatermagi og julestemning",
-    "url": "https://kilden.com/",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kilden.com/"
-      }
-    ]
-  },
-  {
-    "id": "merged-1f3977ed68ee",
-    "title": "Terje Sporsem og John Brungot, Høy og Mørk",
-    "date": "2026-11-20",
-    "time": "18:30",
-    "venue": "Kilden teater og konserthus Konsertsalen",
-    "area": "Kristiansand S",
-    "category": [
-      "family",
-      "concert",
-      "show",
-      "culture"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Høy og Mørk med Terje Sporsem og John Brungot To av Norges mest populære komikere har slått seg sammen med ett mål for øye: Å gi deg et skikkelig artig show! Og DET trengs når verden går mer og mer av hengslene. Høy og Mørk er en forestilling spekket med stand-up, musikk og parodier, og vi kan love at latteren sitter løst når John og Terje begir seg inn i temaer som høye, mørke maktsyke ledere, beredskap, generasjonskonflikter og frykten for å plutselig være den eldste i familien. Hvorfor vil noen endre verden etter fylte 75? Var livet mindre komplisert på 80- og 90-tallet? Og kan man fake seg gjennom det meste i livet? Terje og John tar for seg noen av de store og viktige spørsmålene i livet – men også ting du ikke visste at du trengte svar på. Gjør deg klar for en kveld spekket med masse latter og god stemning! John Brungot er en av Norges mest ettertraktede humorister og har lang og bred erfaring fra både scene, TV og film. Han har vunnet prisen \"Årets TV-komiker\" under Komiprisen og har vært med i humorprogrammer som \"Torsdag Kveld Fra Nydalen\", \"Nårje\" og \"Søstrene ser på TV\". John har også vært programleder for flere store TV-suksesser. For tiden er John å se i \"Humoretaten\" på NRK. Terje Sporsem er en av landets mest folkekjære standup-komikere og har satt opp flere soloshow som har høstet toppkarakterer og vises fortsatt jevnlig på NRK. Han har også en lang tv-karriere bak seg og har vært programleder for en rekke programmer og har også gjort seg bemerket som deltaker i flere populære konsepter. Han har blitt tildelt \"Stå opp-prisen\" og er mange ganger Komipris-nominert. Terje feirer 30 år som komiker i 2026. Regi: Martin Beyer-Olsen Norgespremiere 8. januar på Christiania Teater",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1709403",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1709403"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
     "id": "merged-57a50fc455e2",
     "title": "2001: A SPACE ODYSSEY",
     "date": "2026-11-21",
@@ -256,28 +18,6 @@
       {
         "name": "Tikkio",
         "url": "https://tikkio.com/events/66071-2001-a-space-odyssey"
-      }
-    ]
-  },
-  {
-    "id": "merged-4ba513e48377",
-    "title": "Barnas dag i Kunstsilo",
-    "date": "2026-11-21",
-    "time": "11:00",
-    "venue": "Kunstsilo",
-    "area": "Kristiansand",
-    "category": [
-      "family"
-    ],
-    "family": true,
-    "price": "",
-    "description": "Ta med hele familien til en magisk førjulsdag i Kunstsilo! Vi fyller huset med kreative aktiviteter, spennende opplevelser og ekte julestemning for store og små. Lag ditt eget snøfnugg! I S-Lab venter et magisk vinterlandskap fylt med lys, lyd og lek! Her kan barna lage digitale snøfnugg som danser over veggene, skape vintermusikk og utforske tre eventyrlige juletelt-trær. Kryp inn, lek med farger eller finn en koselig bok. Kl. 12.00 og 14.00 inviterer vi til fortellerstund for hele familien. Juleverksted, pepperkaker og kunstjakt Slipp kreativiteten løs i vårt gratis familieverksted, hvor vi lager stemningsfulle lykter. I Silosalen byr vi på pepperkaker og gløgg, og barna kan glede seg til ballonger! Vil dere utforske kunsten? Bli med på Julens Topptur, en morsom familieløype med oppgaver og aktiviteter gjennom hele museet. På toppen venter en smakfull premie i Panorama! Dagens program Kl. 11.00–17.00 Gratis kreativt familieverksted i Multisalen Pepperkaker og gløgg i Silosalen (så langt beholdningen rekker) Ballonger til barna Julens Topptur (egen billett) Kl. 12.00 og 14.00 Fortellerstund i S-Lab Barn har gratis inngang til Kunstsilos utstillinger, mens voksne betaler ordinær entré. Enkelte aktiviteter krever egen billett. Velkommen til en dag full av juleglede, lek og magiske øyeblikk!",
-    "url": "kunstsilo.no",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "kunstsilo.no"
       }
     ]
   },
@@ -323,28 +63,6 @@
     "family": false,
     "price": "",
     "description": "Konsert: Dirty Old Town pres: The Impossible Green + support: Velcro Dog pÃ¥ KafÃ© Krank i Kristiansand. The Impossible Green skal ut pÃ¥ hÃ¸stturnÃ© igjen og selvsagt har vi invitert dem tilbake til Kristiansand og KafÃ© Krank! The Impossible Green gjÃ¸r det igjen! Etter et hesblesende fjorÃ¥r med over 60 konserter land og strand rundt, fra de stÃ¸rste festivalene til de minste klubbene, kommer bandet med ny Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-5fb6f305ebdb",
-    "title": "KI, det kreativt skapende og problemer med det tellende - LÃ¸rdagsuniversitetet i Kristiansand",
-    "date": "2026-11-21",
-    "time": "14:00",
-    "venue": "Teateret",
-    "area": "Kristiansand",
-    "category": [
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Annet: KI, det kreativt skapende og problemer med det tellende - LÃ¸rdagsuniversitetet i Kristiansand pÃ¥ Teateret i Kristiansand. LÃ¸rdagsuniversitetet er et tilbud om populÃ¦rvitenskapelige foredrag av forskere ved Universitetet i Agder. Foredragene blir holdt med utgangspunkt i egen forskning og/eller egne erfaringer med utdanning og forskning. Vi lover varierte tema og hÃ¸rverdige foredragsholdere. Aktuelle tema blir presenter Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
     "url": "https://kulturikveld.no/arrangementer/kristiansand",
     "source": "Kultur i kveld - Kristiansand",
     "sources": [
@@ -500,6 +218,30 @@
     ]
   },
   {
+    "id": "merged-f8a0b5577611",
+    "title": "Todagers workshop med Viggo Venn",
+    "date": "2026-11-21",
+    "time": "13:00",
+    "venue": "Cornerteateret",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "festival",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Todagers workshop med Viggo Venn ~Tilstedev ærelse p å scenen, kontakt med publikum, komisk timing og idioti! Bli med på en helg som introduserer deg til klovnens verden av lek, latter og fullstendig idioti. I workshoppen leter vi etter én ting: hva som gjør nettopp deg morsom på din unike måte. Praktiske detaljer: L ø rdag 21. november kl. 12.00–15.00 S ø ndag 22. november kl. 12.00–16.00 Antall deltakere: Minimum 16, maksimum 24 deltakere. Pris: kr 1800,- + ticketco-avgift P å melding: T icketco Ved sp ø rsm å l ta kontakt med: jeanette@teatersenter.no / berit@proscen.no Kurset inkluderer en fribillett til forestillingen Viggo Vennel ø s på Cornerteateret l ø rdag 21. november kl 19.00 (varighet 70 min.) Kurset arrangeres i samarbeid med Vestlandske Teatersenter, Proscen, SKUDA (Skuespiller- og danseralliansen) og Norsk Skuespillersenter. Kursinnhold: L ø rdag 21. november, 3 timer — Tilstedev ærelse p å scenen: Vi begynner med kroppen. Vi skrur til utstr å lingen din på scenen, kontakten med publikum og evnen til å f ø lge de komiske impulsene dine i det de dukker opp — f ø r hodet rekker å stoppe dem. S ø ndag 22. november, 4 timer — Klovn og Idioti: Dag 2 begynner vi å snuse p å klovnen og idiotien i verden. (selv om to dager er alt for kort og jeg skulle ø nske vi hadde mer tid!) Klovnen er en komplett idiot, men alltid med en enorm glede over å stå på scenen og en helt egen kontakt med publikum. Gjennom feil og fiasko kan klovnen vise publikum sin s å rbarhet. Med varhet og omsorg for publikum kan klovnen dele feilene sine — det menneskelige — og skape en spesiell kontakt med publikum.Bygger du videre på den kontakten, blir klovnen helt fri til å mislykkes, v æ re d årlig, og f å publikum til å le med magen. Da snakker vi om å virkelig le. Mye. Viggo som instrukt ø r: Viggo studerte to år ved É cole Philippe Gaulier i Paris — klovneskolen bak navn som Sacha Baron Cohen, Emma Thompson og Helena Bonham Carter — og har senere undervist ved samme skole. Han har undervist i klovn ved britiske skuespillerutdanninger som West London University, Drama Studio London, ArtsEd London, Bath Spa University og York University. Han har også undervist p å Melbourne International Comedy Festival, Sydney Comedy Festival, Zulu Comedy Festival i København, The Lyric Hyperion i Los Angeles — og n å sist for improvisat ører, komikere og skuespillere i New York. Hvem passer kurset for: Workshoppen er for scenekunstnere som stå r på scenen eller har et genuint ø nske om å stå på scenen. Det kan v ære Stand-up-komikere, skuespillere, improvisatø rer, musikere, klovner, akrobater eller andre scenekunstnere som vil kvesse humoren, finpusse sceneutstr å lingen og finne friheten til å v æ re dum, teit, morsom og fri på scenen. NB. Aldersgrense 18 år. Dette er et trygt sted å leke, ha det g ø y og ta sjanser som kunstner. Regn med å v æ re på gulvet, ta store sjanser, v æ re fullstendig idiotisk, le mye — og bli n å del ø st kritisert av han med det hyggelige etternavnet Venn. Ingen forkunnskaper i klovn kreves, men det passer best for ut ø vere eller folk som st å r, eller har lyst til å stå på en scene. « En klovneworkshop er det som forandret livet mitt. Den fikk meg ut av hodet og inn i latterens og klovnens verden. Det er derfor jeg elsker å undervise. » — Viggo Venn",
+    "url": "https://vlteatersenter.ticketco.events/no/nb/e/kursworkshop_med_viggo_venn",
+    "source": "TicketCo Norge",
+    "sources": [
+      {
+        "name": "TicketCo Norge",
+        "url": "https://vlteatersenter.ticketco.events/no/nb/e/kursworkshop_med_viggo_venn"
+      }
+    ]
+  },
+  {
     "id": "merged-af4d31043c52",
     "title": "Wrath + Son of a Shotgun",
     "date": "2026-11-21",
@@ -524,6 +266,10 @@
       {
         "name": "Kultur i kveld - Kristiansand",
         "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      },
+      {
+        "name": "Tikkio",
+        "url": "https://tikkio.com/events/66490-wrath-son-of-a-shotgun"
       }
     ]
   },
@@ -865,6 +611,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1712923"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -876,7 +626,8 @@
     "venue": "Kilden teater og konserthus Multisalen",
     "area": "Kristiansand S",
     "category": [
-      "show"
+      "show",
+      "culture"
     ],
     "family": false,
     "price": "",
@@ -887,6 +638,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1731546"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -910,6 +665,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1723484"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -933,6 +692,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/66671"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -978,6 +741,28 @@
       {
         "name": "Songkick Kristiansand",
         "url": "https://www.songkick.com/concerts/43257262-kalandra-at-kick-kulturscene?utm_medium=organic&utm_source=microformat"
+      }
+    ]
+  },
+  {
+    "id": "merged-cdc154776bd7",
+    "title": "Klaskefar og Dundrimus - (et soloshow med to personer)",
+    "date": "2026-11-27",
+    "time": "21:00",
+    "venue": "Teateret",
+    "area": "Kristiansand",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Humor: Klaskefar og Dundrimus - (et soloshow med to personer) pÃ¥ Teateret i Kristiansand. KLASKeFAR OG DUNDRIMUS â ET SOLOSHOW MED TO PERSONER Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
+    "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1037,18 +822,23 @@
     "id": "merged-20082d2f31f8",
     "title": "Wallmans On Tour",
     "date": "2026-11-27",
-    "time": "",
-    "venue": "KRS LIVE",
-    "area": "Kristiansand S",
+    "time": "20:30",
+    "venue": "KRS Live",
+    "area": "Kristiansand",
     "category": [
+      "concert",
       "show"
     ],
     "family": false,
     "price": "",
-    "description": "Skandinavias største og råeste dinnershow. En magisk showopplevelse! GLEDE, FØLELSER, LIDENSKAP, ENERGI og ROCK'N ROLL. En helaftens fest du sent vil glemme. Dørene åpner : 1,5 time før Varighet : 210 min Servering : Alle rettigheter Aldersgrense : 20 Ledsager : Full pris Plassjusteringer kan forekomme Book overnatting på Clarion her Ønsker du å få tilsendt giro for kjøp av flere enn 10 billetter, kontakt vår gruppeavdeling her",
-    "url": "https://www.ticketmaster.no/event/1782472272?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "description": "Teater/Musikal: Wallmans On Tour pÃ¥ KRS Live i Kristiansand. Skandinavias stÃ¸rste og rÃ¥este dinnershow. En magisk showopplevelse! GLEDE, FÃLELSER, LIDENSKAP, ENERGI og ROCK'N ROLL. En helaftens fest du sent vil glemme. DÃ¸rene Ã¥pner : 1,5 time fÃ¸r Varighet : 210 min Servering : Alle rettigheter Aldersgrense : 20 Ledsager : Full pris Plassjusteringer kan foreko Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
+    "url": "https://kulturikveld.no/arrangementer/kristiansand",
+    "source": "Kultur i kveld - Kristiansand",
     "sources": [
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
+      },
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.ticketmaster.no/event/1782472272?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
@@ -3889,7 +3679,7 @@
     "id": "merged-be9aab6dcf60",
     "title": "Verdens Beste show 3",
     "date": "2027-02-06",
-    "time": "21:00",
+    "time": "19:00",
     "venue": "Teateret Hovedscenen",
     "area": "Kristiansand S",
     "category": [
