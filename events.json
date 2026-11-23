@@ -1,54 +1,5 @@
 [
   {
-    "id": "merged-60aac9438c27",
-    "title": "Ein slags julekonsert med Tønes og Ingvar Hovland",
-    "date": "2026-11-22",
-    "time": "18:00",
-    "venue": "Kilden teater og konserthus Konsertsalen",
-    "area": "Kristiansand S",
-    "category": [
-      "concert",
-      "show"
-    ],
-    "family": false,
-    "price": "",
-    "description": "I år gjør me det heilt enkelt: Ein slags julekonsert med Tønes og Ingvar Hovland I 20 år har Frank «Tønes» Tønnesen og Ingvar Hovland arrangert juleforestilling. Sammen har de dykket i julefeiringens sanne utfordringer: hvor skal man være på julaften, hvem gir gave til hvem, hva er egentlig et godkjent juletre, og er det egentlig greit å pynte det i november? Svaret på det siste er selvsagt et rungende englekor av nei. Resten er kunnskap Tønes og Hovland har samlet gjennom årene og nå satt sammen til en ny konsertforestilling, der de blant annet får hjelp fra Sigfrida og Johanne. «I år gjør me det heilt enkelt» er julesanger for deg som kanskje ikke synes julen skal handle om sang og konserter i det hele tatt. Om gaveoverlevering, gulvkulde og om det blir feiring hos tante Ingeborg eller tante Gerd. Samt en om at den blankeste stjerna likevel gir håp. Ingvar Hovland er Egersunds nasjonalpoet og har skrevet sangtekster for en rekke norske artister og band. Frank Tønnesen har en unik evne til å observere og formidle hverdagsligheter og livet i en blanding av subtil humor og underfundig alvor. Ganske mange kaller ham Tønes.",
-    "url": "https://kvadraturen.no/kalender/hendelse?id=1741209",
-    "source": "Kvadraturen - Hva skjer i Kristiansand",
-    "sources": [
-      {
-        "name": "Kvadraturen - Hva skjer i Kristiansand",
-        "url": "https://kvadraturen.no/kalender/hendelse?id=1741209"
-      },
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
-    "id": "merged-a695df4c0212",
-    "title": "Kammerkonserter i Agder: VÃ¥gsbygd kirke",
-    "date": "2026-11-22",
-    "time": "20:00",
-    "venue": "Kilden",
-    "area": "Kristiansand",
-    "category": [
-      "concert"
-    ],
-    "family": false,
-    "price": "",
-    "description": "Konsert: Kammerkonserter i Agder: VÃ¥gsbygd kirke pÃ¥ Kilden i Kristiansand. Trompet og piano Direkte eventlenke fra kilden svarte 404, så lenken går til kildeoversikten.",
-    "url": "https://kulturikveld.no/arrangementer/kristiansand",
-    "source": "Kultur i kveld - Kristiansand",
-    "sources": [
-      {
-        "name": "Kultur i kveld - Kristiansand",
-        "url": "https://kulturikveld.no/arrangementer/kristiansand"
-      }
-    ]
-  },
-  {
     "id": "merged-ed0fc82b7d67",
     "title": "DR. MABUSES TESTAMENTE",
     "date": "2026-11-24",
@@ -681,7 +632,7 @@
     ],
     "family": false,
     "price": "",
-    "description": "Opplev den historisk ejuletreutstillingen i Rådhuskvartalet i Kristiansand. Utstillingen viser tidstypiske juletrepynting fra ulike tidsepoker og sosiale lag. Utstillingen er i regi av Vest Agder Museet, og står utstilt i Rådhuskvartalet i hele desember. Det er gratis inngang. Utstillingen står til 20. desember. Åpningstider: Lørdag og søndag kl. 12-18. Mandag, onsdag og fredag: kl. 08.30-15. Tirsdag og torsdag: kl. 08.30-21",
+    "description": "Opplev den historiske juletreutstillingen i Rådhuskvartalet i Kristiansand. Utstillingen viser tidstypiske juletrepynting fra ulike tidsepoker og sosiale lag. Utstillingen er i regi av Vest Agder Museet, og står utstilt i Rådhuskvartalet i hele desember. Det er gratis inngang. Utstillingen står til 20. desember. Åpningstider: Lørdag og søndag kl. 12-18. Mandag, onsdag og fredag: kl. 08.30-15. Tirsdag og torsdag: kl. 08.30-21",
     "url": "www.julebyenkristiansand.no",
     "source": "Kvadraturen - Hva skjer i Kristiansand",
     "sources": [
@@ -700,7 +651,8 @@
     "area": "Kristiansand S",
     "category": [
       "concert",
-      "festival"
+      "festival",
+      "show"
     ],
     "family": false,
     "price": "",
@@ -711,6 +663,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1748608"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -860,7 +816,8 @@
     "venue": "Vaktbua",
     "area": "Kristiansand S",
     "category": [
-      "culture"
+      "culture",
+      "concert"
     ],
     "family": false,
     "price": "",
@@ -871,6 +828,10 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://tikkio.com/events/66998"
+      },
+      {
+        "name": "Kultur i kveld - Kristiansand",
+        "url": "https://kulturikveld.no/arrangementer/kristiansand"
       }
     ]
   },
@@ -1722,6 +1683,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1712910"
+      }
+    ]
+  },
+  {
+    "id": "merged-bf98c0629fa2",
+    "title": "GINKLUBBEN BAKGÅRDEN BAR",
+    "date": "2026-12-10",
+    "time": "19:00",
+    "venue": "Kristiansand S",
+    "area": "Kristiansand S",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "GinSkolen på Bakgården Bar Ginklubben kommer endelig hjem til Bakgården Bar! Bli med på en smakfull og lærerik kveld der vi utforsker ginens spennende verden. Gjennom kvelden får du oppleve fire nøye utvalgte ginsmakinger, inkludert noe å bite i, en hyggelig overraskelse og en stemningsfull Grand Finale. Vi smaker på ulike gin-varianter, lærer om deres historie, særpreg og hvordan de best kombineres med tonic eller brukes i cocktails. Enten du er en erfaren gin-entusiast eller helt ny i faget, er dette en gyllen mulighet til å friske opp kunnskapen eller lære noe nytt. Det serveres også litt godt å bite i underveis, slik at smaksløkene holdes i toppform gjennom hele kvelden. Kveldens vertskap består av Terje fra Bakgården Bar og Mr. Botanical, Gordon, som trygt og underholdende leder dere gjennom programmet med gode historier, faglig innsikt og selvfølgelig mange gode smaksopplevelser. Velkommen til en kveld fylt med smak, kunnskap og godt selskap på Bakgården Bar! ✨ Begrenset antall plasser. Sikre deg billett i god tid.",
+    "url": "bakgardenbar.no",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "bakgardenbar.no"
       }
     ]
   },
@@ -2590,6 +2573,28 @@
     ]
   },
   {
+    "id": "merged-647ff8edbb5c",
+    "title": "MUSIKKBINGO- SPECIAL CHRISTMAS EDITION",
+    "date": "2026-12-26",
+    "time": "18:45",
+    "venue": "Kristiansand",
+    "area": "Kristiansand",
+    "category": [
+      "culture"
+    ],
+    "family": false,
+    "price": "",
+    "description": "FESTEN FORTSETTER Tradisjonen tro, vi kjører Romjulsbingo som de 10 foregående år Bli med og vinn tusenvis av kroner! Bakgårdens Musikkbingo feiret 10 år med full trøkk, uforglemmelig stemning og selvfølgelig – sjansen til å stikke av med de feteste premier! Gjør deg klar for en kveld fylt med hitlåter, allsang, musikalske utfordringer og muligheten til å vinne både gavekort og mye cash Kjenn igjen låtene – kryss av – vinn – og bli en del av byens gøyeste bingo!! Bordet ditt er reservert fra kl 18:45",
+    "url": "bakgardenbar.no",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "bakgardenbar.no"
+      }
+    ]
+  },
+  {
     "id": "merged-e99968c9a9b1",
     "title": "ROSA ROOM @ KRS LIVE 2026 @ KRS Live",
     "date": "2026-12-26",
@@ -2601,13 +2606,41 @@
     ],
     "family": false,
     "price": "",
-    "description": "ROSA ROOM @ KRS LIVE 2026 at KRS Live at 2026-12-26T21:00:00+0100",
+    "description": "Velkommen tilbake til Norges største boiler room, på KRS Live! Følg @rosaroom.no på Instagram for artist-lineup & oppdateringer. Arrangementstidspunkt/konsertstart : 21:00 Dørene åpner : 60 min før Servering : Øl / Vin Alle rettigheter Aldersgrense : 20 Ledsager : Ledsager gratis med billett - Begrenset antall. Vis gyldig offisielt ledsagerbevis Rullestol : Ja Parkeringsmuligheter : Nei",
     "url": "https://www.songkick.com/festivals/3815207-rosa-room-krs-live/id/43533348-rosa-room--krs-live-2026?utm_medium=organic&utm_source=microformat",
     "source": "Songkick Kristiansand",
     "sources": [
       {
         "name": "Songkick Kristiansand",
         "url": "https://www.songkick.com/festivals/3815207-rosa-room-krs-live/id/43533348-rosa-room--krs-live-2026?utm_medium=organic&utm_source=microformat"
+      },
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://www.ticketmaster.no/event/505711744?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
+      }
+    ]
+  },
+  {
+    "id": "merged-a2533102b1da",
+    "title": "THE GOLDEN NIGHT",
+    "date": "2026-12-26",
+    "time": "21:00",
+    "venue": "Teateret Foajeen",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "food",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "✨ EN EXCLUSIVE CHRISTMAS PARTY ✨ Gjør deg klar for en magisk og eksklusiv julefeiring! Opplev en uforglemmelig kveld fylt med vakker juledekor, elegante omgivelser og ekte julestemning. Nyt en festlig atmosfære med en fantastisk musikalsk opplevelse og spektakulære, profesjonelle danseshow som tilfører kvelden ekstra eleganse. LINE-UP Inti Ortega – DJ Obada Alaas – DJ Fatjon Dakar – Live saksofon David Goncalves – Live trommer BORDRESERVASJON Vi tilbyr reserverte bord med drikkepakke, lette matretter og snacks. For booking og mer informasjon: Telefon: +47 477 28 129 ✉️ E-post: GO.VIBE@OUTLOOK.COM Vi sees! ✨",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763857",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763857"
       }
     ]
   },
@@ -2888,7 +2921,6 @@
     "venue": "Kilden teater og konserthus Dansesalen",
     "area": "Kristiansand",
     "category": [
-      "family",
       "show"
     ],
     "family": false,
@@ -3251,6 +3283,29 @@
     ]
   },
   {
+    "id": "merged-73225884d922",
+    "title": "Skammens Diskotek 2027",
+    "date": "2027-01-29",
+    "time": "21:00",
+    "venue": "Teateret Biscenen",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "DJ REFORM94 – ÅTERVENDER HEM!Fredag 29. januar 2027 | Teateret, Kristiansand Borte bra, men hjemmefest best! Etter å ha spredd 90-tallsfeber over hele Norge vender DJ Reform94 endelig hjem til Kristiansand og Teateret! Fredag 29. januar skrur vi klokka tilbake til tiåret da dansegulvet var hellig, musikken udødelig og festen aldri tok slutt. Forvent en eksplosiv miks av 90-tallets største hits, guilty pleasures, UV-lys, strobber og lasere! Her er det lov å synge falskt, danse stygt og elske musikken du vanligvis hører på i skjul. Samle den gamle gjengen, finn frem dine verste dansetrinn og gjør deg klar for en nostalgisk helaften! PRAKTISK INFO Teateret, Kristiansand Fredag 29. januar 2027 Dørene åpner: 20:30 (Hovedbaren er åpent fra 18:00) DJ Reform94 fra: 21:00 Slutt: 01:00 Aldersgrense: 20 år ️ Billetter: Forhåndssalg: 250 kr + avgift I døra: 300 kr + avgift (dersom det ikke er utsolgt)",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763858",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763858"
+      }
+    ]
+  },
+  {
     "id": "merged-5a5c3134190d",
     "title": "D.O.T & Heimevernet pres: Grunnleggende praktisk overlevelse - fullt",
     "date": "2027-01-30",
@@ -3353,7 +3408,6 @@
     "venue": "Kilden teater og konserthus Dansesalen",
     "area": "Kristiansand",
     "category": [
-      "family",
       "show"
     ],
     "family": false,
@@ -3544,6 +3598,29 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1739754"
+      }
+    ]
+  },
+  {
+    "id": "merged-9fce17c46f26",
+    "title": "Captain Frodos Magiske Sirkus",
+    "date": "2027-02-06",
+    "time": "12:00",
+    "venue": "Kilden teater og konserthus Teater- og Operasalen",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "show"
+    ],
+    "family": true,
+    "price": "",
+    "description": "Captain Frodos Magiske Sirkus er en forrykende festlig forestilling for hele familien! Magi og sirkus i skjønn forening, kokt sammen med god gammeldags tivolimoro. Her får barna hyle av begeistring, mens de voksne tørker tårer av latter. Baktanken med forestillingen er å gi barna større tro på sin egen fantasi og kreativitet. Gjennom trylling og publikumsdeltakelse får publikum oppleve hvordan umulige ideer kan bli til virkelighet. Captain Frodo oppfordrer alle til å ta drømmene sine på alvor! Sirkusdirektøren er verdensartisten Captain Frodo, som har opptrådt med Cirque du Soleil i Las Vegas, og som mange kjenner fra Dyreparkens Sirkus Jesper. Dette er ekte underholdning for ekte folk, en morsom og magisk opplevelse for hele familien, med massevis av hjerte! Passer for hele familien, fra 4 år og oppover.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763859",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763859"
       }
     ]
   },
@@ -3840,6 +3917,30 @@
     ]
   },
   {
+    "id": "merged-5a7eed0c1f3d",
+    "title": "Urban Circus – Showbrødrene Mathias & Benjamin",
+    "date": "2027-02-20",
+    "time": "13:00",
+    "venue": "Kilden teater og konserthus Teater- og Operasalen",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "food",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Hold deg fast! Showbrødrene Mathias & Benjamin byr på sjonglering i verdensklasse, vågale sprell, stunts og tryllerier, servert med en god dose humor. Og du vet aldri hvilke andre overraskelser de har på lur! Med over 20 år på scenen sammen og flere verdensrekorder i sjonglering er brødrene klare for å imponere både små og store. Gjør deg klar for et sirkusshow du neppe har sett maken til! Passer for alle fra 3 år.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763868",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763868"
+      }
+    ]
+  },
+  {
     "id": "merged-7369a4921431",
     "title": "Svanesjøen",
     "date": "2027-02-23",
@@ -3915,7 +4016,7 @@
     "venue": "Kilden teater og konserthus Dansesalen",
     "area": "Kristiansand S",
     "category": [
-      "family"
+      "culture"
     ],
     "family": false,
     "price": "",
@@ -4161,6 +4262,30 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1740036"
+      }
+    ]
+  },
+  {
+    "id": "merged-0f2dde2421cb",
+    "title": "Bestevenner",
+    "date": "2027-03-06",
+    "time": "13:00",
+    "venue": "Kilden teater og konserthus Dansesalen",
+    "area": "Kristiansand",
+    "category": [
+      "family",
+      "concert",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Bestevenner av Lars Vik En skakk teaterkonsert om vennskap. Hva er egentlig en ekte venn? Eller vennskap? Og hvordan reparerer man et vennskap som har gått i tusen knas? Tøddel og Tilde har sluttet i det store orkesteret. Men hva gjør vel det? Begge ser ut til å trives som omreisende underholdere. Så fort de to kumpanene finner et passende publikum, setter de i gang. Med seg har de en håndfull strengeinstrumenter, en solid dose spilleglede og et arabisk sagn. Om vennskap. På scenen står bestevennene Henrik Bøe Larsen og Tobias Vik, som de siste 25 årene har ledd og spilt teater sammen. Musikk: Guttorm Guttormsen Originaleventyr: Walid Kubasi Fra 4 år Varighet: 40 minutter",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763870",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763870"
       }
     ]
   },
@@ -4649,6 +4774,30 @@
     ]
   },
   {
+    "id": "merged-2ccae5eceaf2",
+    "title": "Bzz bzz DADA dA bee",
+    "date": "2027-03-20",
+    "time": "13:00",
+    "venue": "Kilden teater og konserthus Multisalen",
+    "area": "Kristiansand S",
+    "category": [
+      "family",
+      "food",
+      "show"
+    ],
+    "family": true,
+    "price": "",
+    "description": "Bzz bzz DADA dA bee Lekende og lærerikt om bienes liv Bzz bzz DADA dA bee inviterer oss inn i bikuben og en verden fylt med dans, musikk, sang og lyddikt. To bier kommer ut av puppene sine og er med en gang klare til å begynne å arbeide. Bikuben er nemlig avhengig av at alle biene samarbeider for å ta vare på den. Sammen med den syngende, selvopptatte biedronningen møter de morsomme og forunderlige situasjoner. I en forestilling med fengende dans og en sjarmerende og teatral historie blåses naturen opp i fargerikt storformat, og bienes livssyklus følges helt til veis ende. Forestillingen er inspirert av fenomenet «bienes dans». Dette er bienes egen måte å kommunisere på, og gjennom denne «dansen» viser de hverandre hvor de beste blomstene er. Samtidig minner forestillingen oss om hvor utrolige og viktige disse små skapningene er, og om ansvaret vi har for å passe på dem. Det er også mye vi kan lære av måten de tar seg av hverandre og samarbeider på, og her kommer det frem på herlig lekent vis. Passer for barn fra 3 år og oppover, og egner seg godt som familieforestilling. Idé/koreografi/regi: Inger Cecilie Bertrán de Lis Dramaturgi og regi: Robert Skjærstad Komponist og musiker: Vidar Løvstad Dansere: Biedronning: Cecilie Lindeman Steen / Inger Cecilie Bertrán de Lis Biejente: Torill Kolsrud / Vilja Kvasny Biegutt: Daniel Rodrigo Qvale / Per Anders Kraudy Solli Scenografi: Inger Cecilie Bertrán de Lis og Robert Skjærstad Liten bie: Ida Ravn Blomster: Ida Ravn og John Grønnvoll, etter originaldesign av Mari Lotherington Baktepper: Hilde Skaffloth Kostymer: Lillian Baur Lysdesign: Daniel Kolstad Gimle Produsent og produksjon: ICB Produksjoner Co-produksjon: Dansens Hus (2013) Urpremiere: Dansens Hus, 2013 Takk til Riksteatret for RiksOpphold, bruk av verksted, teknisk bistand og hjelp fra deres fagarbeidere. Forestillingen presenteres i samarbeid med Dansenett Norge.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763871",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763871"
+      }
+    ]
+  },
+  {
     "id": "merged-cc87622bed36",
     "title": "Queen – Golden Years",
     "date": "2027-03-20",
@@ -5030,6 +5179,30 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://www.ticketmaster.no/event/467337646?language=no-no&track=DiscoveryAPI&camefrom=TM-INTL-NO-VisitKristiansand&subchannel_id=1"
+      }
+    ]
+  },
+  {
+    "id": "merged-902cfcf3f448",
+    "title": "ARJA – In Concert",
+    "date": "2027-04-23",
+    "time": "19:00",
+    "venue": "Kilden teater og konserthus Konsertsalen",
+    "area": "Kristiansand",
+    "category": [
+      "concert",
+      "food",
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Når Arja Saijonmaa begynner å synge, er det stille i konsertsalen. Slik har det vært i over 50 år, og slik er det fortsatt. Med en karriere som strekker seg over mer enn fem tiår, fortsetter Arja Saijonmaa å overraske og fornye seg selv. Nå presenterer hun ARJA, en ny konsertforestilling hvor hennes musikalitet, personlighet og rike artistliv vil bli presentert i et nytt og eksklusivt format. Det er Arja slik vi kjenner henne, men også en Arja vi ennå ikke har møtt. Sammen med sine håndplukkede musikere inviterer Arja deg til en nær og personlig konsert hvor temperamentet og dramaet i gresk musikk møter noen av sangene som har gjort henne til en av Nordens mest elskede artister. Gjennom musikk og historier tar hun publikum med på en reise gjennom en kunstners liv preget av sterke møter, mot og en urokkelig tro på musikkens evne til å berøre publikum. Fra de store internasjonale scenene til nære musikalske møter har hun alltid gått sin egen vei. I ARJA tar stemmen, personligheten og musikken hennes kontroll over hele scenen, i en elegant og intim setting. En konsert fylt med varme, lidenskap og musikalsk briljans, med en av våre aller største scenepersonligheter. Presentert av Krall Entertainment",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763856",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763856"
       }
     ]
   },
@@ -5668,6 +5841,28 @@
       {
         "name": "Kvadraturen - Hva skjer i Kristiansand",
         "url": "https://kvadraturen.no/kalender/hendelse?id=1739634"
+      }
+    ]
+  },
+  {
+    "id": "merged-cd935c4c69e5",
+    "title": "FØKK «Et Vekkelsesmøte»",
+    "date": "2027-08-26",
+    "time": "19:00",
+    "venue": "Kilden teater og konserthus Multisalen",
+    "area": "Kristiansand S",
+    "category": [
+      "show"
+    ],
+    "family": false,
+    "price": "",
+    "description": "Har du lagt merke til det? At du tar deg i å være lei av ting du før pleide å finne deg i? Får du lyst til å si «FØKK IT»? Da kan det hende at Føkk-alderen har meldt sin ankomst. Det er den magiske tiden når du er ferdig med å være snill pike og stadig oftere får lyst til å si ifra. Men det er ikke gjort i en håndvending når du har brukt et helt liv på å være flink, grei og tilpasningsdyktig. Hvordan i all verden havnet vi her, og enda viktigere: Hva gjør vi nå? Dette er et show fylt av latter, gjenkjennelse og befriende ærlighet. Her får du humor med brodd, noen alvorlige øyeblikk, nydelige sanger av Ingvild Nagell-Dahl, flere a-ha-opplevelser, og kanskje til og med lyst til å reise deg, løfte armene og rope halleluja! For nå, kjære deg, er det DIN tid. Dette er et ekte feelgood-show. Et vekkelsesmøte av de sjeldne. Kom som du er, og gå hjem litt friere, litt modigere og med et stort smil om munnen. Hjertelig velkommen. Dette vil du ikke gå glipp av.",
+    "url": "https://kvadraturen.no/kalender/hendelse?id=1763676",
+    "source": "Kvadraturen - Hva skjer i Kristiansand",
+    "sources": [
+      {
+        "name": "Kvadraturen - Hva skjer i Kristiansand",
+        "url": "https://kvadraturen.no/kalender/hendelse?id=1763676"
       }
     ]
   },
